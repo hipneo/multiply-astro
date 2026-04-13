@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <!-- Glow at shared origin (left) -->
+    <radialGradient id="glowOrigin" cx="12%" cy="72%" r="36%">
+      <stop offset="0%" stop-color="#E8A84C" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#E8A84C" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Glow at upper-path destination (top-right) -->
+    <radialGradient id="glowUpper" cx="90%" cy="12%" r="38%">
+      <stop offset="0%" stop-color="#E8A84C" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#E8A84C" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Glow at lower-path destination (bottom-right) -->
+    <radialGradient id="glowLower" cx="88%" cy="88%" r="32%">
+      <stop offset="0%" stop-color="#E8A84C" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#E8A84C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ── BASE ───────────────────────────────────────── -->
+  <rect width="1200" height="630" fill="#0E0E0C"/>
+  <rect width="1200" height="630" fill="url(#glowOrigin)"/>
+  <rect width="1200" height="630" fill="url(#glowUpper)"/>
+  <rect width="1200" height="630" fill="url(#glowLower)"/>
+
+  <!-- ── FAINT CHART GRID ──────────────────────────── -->
+  <g stroke="#E8A84C" stroke-width="0.5" opacity="0.04">
+    <line x1="0"    y1="157" x2="1200" y2="157"/>
+    <line x1="0"    y1="315" x2="1200" y2="315"/>
+    <line x1="0"    y1="472" x2="1200" y2="472"/>
+    <line x1="300"  y1="0"   x2="300"  y2="630"/>
+    <line x1="600"  y1="0"   x2="600"  y2="630"/>
+    <line x1="900"  y1="0"   x2="900"  y2="630"/>
+  </g>
+
+  <!-- ── DECORATIVE ARCS ───────────────────────────── -->
+  <!-- Large arc centred on origin -->
+  <circle cx="140" cy="452" r="560" fill="none" stroke="#E8A84C" stroke-width="0.75" opacity="0.05"/>
+  <circle cx="140" cy="452" r="380" fill="none" stroke="#E8A84C" stroke-width="0.5"  opacity="0.04"/>
+  <!-- Arc at upper destination -->
+  <circle cx="1100" cy="82" r="320" fill="none" stroke="#E8A84C" stroke-width="0.5"  opacity="0.04"/>
+
+  <!-- ── DIVERGENCE ZONE — vertical split indicator ── -->
+  <!-- Faint vertical line at fork point -->
+  <line x1="420" y1="80" x2="420" y2="580"
+        stroke="#E8A84C" stroke-width="0.5" stroke-dasharray="3 8" opacity="0.09"/>
+
+  <!-- ── LOWER PATH — slow / full-time (more gradual arc) ── -->
+  <!-- Outer glow -->
+  <path d="M 140 452 C 280 450, 380 480, 480 490 C 620 505, 760 510, 900 500 C 1000 493, 1080 470, 1100 450"
+        fill="none" stroke="#E8A84C" stroke-width="7" stroke-linecap="round" opacity="0.05"/>
+  <!-- Main line — dashed, dimmer -->
+  <path d="M 140 452 C 280 450, 380 480, 480 490 C 620 505, 760 510, 900 500 C 1000 493, 1080 470, 1100 450"
+        fill="none" stroke="#E8A84C" stroke-width="1.75" stroke-linecap="round"
+        stroke-dasharray="6 5" opacity="0.42"/>
+
+  <!-- ── UPPER PATH — fast / fractional (steep, direct) ── -->
+  <!-- Outer glow -->
+  <path d="M 140 452 C 240 420, 340 340, 440 260 C 580 155, 740 100, 900 82 C 1000 70, 1070 68, 1110 66"
+        fill="none" stroke="#E8A84C" stroke-width="8" stroke-linecap="round" opacity="0.07"/>
+  <!-- Main line — solid, brighter -->
+  <path d="M 140 452 C 240 420, 340 340, 440 260 C 580 155, 740 100, 900 82 C 1000 70, 1070 68, 1110 66"
+        fill="none" stroke="#E8A84C" stroke-width="2.5" stroke-linecap="round"
+        stroke-linejoin="round" opacity="0.88"/>
+
+  <!-- ── NODE GLOW HALOS ───────────────────────────── -->
+  <g fill="#E8A84C">
+    <!-- Shared origin -->
+    <circle cx="140"  cy="452" r="28" opacity="0.1"/>
+    <!-- Upper path nodes -->
+    <circle cx="440"  cy="260" r="22" opacity="0.09"/>
+    <circle cx="760"  cy="98"  r="26" opacity="0.1"/>
+    <circle cx="1062" cy="68"  r="20" opacity="0.08"/>
+    <!-- Lower path nodes -->
+    <circle cx="480"  cy="490" r="18" opacity="0.06"/>
+    <circle cx="900"  cy="500" r="20" opacity="0.06"/>
+    <circle cx="1100" cy="450" r="16" opacity="0.05"/>
+  </g>
+
+  <!-- ── UPPER PATH MAIN NODES ────────────────────── -->
+  <g fill="#E8A84C">
+    <circle cx="140"  cy="452" r="7"   opacity="0.9"/>
+    <circle cx="290"  cy="388" r="5"   opacity="0.82"/>
+    <circle cx="440"  cy="260" r="7.5" opacity="0.88"/>
+    <circle cx="600"  cy="148" r="6"   opacity="0.84"/>
+    <circle cx="760"  cy="98"  r="9"   opacity="0.92"/>
+    <circle cx="940"  cy="74"  r="6"   opacity="0.86"/>
+    <circle cx="1062" cy="68"  r="7"   opacity="0.9"/>
+    <circle cx="1120" cy="65"  r="4"   opacity="0.72"/>
+  </g>
+
+  <!-- ── LOWER PATH MAIN NODES ────────────────────── -->
+  <g fill="#E8A84C" opacity="0.52">
+    <circle cx="340"  cy="470" r="4.5"/>
+    <circle cx="480"  cy="490" r="5.5"/>
+    <circle cx="650"  cy="508" r="4.5"/>
+    <circle cx="820"  cy="505" r="5"/>
+    <circle cx="1000" cy="488" r="5"/>
+    <circle cx="1100" cy="450" r="4.5"/>
+  </g>
+
+  <!-- ── DIAMOND MARKERS ───────────────────────────── -->
+  <!-- At upper path focal node (760, 98) -->
+  <rect x="746" y="84" width="28" height="28"
+        transform="rotate(45 760 98)"
+        fill="none" stroke="#E8A84C" stroke-width="1" opacity="0.38"/>
+  <!-- Target rings around upper focal node -->
+  <circle cx="760" cy="98"  r="46" fill="none" stroke="#E8A84C" stroke-width="0.75" opacity="0.12"/>
+  <circle cx="760" cy="98"  r="76" fill="none" stroke="#E8A84C" stroke-width="0.5"  opacity="0.06"/>
+  <!-- At origin -->
+  <rect x="126" y="438" width="28" height="28"
+        transform="rotate(45 140 452)"
+        fill="none" stroke="#E8A84C" stroke-width="0.75" opacity="0.3"/>
+
+  <!-- ── NETWORK CONNECTIONS — TERTIARY ───────────── -->
+  <g stroke="#E8A84C" stroke-width="0.75" opacity="0.09" fill="none">
+    <!-- Upper cluster connections -->
+    <line x1="140"  y1="452" x2="80"   y2="380"/>
+    <line x1="80"   y1="380" x2="120"  y2="310"/>
+    <line x1="290"  y1="388" x2="220"  y2="320"/>
+    <line x1="220"  y1="320" x2="340"  y2="280"/>
+    <line x1="440"  y1="260" x2="380"  y2="190"/>
+    <line x1="380"  y1="190" x2="500"  y2="170"/>
+    <line x1="600"  y1="148" x2="540"  y2="90"/>
+    <line x1="540"  y1="90"  x2="660"  y2="60"/>
+    <line x1="760"  cy="98"  x2="700"  y2="42"/>
+    <line x1="760"  y1="98"  x2="820"  y2="48"/>
+    <line x1="940"  y1="74"  x2="880"  y2="30"/>
+    <line x1="1062" y1="68"  x2="1020" y2="20"/>
+    <!-- Lower cluster connections -->
+    <line x1="140"  y1="452" x2="100"  y2="530"/>
+    <line x1="100"  y1="530" x2="200"  y2="560"/>
+    <line x1="340"  y1="470" x2="260"  y2="530"/>
+    <line x1="480"  y1="490" x2="430"  y2="558"/>
+    <line x1="650"  y1="508" x2="700"  y2="568"/>
+    <line x1="820"  y1="505" x2="870"  y2="565"/>
+    <line x1="1000" y1="488" x2="1060" y2="548"/>
+    <line x1="1100" y1="450" x2="1160" y2="510"/>
+  </g>
+
+  <!-- ── NETWORK CONNECTIONS — SECONDARY ──────────── -->
+  <g stroke="#E8A84C" stroke-width="0.75" opacity="0.15" fill="none">
+    <!-- Upper path secondary nodes -->
+    <line x1="80"   y1="380" x2="290"  y2="388"/>
+    <line x1="220"  y1="320" x2="440"  y2="260"/>
+    <line x1="500"  y1="170" x2="600"  y2="148"/>
+    <line x1="660"  y1="60"  x2="760"  y2="98"/>
+    <line x1="820"  y1="48"  x2="940"  y2="74"/>
+    <!-- Lower path secondary nodes -->
+    <line x1="260"  y1="530" x2="340"  y2="470"/>
+    <line x1="430"  y1="558" x2="650"  y2="508"/>
+    <line x1="700"  y1="568" x2="820"  y2="505"/>
+    <line x1="870"  y1="565" x2="1000" y2="488"/>
+  </g>
+
+  <!-- ── SATELLITE NODES ───────────────────────────── -->
+  <g fill="#E8A84C">
+    <!-- Upper path satellites -->
+    <circle cx="80"   cy="380" r="3.5" opacity="0.28"/>
+    <circle cx="120"  cy="310" r="2.5" opacity="0.2"/>
+    <circle cx="220"  cy="320" r="3"   opacity="0.24"/>
+    <circle cx="340"  cy="280" r="2.5" opacity="0.2"/>
+    <circle cx="380"  cy="190" r="3"   opacity="0.24"/>
+    <circle cx="500"  cy="170" r="3.5" opacity="0.26"/>
+    <circle cx="540"  cy="90"  r="3"   opacity="0.22"/>
+    <circle cx="660"  cy="60"  r="3"   opacity="0.22"/>
+    <circle cx="700"  cy="42"  r="2.5" opacity="0.18"/>
+    <circle cx="820"  cy="48"  r="3"   opacity="0.2"/>
+    <circle cx="880"  cy="30"  r="2.5" opacity="0.16"/>
+    <circle cx="1020" cy="20"  r="2.5" opacity="0.16"/>
+    <!-- Lower path satellites -->
+    <circle cx="100"  cy="530" r="3"   opacity="0.2"/>
+    <circle cx="200"  cy="560" r="2.5" opacity="0.16"/>
+    <circle cx="260"  cy="530" r="3"   opacity="0.2"/>
+    <circle cx="430"  cy="558" r="2.5" opacity="0.16"/>
+    <circle cx="700"  cy="568" r="3"   opacity="0.18"/>
+    <circle cx="870"  cy="565" r="2.5" opacity="0.15"/>
+    <circle cx="1060" cy="548" r="3"   opacity="0.16"/>
+    <circle cx="1160" cy="510" r="2.5" opacity="0.13"/>
+    <!-- Scattered background -->
+    <circle cx="180"  cy="200" r="2"   opacity="0.12"/>
+    <circle cx="960"  cy="200" r="2"   opacity="0.12"/>
+    <circle cx="1150" cy="320" r="2"   opacity="0.1"/>
+    <circle cx="650"  cy="360" r="2"   opacity="0.1"/>
+  </g>
+
+  <!-- ── ACCENT: CROSS TICKS at grid intersections ── -->
+  <g stroke="#E8A84C" stroke-width="1" opacity="0.16" stroke-linecap="round">
+    <line x1="296"  y1="153" x2="304" y2="161"/>
+    <line x1="304"  y1="153" x2="296" y2="161"/>
+    <line x1="596"  y1="311" x2="604" y2="319"/>
+    <line x1="604"  y1="311" x2="596" y2="319"/>
+    <line x1="896"  y1="468" x2="904" y2="476"/>
+    <line x1="904"  y1="468" x2="896" y2="476"/>
+  </g>
+
+  <!-- ── ACCENT: BRACKET at shared origin ─────────── -->
+  <g stroke="#E8A84C" stroke-width="0.75" fill="none" opacity="0.22">
+    <path d="M 116 434 L 112 434 L 112 444"/>
+    <path d="M 164 434 L 168 434 L 168 444"/>
+  </g>
+
+  <!-- ── ACCENT: ARROW HEAD at upper path end ──────── -->
+  <g stroke="#E8A84C" stroke-width="1.5" stroke-linecap="round" opacity="0.55">
+    <line x1="1100" y1="72"  x2="1120" y2="65"/>
+    <line x1="1106" y1="82"  x2="1120" y2="65"/>
+  </g>
+
+  <!-- ── ACCENT: SMALL DOTS at lower path end ──────── -->
+  <g stroke="#E8A84C" stroke-width="1" stroke-linecap="round" opacity="0.3">
+    <line x1="1115" y1="450" x2="1130" y2="448"/>
+    <line x1="1138" y1="447" x2="1150" y2="445"/>
+  </g>
+</svg>
