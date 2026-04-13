@@ -3,7 +3,7 @@ title: 'Fractional CMO for SaaS: Why It Works at $1–5M ARR (And What Happens W
 description: 'Most SaaS founders at $1–5M ARR are still doing marketing themselves. Here''s why that''s the bottleneck — and what a fractional CMO actually does about it.'
 pubDate: '2026-03-24'
 author: 'Liviu'
-heroImage: '/blog/fractional-cmo-for-saas.svg'
+heroImage: '/blog/fractional-cmo-for-saas.png'
 ---
 
 It's 3am. You're editing a LinkedIn post. The funnel is leaking somewhere and you can't figure out where. Your product is genuinely good — customers tell you this every week. But growth has plateaued somewhere between $1.5M and $2M ARR, and you've been staring at that same number for three months.

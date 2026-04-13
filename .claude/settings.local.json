@@ -2,7 +2,19 @@
   "permissions": {
     "allow": [
       "Bash(npm run:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(rsvg-convert --version)",
+      "Bash(inkscape --version)",
+      "Bash(convert --version)",
+      "Bash(magick --version)",
+      "Bash(cairosvg --version)",
+      "Bash(node -e \"require\\('puppeteer'\\)\")",
+      "Bash(node -e \"require\\('sharp'\\)\")",
+      "Bash(node -e \"require\\('canvas'\\)\")",
+      "Bash(node -e \"require\\('playwright'\\)\")",
+      "Bash(node -e \"require\\('@playwright/test'\\)\")",
+      "Read(//Applications/**)",
+      "Bash(node:*)"
     ]
   }
 }

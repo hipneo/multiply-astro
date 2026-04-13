@@ -3,7 +3,7 @@ title: 'How Much Does a Fractional CMO Cost? 2026 Pricing Guide'
 description: 'Fractional CMO pricing ranges from $3,000 to $10,000/month depending on scope. Here''s exactly what you get at each price point — and how to know what''s right for your stage.'
 pubDate: '2026-03-28'
 author: 'Liviu'
-heroImage: '/blog/fractional-cmo-cost.svg'
+heroImage: '/blog/fractional-cmo-cost.png'
 ---
 
 Most founders ask about price before they've thought about scope. I understand why — budget is real, and nobody wants to get into a conversation without knowing if the numbers make sense at all.
