@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <!-- Ambient glow: origin point bottom-left -->
+    <radialGradient id="glowBL" cx="8%" cy="96%" r="52%">
+      <stop offset="0%" stop-color="#E8A84C" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#E8A84C" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Ambient glow: destination top-right -->
+    <radialGradient id="glowTR" cx="92%" cy="4%" r="44%">
+      <stop offset="0%" stop-color="#E8A84C" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#E8A84C" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Glow for focal node N5 -->
+    <radialGradient id="glowN5" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E8A84C" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#E8A84C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ── BASE ─────────────────────────────────────── -->
+  <rect width="1200" height="630" fill="#0E0E0C"/>
+  <rect width="1200" height="630" fill="url(#glowBL)"/>
+  <rect width="1200" height="630" fill="url(#glowTR)"/>
+
+  <!-- ── FAINT CHART GRID ──────────────────────────── -->
+  <g stroke="#E8A84C" stroke-width="0.5" opacity="0.045">
+    <line x1="0"    y1="157" x2="1200" y2="157"/>
+    <line x1="0"    y1="315" x2="1200" y2="315"/>
+    <line x1="0"    y1="472" x2="1200" y2="472"/>
+    <line x1="300"  y1="0"   x2="300"  y2="630"/>
+    <line x1="600"  y1="0"   x2="600"  y2="630"/>
+    <line x1="900"  y1="0"   x2="900"  y2="630"/>
+  </g>
+
+  <!-- ── LARGE DECORATIVE ARCS (orbital feel) ─────── -->
+  <circle cx="-90"  cy="780"  r="700" fill="none" stroke="#E8A84C" stroke-width="0.75" opacity="0.07"/>
+  <circle cx="1290" cy="-160" r="600" fill="none" stroke="#E8A84C" stroke-width="0.5"  opacity="0.05"/>
+
+  <!-- Target rings around focal milestone -->
+  <circle cx="760" cy="275" r="48" fill="none" stroke="#E8A84C" stroke-width="0.75" opacity="0.13"/>
+  <circle cx="760" cy="275" r="82" fill="none" stroke="#E8A84C" stroke-width="0.5"  opacity="0.06"/>
+
+  <!-- ── NETWORK CONNECTIONS — TERTIARY (faintest) ─── -->
+  <g stroke="#E8A84C" stroke-width="0.75" opacity="0.09" fill="none">
+    <line x1="150" y1="468" x2="80"   y2="580"/>
+    <line x1="200" y1="558" x2="150"  y2="468"/>
+    <line x1="280" y1="508" x2="200"  y2="558"/>
+    <line x1="460" y1="388" x2="520"  y2="478"/>
+    <line x1="640" y1="428" x2="520"  y2="478"/>
+    <line x1="680" y1="308" x2="640"  y2="428"/>
+    <line x1="800" y1="338" x2="862"  y2="418"/>
+    <line x1="952" y1="288" x2="1022" y2="438"/>
+    <line x1="1082" y1="238" x2="1122" y2="178"/>
+    <line x1="248"  y1="328" x2="130"  y2="308"/>
+    <line x1="480"  y1="198" x2="552"  y2="278"/>
+    <line x1="700"  y1="158" x2="842"  y2="138"/>
+    <line x1="290"  y1="578" x2="200"  y2="558"/>
+    <line x1="450"  y1="548" x2="520"  y2="478"/>
+    <line x1="1022" y1="438" x2="1152" y2="298"/>
+  </g>
+
+  <!-- ── NETWORK CONNECTIONS — SECONDARY ───────────── -->
+  <g stroke="#E8A84C" stroke-width="0.75" opacity="0.16" fill="none">
+    <line x1="150"  y1="468" x2="280"  y2="508"/>
+    <line x1="280"  y1="508" x2="332"  y2="398"/>
+    <line x1="332"  y1="398" x2="460"  y2="388"/>
+    <line x1="552"  y1="278" x2="680"  y2="308"/>
+    <line x1="680"  y1="308" x2="760"  y2="275"/>
+    <line x1="800"  y1="338" x2="952"  y2="288"/>
+    <line x1="952"  y1="288" x2="930"  y2="192"/>
+    <line x1="982"  y1="138" x2="1082" y2="238"/>
+    <line x1="1082" y1="238" x2="1062" y2="118"/>
+    <line x1="360"  y1="298" x2="248"  y2="328"/>
+  </g>
+
+  <!-- ── CONNECTIONS: SATELLITES → MAIN NODES ──────── -->
+  <g stroke="#E8A84C" stroke-width="1" opacity="0.2" fill="none">
+    <line x1="150"  y1="468" x2="242"  y2="518"/>
+    <line x1="332"  y1="398" x2="422"  y2="443"/>
+    <line x1="552"  y1="278" x2="602"  y2="358"/>
+    <line x1="800"  y1="338" x2="760"  y2="275"/>
+    <line x1="952"  y1="288" x2="930"  y2="192"/>
+    <line x1="1082" y1="238" x2="1062" y2="118"/>
+  </g>
+
+  <!-- ── MAIN ASCENDING TRAJECTORY ─────────────────── -->
+  <!-- Subtle outer glow pass (wider, very faint) -->
+  <path d="M 80 580 C 200 563, 352 493, 422 443 C 512 388, 672 308, 760 275 C 850 242, 1002 145, 1142 78"
+        fill="none" stroke="#E8A84C" stroke-width="7" stroke-linecap="round" opacity="0.07"/>
+  <!-- Main line -->
+  <path d="M 80 580 C 200 563, 352 493, 422 443 C 512 388, 672 308, 760 275 C 850 242, 1002 145, 1142 78"
+        fill="none" stroke="#E8A84C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.88"/>
+
+  <!-- ── NODE GLOW HALOS ────────────────────────────── -->
+  <g fill="#E8A84C">
+    <circle cx="80"   cy="580" r="20" opacity="0.07"/>
+    <circle cx="422"  cy="443" r="24" opacity="0.08"/>
+    <circle cx="760"  cy="275" r="36" opacity="0.1"/>
+    <circle cx="1062" cy="118" r="28" opacity="0.09"/>
+    <circle cx="1142" cy="78"  r="22" opacity="0.07"/>
+  </g>
+
+  <!-- ── SATELLITE NODES (background network) ──────── -->
+  <g fill="#E8A84C">
+    <circle cx="150"  cy="468" r="3"   opacity="0.3"/>
+    <circle cx="200"  cy="558" r="3.5" opacity="0.22"/>
+    <circle cx="280"  cy="508" r="2.5" opacity="0.25"/>
+    <circle cx="332"  cy="398" r="4"   opacity="0.32"/>
+    <circle cx="382"  cy="478" r="2.5" opacity="0.2"/>
+    <circle cx="460"  cy="388" r="3.5" opacity="0.28"/>
+    <circle cx="520"  cy="478" r="2.5" opacity="0.18"/>
+    <circle cx="552"  cy="278" r="3.5" opacity="0.26"/>
+    <circle cx="640"  cy="428" r="3"   opacity="0.22"/>
+    <circle cx="680"  cy="308" r="3"   opacity="0.26"/>
+    <circle cx="722"  cy="418" r="2.5" opacity="0.18"/>
+    <circle cx="800"  cy="338" r="4"   opacity="0.32"/>
+    <circle cx="862"  cy="268" r="3"   opacity="0.26"/>
+    <circle cx="862"  cy="418" r="2.5" opacity="0.18"/>
+    <circle cx="952"  cy="288" r="4.5" opacity="0.32"/>
+    <circle cx="982"  cy="138" r="3"   opacity="0.22"/>
+    <circle cx="1022" cy="318" r="2.5" opacity="0.2"/>
+    <circle cx="1082" cy="238" r="3.5" opacity="0.28"/>
+    <circle cx="1122" cy="178" r="3"   opacity="0.22"/>
+    <circle cx="130"  cy="308" r="3.5" opacity="0.22"/>
+    <circle cx="248"  cy="328" r="2.5" opacity="0.18"/>
+    <circle cx="480"  cy="198" r="3"   opacity="0.2"/>
+    <circle cx="700"  cy="158" r="3.5" opacity="0.22"/>
+    <circle cx="842"  cy="138" r="2.5" opacity="0.18"/>
+    <circle cx="1022" cy="438" r="2.5" opacity="0.15"/>
+    <circle cx="1152" cy="298" r="3"   opacity="0.15"/>
+    <circle cx="360"  cy="298" r="2.5" opacity="0.2"/>
+    <circle cx="580"  cy="178" r="2.5" opacity="0.18"/>
+    <circle cx="290"  cy="578" r="2.5" opacity="0.18"/>
+    <circle cx="450"  cy="548" r="3"   opacity="0.2"/>
+  </g>
+
+  <!-- ── MAIN TRAJECTORY NODES ─────────────────────── -->
+  <g fill="#E8A84C">
+    <circle cx="80"   cy="580" r="4.5" opacity="0.72"/>
+    <circle cx="242"  cy="518" r="4"   opacity="0.76"/>
+    <circle cx="422"  cy="443" r="6"   opacity="0.82"/>
+    <circle cx="602"  cy="358" r="5"   opacity="0.82"/>
+    <circle cx="760"  cy="275" r="9"   opacity="0.92"/>
+    <circle cx="930"  cy="192" r="6"   opacity="0.86"/>
+    <circle cx="1062" cy="118" r="7.5" opacity="0.92"/>
+    <circle cx="1142" cy="78"  r="4"   opacity="0.72"/>
+  </g>
+
+  <!-- ── ACCENT: DIAMOND MARKERS at N5 and N7 ──────── -->
+  <!-- Diamond at focal milestone N5 (760, 275) -->
+  <rect x="746" y="261" width="28" height="28"
+        transform="rotate(45 760 275)"
+        fill="none" stroke="#E8A84C" stroke-width="1" opacity="0.38"/>
+  <!-- Diamond at destination N7 (1062, 118) -->
+  <rect x="1050" y="106" width="24" height="24"
+        transform="rotate(45 1062 118)"
+        fill="none" stroke="#E8A84C" stroke-width="0.75" opacity="0.32"/>
+
+  <!-- ── ACCENT: CROSS TICKS at grid intersections ─── -->
+  <g stroke="#E8A84C" stroke-width="1" opacity="0.18" stroke-linecap="round">
+    <line x1="296" y1="153" x2="304" y2="161"/>
+    <line x1="304" y1="153" x2="296" y2="161"/>
+    <line x1="596" y1="311" x2="604" y2="319"/>
+    <line x1="604" y1="311" x2="596" y2="319"/>
+    <line x1="896" y1="468" x2="904" y2="476"/>
+    <line x1="904" y1="468" x2="896" y2="476"/>
+  </g>
+
+  <!-- ── ACCENT: SMALL BRACKET around origin ────────── -->
+  <g stroke="#E8A84C" stroke-width="0.75" fill="none" opacity="0.22">
+    <path d="M 58 598 L 58 562 L 62 562"/>
+    <path d="M 102 562 L 106 562 L 106 598"/>
+  </g>
+</svg>
