@@ -42,6 +42,7 @@ const ogImage = image ? new URL(image, Astro.site) : undefined;
 <title>{title}</title>
 <meta name="title" content={title} />
 <meta name="description" content={description} />
+<meta name="author" content={author ?? 'Liviu'} />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content={pubDate ? 'article' : 'website'} />
