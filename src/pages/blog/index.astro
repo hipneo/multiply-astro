@@ -1,0 +1,136 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title={`Blog — ${SITE_TITLE}`}
+      description="Marketing strategy, growth, and lessons from the trenches. For SaaS founders who want to build a real marketing engine."
+    />
+    <style>
+      .blog-header {
+        padding: 5rem 0 3rem;
+        border-bottom: 1px solid rgba(240,237,230,0.08);
+      }
+      .blog-header .section-label {
+        font-size: 12px;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        color: var(--accent);
+        margin-bottom: 1rem;
+      }
+      .blog-header h1 {
+        font-family: var(--serif);
+        font-size: clamp(2rem, 4vw, 3rem);
+        line-height: 1.15;
+        letter-spacing: -0.02em;
+        margin-bottom: 0.75rem;
+      }
+      .blog-header p {
+        color: var(--text-dim);
+        font-size: 1.05rem;
+        max-width: 520px;
+      }
+      .posts-grid {
+        padding: 4rem 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 2rem;
+      }
+      .post-card {
+        background: var(--bg2);
+        border: 1px solid rgba(240,237,230,0.06);
+        border-radius: 12px;
+        overflow: hidden;
+        transition: border-color 0.2s;
+        display: block;
+      }
+      .post-card:hover {
+        border-color: var(--accent-dim);
+        color: inherit;
+      }
+      .post-card-img {
+        width: 100%;
+        aspect-ratio: 16/9;
+        overflow: hidden;
+      }
+      .post-card-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: transform 0.3s ease;
+      }
+      .post-card:hover .post-card-img img {
+        transform: scale(1.02);
+      }
+      .post-card-body {
+        padding: 1.5rem;
+      }
+      .post-card-date {
+        font-size: 12px;
+        color: var(--text-faint);
+        margin-bottom: 0.6rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+      .post-card-title {
+        font-family: var(--serif);
+        font-size: 1.25rem;
+        line-height: 1.25;
+        letter-spacing: -0.01em;
+        color: var(--text);
+        margin: 0;
+      }
+      .post-card:hover .post-card-title {
+        color: var(--accent);
+      }
+      @media (max-width: 640px) {
+        .posts-grid { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <div class="container">
+        <div class="blog-header">
+          <div class="section-label">From the desk of Liviu</div>
+          <h1>Marketing that compounds.</h1>
+          <p>Strategy, growth, and lessons from the trenches — for SaaS founders building real marketing engines.</p>
+        </div>
+        <div class="posts-grid">
+          {posts.map((post) => (
+            <a class="post-card" href={`/blog/${post.id}/`}>
+              {post.data.heroImage && (
+                <div class="post-card-img">
+                  <Image width={640} height={360} src={post.data.heroImage} alt="" />
+                </div>
+              )}
+              <div class="post-card-body">
+                <div class="post-card-date">
+                  <FormattedDate date={post.data.pubDate} />
+                </div>
+                <h2 class="post-card-title">{post.data.title}</h2>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>

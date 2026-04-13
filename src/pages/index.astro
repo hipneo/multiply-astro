@@ -1,0 +1,697 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Multiply",
+  "url": "https://multiplycmo.com",
+  "description": "Fractional CMO for founder-led B2B SaaS companies at $1–5M ARR.",
+  "founder": {
+    "@type": "Person",
+    "name": "Liviu",
+    "jobTitle": "Founder & Fractional CMO"
+  }
+};
+
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Liviu",
+  "jobTitle": "Founder & Fractional CMO",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Multiply"
+  },
+  "sameAs": [
+    "https://linkedin.com/in/multiplycmo"
+  ]
+};
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+  <style>
+    /* ── NAV ── */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      background: rgba(14,14,12,0.85);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid rgba(240,237,230,0.06);
+    }
+    nav .container {
+      display: flex; justify-content: space-between; align-items: center;
+      height: 64px;
+    }
+    .logo {
+      font-family: var(--serif);
+      font-size: 22px;
+      color: var(--text);
+      letter-spacing: -0.02em;
+    }
+    .logo span { color: var(--accent); }
+    .nav-links { display: flex; align-items: center; gap: 2rem; }
+    .nav-links a.nav-link {
+      font-size: 14px;
+      color: var(--text-dim);
+      transition: color 0.2s;
+    }
+    .nav-links a.nav-link:hover { color: var(--text); }
+    nav a.cta-nav {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--bg);
+      background: var(--accent);
+      padding: 8px 20px;
+      border-radius: 6px;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+    nav a.cta-nav:hover { background: var(--text); color: var(--bg); }
+
+    /* ── HERO ── */
+    .hero {
+      min-height: 100vh;
+      display: flex; align-items: center;
+      padding-top: 64px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -40%; right: -20%;
+      width: 800px; height: 800px;
+      background: radial-gradient(circle, rgba(232,168,76,0.06) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-content { position: relative; z-index: 1; max-width: 800px; }
+    .hero-label {
+      font-size: 13px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--accent);
+      margin-bottom: 1.5rem;
+    }
+    .hero h1 {
+      font-family: var(--serif);
+      font-size: clamp(2.8rem, 6vw, 4.5rem);
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.5rem;
+    }
+    .hero h1 em {
+      font-style: italic;
+      color: var(--accent);
+    }
+    .hero-sub {
+      font-size: 1.2rem;
+      color: var(--text-dim);
+      max-width: 600px;
+      margin-bottom: 2.5rem;
+      line-height: 1.7;
+    }
+    .cta-primary {
+      display: inline-block;
+      font-size: 16px;
+      font-weight: 500;
+      color: var(--bg);
+      background: var(--accent);
+      padding: 14px 32px;
+      border-radius: 8px;
+      transition: all 0.2s;
+      border: 2px solid var(--accent);
+      cursor: pointer;
+    }
+    .cta-primary:hover { background: transparent; color: var(--accent); }
+    .cta-secondary {
+      display: inline-block;
+      font-size: 16px;
+      color: var(--text-dim);
+      margin-left: 1.5rem;
+      transition: color 0.2s;
+    }
+    .cta-secondary:hover { color: var(--text); }
+
+    /* ── STATS BAR ── */
+    .stats-bar {
+      border-top: 1px solid rgba(240,237,230,0.08);
+      border-bottom: 1px solid rgba(240,237,230,0.08);
+      padding: 3rem 0;
+    }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 2rem;
+    }
+    .stat-num {
+      font-family: var(--serif);
+      font-size: 2.2rem;
+      color: var(--accent);
+      line-height: 1;
+      margin-bottom: 0.4rem;
+    }
+    .stat-label {
+      font-size: 14px;
+      color: var(--text-dim);
+      line-height: 1.4;
+    }
+
+    /* ── LOGO BAR ── */
+    .logo-bar {
+      padding: 3rem 0;
+      overflow: hidden;
+      max-width: 100%;
+      border-bottom: 1px solid rgba(240,237,230,0.08);
+    }
+    .logo-bar-label {
+      font-size: 12px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--text-faint);
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .logo-bar-track {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 3rem;
+      flex-wrap: wrap;
+    }
+    .logo-bar-track .brand-mark {
+      font-family: var(--sans);
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #B4B1AA;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      opacity: 0.45;
+      transition: opacity 0.3s;
+      white-space: nowrap;
+      line-height: 1;
+    }
+    .logo-bar-track .brand-mark:hover { opacity: 0.8; }
+    .logo-bar-track .brand-logo {
+      height: 30px;
+      filter: grayscale(100%) brightness(0.6) opacity(0.45);
+      transition: filter 0.3s;
+    }
+    .logo-bar-track .brand-logo:hover {
+      filter: grayscale(100%) brightness(0.6) opacity(0.8);
+    }
+    .logo-bar-track .brand-logo.tall-logo { height: 40px; }
+    .logo-bar-track .brand-mark.serif-mark {
+      font-family: var(--serif);
+      font-weight: 400;
+      text-transform: none;
+      letter-spacing: 0.02em;
+      font-size: 1.4rem;
+      font-style: italic;
+    }
+
+    /* ── SECTIONS ── */
+    section { padding: 6rem 0; }
+    .section-label {
+      font-size: 12px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--accent);
+      margin-bottom: 1rem;
+    }
+    .section-title {
+      font-family: var(--serif);
+      font-size: clamp(2rem, 4vw, 3rem);
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.5rem;
+      max-width: 700px;
+    }
+
+    /* ── PROBLEM / ABOUT ── */
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4rem;
+      align-items: start;
+    }
+    .two-col p {
+      color: var(--text-dim);
+      margin-bottom: 1rem;
+    }
+    .two-col p strong {
+      color: var(--text);
+      font-weight: 500;
+    }
+
+    /* ── SERVICES ── */
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      margin-top: 3rem;
+    }
+    .service-card {
+      background: var(--bg2);
+      border: 1px solid rgba(240,237,230,0.06);
+      border-radius: 12px;
+      padding: 2rem;
+      transition: border-color 0.3s;
+    }
+    .service-card:hover { border-color: var(--accent-dim); }
+    .service-phase {
+      font-size: 12px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--accent);
+      margin-bottom: 1rem;
+    }
+    .service-card h3 {
+      font-family: var(--serif);
+      font-size: 1.4rem;
+      margin-bottom: 0.75rem;
+    }
+    .service-card p {
+      font-size: 15px;
+      color: var(--text-dim);
+      line-height: 1.6;
+    }
+
+    /* ── QUOTE BLOCK ── */
+    .quote-section {
+      background: var(--bg2);
+      border-top: 1px solid rgba(240,237,230,0.06);
+      border-bottom: 1px solid rgba(240,237,230,0.06);
+    }
+    .quote-block {
+      max-width: 750px;
+      margin: 0 auto;
+      text-align: center;
+      padding: 5rem 0;
+    }
+    .quote-block blockquote {
+      font-family: var(--serif);
+      font-size: clamp(1.5rem, 3vw, 2rem);
+      font-style: italic;
+      line-height: 1.4;
+      color: var(--text);
+      margin-bottom: 1.5rem;
+    }
+    .quote-block cite {
+      font-family: var(--sans);
+      font-style: normal;
+      font-size: 14px;
+      color: var(--text-faint);
+    }
+
+    /* ── WHO IT'S FOR ── */
+    .fit-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-top: 2.5rem;
+    }
+    .fit-card {
+      background: var(--bg2);
+      border-radius: 12px;
+      padding: 2rem;
+      border-left: 3px solid var(--accent);
+    }
+    .fit-card h4 {
+      font-size: 15px;
+      font-weight: 500;
+      margin-bottom: 0.5rem;
+      color: var(--text);
+    }
+    .fit-card p {
+      font-size: 14px;
+      color: var(--text-dim);
+      line-height: 1.6;
+    }
+
+    /* ── ABOUT / BIO ── */
+    .bio-section .two-col { align-items: center; }
+    .bio-visual {
+      border-radius: 20px;
+      overflow: hidden;
+      border: 1px solid rgba(240,237,230,0.08);
+      background: var(--bg2);
+      max-width: 420px;
+      aspect-ratio: 3/4;
+      box-shadow: 0 0 0 1px rgba(232,168,76,0.08), 0 32px 64px rgba(0,0,0,0.4);
+    }
+    .bio-visual img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top center;
+      display: block;
+    }
+    .bio-text h3 {
+      font-family: var(--serif);
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+    }
+    .bio-title {
+      color: var(--accent);
+      font-size: 14px;
+      font-weight: 500;
+      margin-bottom: 1.5rem;
+    }
+
+    /* ── TRACK RECORD ── */
+    .track-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .track-item {
+      display: flex;
+      align-items: baseline;
+      gap: 0.75rem;
+      padding: 0.6rem 0;
+    }
+    .track-bullet {
+      color: var(--accent);
+      font-size: 14px;
+      flex-shrink: 0;
+    }
+    .track-item span {
+      font-size: 15px;
+      color: var(--text-dim);
+      line-height: 1.5;
+    }
+
+    /* ── CTA SECTION ── */
+    .cta-section {
+      text-align: center;
+      padding: 8rem 0;
+      position: relative;
+    }
+    .cta-section::before {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 50%;
+      transform: translateX(-50%);
+      width: 600px; height: 600px;
+      background: radial-gradient(circle, rgba(232,168,76,0.05) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .cta-section .section-title {
+      margin: 0 auto 1rem;
+      text-align: center;
+    }
+    .cta-section p {
+      color: var(--text-dim);
+      max-width: 520px;
+      margin: 0 auto 2.5rem;
+    }
+    .cta-section .cta-primary { font-size: 18px; padding: 16px 40px; }
+
+    /* ── FOOTER ── */
+    footer {
+      border-top: 1px solid rgba(240,237,230,0.06);
+      padding: 2.5rem 0;
+    }
+    footer .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    footer p { font-size: 13px; color: var(--text-faint); }
+    footer a { color: var(--text-faint); font-size: 13px; }
+    footer a:hover { color: var(--accent); }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 768px) {
+      .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
+      .two-col { grid-template-columns: 1fr; gap: 2.5rem; }
+      .services-grid { grid-template-columns: 1fr; }
+      .fit-grid { grid-template-columns: 1fr; }
+      .track-grid { grid-template-columns: 1fr; }
+      .cta-secondary { display: block; margin: 1rem 0 0 0; }
+      .hero { min-height: auto; padding: 8rem 0 4rem; }
+      .nav-links a.nav-link { display: none; }
+      .bio-visual { max-width: 320px; }
+      .logo-bar-track { gap: 2rem; }
+      .logo-bar-track .brand-mark { font-size: 1rem; }
+      .logo-bar-track .brand-mark.serif-mark { font-size: 1.15rem; }
+    }
+
+    /* ── ANIMATIONS ── */
+    @media (prefers-reduced-motion: no-preference) {
+      .fade-in {
+        opacity: 0;
+        transform: translateY(24px);
+        transition: opacity 0.6s ease, transform 0.6s ease;
+      }
+      .fade-in.visible {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="container">
+    <a href="/" class="logo">Multiply<span>.</span></a>
+    <div class="nav-links">
+      <a href="#how" class="nav-link">How it works</a>
+      <a href="#who" class="nav-link">Who it's for</a>
+      <a href="#about" class="nav-link">About</a>
+      <a href="#" data-cal-link="multiplycmo/15min" data-cal-namespace="15min" data-cal-config='{"layout":"week_view","useSlotsViewOnSmallScreen":"true"}' class="cta-nav">Book a free diagnostic</a>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-label">Fractional CMO for founder-led SaaS</div>
+      <h1>I build your marketing engine<br>and <em>run it.</em></h1>
+      <p class="hero-sub">Most fractional CMOs hand you a strategy deck and wish you luck. I build the strategy, the team, the systems, and the campaigns &mdash; then run the whole thing. So you can go back to being the CEO.</p>
+      <a href="#" data-cal-link="multiplycmo/15min" data-cal-namespace="15min" data-cal-config='{"layout":"week_view","useSlotsViewOnSmallScreen":"true"}' class="cta-primary">Book a free 15-min diagnostic</a>
+      <a href="#how" class="cta-secondary">See how it works &darr;</a>
+    </div>
+  </div>
+</section>
+
+<div class="stats-bar">
+  <div class="container">
+    <div class="stats-grid">
+      <div class="fade-in">
+        <div class="stat-num">30+</div>
+        <div class="stat-label">years building companies</div>
+      </div>
+      <div class="fade-in">
+        <div class="stat-num">10+</div>
+        <div class="stat-label">businesses built</div>
+      </div>
+      <div class="fade-in">
+        <div class="stat-num">700+</div>
+        <div class="stat-label">apartments built &amp; sold (real estate dev)</div>
+      </div>
+      <div class="fade-in">
+        <div class="stat-num">$Ms</div>
+        <div class="stat-label">in managed ad spend since 1998</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="logo-bar fade-in">
+  <div class="container">
+    <div class="logo-bar-label">Companies I've built from scratch</div>
+    <div class="logo-bar-track">
+      <img src="/newton.png" alt="Newton" class="brand-logo tall-logo" />
+      <img src="/afterhills.png" alt="Afterhills" class="brand-logo" />
+      <span class="brand-mark">BACON</span>
+      <span class="brand-mark serif-mark">Olely</span>
+      <span class="brand-mark" style="letter-spacing:0.25em;font-weight:400;font-size:1rem;">MOVERS</span>
+      <img src="/neomedia.png" alt="Neomedia" class="brand-logo tall-logo" />
+    </div>
+  </div>
+</div>
+
+<section id="problem">
+  <div class="container">
+    <div class="two-col">
+      <div class="fade-in">
+        <div class="section-label">The problem</div>
+        <div class="section-title">You're a SaaS founder. You're also the CMO. That's the bottleneck.</div>
+      </div>
+      <div class="fade-in">
+        <p>You've got real traction. Revenue between $1M and $5M. Customers who love the product. But growth is slowing down and you can feel it.</p>
+        <p><strong>You're still the de facto head of marketing.</strong> You're approving the blog posts, reviewing ad copy, managing freelancers, and trying to figure out attribution &mdash; between board prep, product decisions, and hiring.</p>
+        <p>You know it's not sustainable. But a full-time CMO costs $200K+. The last agency gave you a nice report and no results. And the growth marketer you hired is great at tactics but can't see the whole picture.</p>
+        <p><strong>You don't need another pair of hands. You need a marketing leader who builds the engine and runs it.</strong> Strategy through execution. That's what Multiply does.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="quote-section">
+  <div class="container">
+    <div class="quote-block fade-in">
+      <blockquote>Most fractional CMOs give you strategy. I give you strategy, systems, team structure, campaigns, and dashboards &mdash; then I run it all week to week.<br><br>The plan is worthless without the execution.</blockquote>
+    </div>
+  </div>
+</section>
+
+<section id="how">
+  <div class="container">
+    <div class="fade-in">
+      <div class="section-label">How it works</div>
+      <div class="section-title">Three phases. No mystery.</div>
+    </div>
+    <div class="services-grid">
+      <div class="service-card fade-in">
+        <div class="service-phase">Phase 1 &middot; First 30 days</div>
+        <h3>The diagnostic</h3>
+        <p>I audit everything &mdash; positioning, funnel, acquisition channels, content, analytics, team, and competitive landscape. You get a full diagnostic with a prioritized 90-day action plan tied to your revenue targets, not vanity metrics.</p>
+      </div>
+      <div class="service-card fade-in">
+        <div class="service-phase">Phase 2 &middot; Months 2&ndash;6</div>
+        <h3>Build the engine</h3>
+        <p>I build the marketing machine and run it. Positioning, demand gen, content strategy, paid acquisition, marketing ops, hiring the right people, setting up attribution. Not a deck &mdash; an actual working system.</p>
+      </div>
+      <div class="service-card fade-in">
+        <div class="service-phase">Phase 3 &middot; Months 6+</div>
+        <h3>Scale or hand off</h3>
+        <p>The engine is running. Now I optimize it &mdash; lower CAC, higher LTV, better conversion. I mentor your team and transfer ownership so you don't need me forever. Or I stay on as your fractional CMO if that works better.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="who">
+  <div class="container">
+    <div class="fade-in">
+      <div class="section-label">Who it's for</div>
+      <div class="section-title">Multiply is built for SaaS founders who've outgrown doing it all themselves.</div>
+      <p style="color: var(--text-dim); max-width: 600px; margin-bottom: 1rem;">If any of this sounds familiar, we should talk.</p>
+    </div>
+    <div class="fit-grid">
+      <div class="fit-card fade-in">
+        <h4>You're at $1&ndash;5M ARR</h4>
+        <p>Product-market fit is proven. Revenue is real. But scaling the marketing feels harder than building the product did.</p>
+      </div>
+      <div class="fit-card fade-in">
+        <h4>You're still the de facto CMO</h4>
+        <p>You're approving copy, managing freelancers, and making channel decisions between product work and investor calls. Nobody owns the marketing number.</p>
+      </div>
+      <div class="fit-card fade-in">
+        <h4>You can't justify a $200K hire</h4>
+        <p>You need CMO-level thinking and hands-on execution, but a full-time senior marketing leader doesn't make financial sense yet.</p>
+      </div>
+      <div class="fit-card fade-in">
+        <h4>Agencies and freelancers aren't cutting it</h4>
+        <p>You've tried agencies. You've tried freelancers. What's missing isn't more hands &mdash; it's a marketing leader who owns the outcome.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bio-section" id="about">
+  <div class="container">
+    <div class="two-col">
+      <div class="bio-visual fade-in">
+        <img src="/liviu.jpeg" alt="Liviu, Founder & Fractional CMO at Multiply" />
+      </div>
+      <div class="bio-text fade-in">
+        <div class="section-label">About</div>
+        <h3>I'm Liviu.</h3>
+        <div class="bio-title">Founder &amp; Fractional CMO, Multiply</div>
+        <p style="color: var(--text-dim); margin-bottom: 1rem;">I'm not a career marketer who moved into consulting. I'm a serial entrepreneur who spent 30+ years building businesses from scratch &mdash; and got very good at growth because when it's your money, you figure it out fast.</p>
+        <p style="color: var(--text-dim); margin-bottom: 1.5rem;">I started Multiply because I kept meeting the same SaaS founder: brilliant at product, real traction, completely stuck on marketing &mdash; because they're still doing it all themselves. They don't need another agency or advisor. They need a builder who can see the whole picture and make the machine work.</p>
+        <div class="track-grid">
+          <div class="track-item">
+            <span class="track-bullet">&rarr;</span>
+            <span>Built &amp; sold 700+ apartments in real estate development</span>
+          </div>
+          <div class="track-item">
+            <span class="track-bullet">&rarr;</span>
+            <span>Built &amp; ran a major music festival &mdash; 3 editions, 40 departments, 80%+ NPS</span>
+          </div>
+          <div class="track-item">
+            <span class="track-bullet">&rarr;</span>
+            <span>Running PPC campaigns since 1998, before Google Ads existed</span>
+          </div>
+          <div class="track-item">
+            <span class="track-bullet">&rarr;</span>
+            <span>Built a DTC brand on Amazon for the US market</span>
+          </div>
+          <div class="track-item">
+            <span class="track-bullet">&rarr;</span>
+            <span>Founded &amp; ran a digital marketing agency</span>
+          </div>
+          <div class="track-item">
+            <span class="track-bullet">&rarr;</span>
+            <span>10+ businesses built across 4 countries</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="book" class="cta-section">
+  <div class="container">
+    <div class="fade-in">
+      <div class="section-label">Let's talk</div>
+      <div class="section-title">Free 15-minute growth diagnostic.</div>
+      <p>No pitch. No deck. Just an honest look at your marketing, what's working, what's broken, and what I'd do about it. If I can help, I'll tell you how. If I can't, I'll tell you that too.</p>
+      <a href="#" data-cal-link="multiplycmo/15min" data-cal-namespace="15min" data-cal-config='{"layout":"week_view","useSlotsViewOnSmallScreen":"true"}' class="cta-primary">Book your free diagnostic &rarr;</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>&copy; 2026 Multiply</p>
+    <div>
+      <a href="https://linkedin.com/in/multiplycmo" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </div>
+</footer>
+
+<!-- Cal.com embed -->
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+  Cal("init", "15min", {origin:"https://app.cal.com"});
+  Cal.ns["15min"]("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#161614"},"dark":{"cal-brand":"#E8A84C"}},"hideEventTypeDetails":false,"layout":"week_view"});
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var faders = document.querySelectorAll('.fade-in');
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      faders.forEach(function(el) { el.classList.add('visible'); });
+      return;
+    }
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.1 });
+    faders.forEach(function(el) { observer.observe(el); });
+  });
+</script>
+
+</body>
+</html>

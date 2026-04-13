@@ -1,0 +1,28 @@
+---
+const today = new Date();
+---
+
+<footer>
+  <div class="container">
+    <p>&copy; {today.getFullYear()} Multiply</p>
+    <div>
+      <a href="https://linkedin.com/in/multiplycmo" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </div>
+</footer>
+
+<style>
+  footer {
+    border-top: 1px solid rgba(240,237,230,0.06);
+    padding: 2.5rem 0;
+    margin-top: 4rem;
+  }
+  footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  footer p { font-size: 13px; color: var(--text-faint); }
+  footer a { color: var(--text-faint); font-size: 13px; }
+  footer a:hover { color: var(--accent); }
+</style>
