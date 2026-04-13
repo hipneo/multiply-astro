@@ -14,7 +14,7 @@ That said — here's the answer to **how much does a fractional CMO cost** in 20
 
 **The short version:** $3,000–$10,000 per month for ongoing engagements. $3,000–$5,000 flat for a diagnostic. $2,500–$4,000/month for advisory-only. What you pay depends entirely on what you're buying.
 
-Here's exactly what you get at each tier.
+Here's exactly what you get at each tier. If you're still unclear on [what a fractional CMO actually does](/blog/what-does-a-fractional-cmo-do) week to week — not in theory, but in practice — that's worth reading first, because scope drives price.
 
 ---
 
@@ -70,7 +70,7 @@ This is not the engagement to start with if your marketing is broken. It's the e
 
 ## Why Not Just Hire a Full-Time CMO?
 
-<!-- INTERNAL LINK: fractional cmo for saas -->
+For context on how this stacks up against the alternative, the [full-time CMO comparison](/blog/fractional-cmo-vs-full-time-cmo) covers both paths side by side — cost, timing, flexibility, and risk.
 
 At $1–5M ARR, the full-time CMO math doesn't work.
 

@@ -97,13 +97,11 @@ By the end of month one: new homepage copy live, conversion from paid traffic up
 
 D told me at the three-month mark: "I thought I was getting someone to tell me what to do. I didn't realise you were going to actually do it."
 
-That's the engagement. That's what this role looks like when it works.
+That's the engagement. That's what this role looks like when it works. If you're specifically evaluating this for a SaaS company at $1–5M ARR, I've written about how the [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) model applies to your specific situation and growth stage.
 
 ---
 
 ## How This Is Different From an Agency
-
-<!-- INTERNAL LINK: fractional cmo vs agency -->
 
 Agencies are good at executing in their lane. An SEO agency does SEO. A paid media agency runs paid media. A content agency produces content. They do what they're scoped to do, and they report on the metrics that are easiest to attribute to their work.
 
@@ -119,7 +117,7 @@ The accountability structure is the fundamental difference. An agency accounts f
 
 **How many hours does a fractional CMO work per week?**
 
-Typically 8–16 hours per week depending on engagement scope. At the lower end ($5,000–6,500/month), it's roughly 2 days per week — focused on strategy, direction, and key decisions. At the higher end ($8,500–10,000/month), it's closer to 4 days per week with hands-on involvement in campaigns and team management. The hours are concentrated where the leverage is, not distributed evenly across every task.
+Typically 8–16 hours per week depending on engagement scope. At the lower end ($5,000–6,500/month), it's roughly 2 days per week — focused on strategy, direction, and key decisions. At the higher end ($8,500–10,000/month), it's closer to 4 days per week with hands-on involvement in campaigns and team management. The hours are concentrated where the leverage is, not distributed evenly across every task. For a full breakdown of what's included at each price point, see the [fractional CMO cost](/blog/fractional-cmo-cost) guide.
 
 **What's the difference between a fractional CMO and a marketing consultant?**
 

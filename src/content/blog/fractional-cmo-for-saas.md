@@ -54,7 +54,7 @@ This is not consulting. I'm not sending you reports and leaving. I'm in Slack. I
 
 ## A Real Story: The Founder Who Was Afraid of Paid Ads
 
-<!-- INTERNAL LINK: fractional cmo cost -->
+If you're already thinking about budget, I've written a detailed breakdown of [how much a fractional CMO costs](/blog/fractional-cmo-cost) at each engagement tier. But the story below is a better illustration of what the money actually buys.
 
 I worked with a B2B SaaS founder — I'll call him M — running a project management tool for architecture firms. About $1.8M ARR. Solid NPS. Terrible growth rate.
 
@@ -92,7 +92,7 @@ More importantly: most good CMOs don't want to build from scratch at your stage.
 
 A fractional cmo for startups gives you the judgment and execution of someone who's built this before, at a fraction of the cost, on a timeline that matches where you actually are.
 
-When you hit $8M ARR and you need a full-time CMO, you'll have a working marketing engine to hand them. That's a much better hire.
+When you hit $8M ARR and you need a full-time CMO, you'll have a working marketing engine to hand them. That's a much better hire. If you're actively weighing that decision right now, I've written a detailed [fractional vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo) comparison with a side-by-side breakdown of cost, timing, and risk.
 
 ---
 
