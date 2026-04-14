@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0d10"/>
+      <stop offset="50%" style="stop-color:#0f0f14"/>
+      <stop offset="100%" style="stop-color:#0d0d10"/>
+    </linearGradient>
+    <linearGradient id="signalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7a5f1a;stop-opacity:0.6"/>
+      <stop offset="45%" style="stop-color:#c9952a;stop-opacity:1"/>
+      <stop offset="55%" style="stop-color:#e8b84b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#f0c040;stop-opacity:0.9"/>
+    </linearGradient>
+    <linearGradient id="noiseGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3a2e10;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#3a2e10;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#3a2e10;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="dividerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#c9952a;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#c9952a;stop-opacity:0.8"/>
+      <stop offset="70%" style="stop-color:#c9952a;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#c9952a;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="noisefade">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="leftClip">
+      <rect x="0" y="0" width="575" height="630"/>
+    </clipPath>
+    <clipPath id="rightClip">
+      <rect x="625" y="0" width="575" height="630"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle grid — left zone (chaotic era) -->
+  <g clip-path="url(#leftClip)" opacity="0.12">
+    <!-- Irregular noise lines left side -->
+    <line x1="80" y1="0" x2="80" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="160" y1="0" x2="160" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="240" y1="0" x2="240" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="320" y1="0" x2="320" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="400" y1="0" x2="400" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="480" y1="0" x2="480" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="0" y1="105" x2="575" y2="105" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="0" y1="210" x2="575" y2="210" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="0" y1="315" x2="575" y2="315" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="0" y1="420" x2="575" y2="420" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="0" y1="525" x2="575" y2="525" stroke="#c9952a" stroke-width="0.5"/>
+  </g>
+
+  <!-- Noise/chaos lines — left zone, representing early internet chaos -->
+  <g clip-path="url(#leftClip)" filter="url(#noisefade)">
+    <!-- Chaotic signal fragments -->
+    <polyline points="20,420 45,380 60,410 80,350 100,400 120,360 145,390 165,330 180,370 200,310 220,360 245,300 265,340 285,280 300,330 325,270 340,310 360,255 375,295 395,240 415,280 435,225" stroke="#4a3a15" stroke-width="1.5" fill="none" opacity="0.7"/>
+    <polyline points="15,480 40,445 55,465 75,430 90,455 110,415 130,445 150,400 170,430 190,385 210,415 230,370 250,398 270,352 290,380 310,340 330,365 350,325 370,350 390,308 410,335 430,295 450,318" stroke="#3a2e10" stroke-width="1" fill="none" opacity="0.5"/>
+    <!-- Random scatter marks left -->
+    <circle cx="55" cy="395" r="2" fill="#4a3a15" opacity="0.4"/>
+    <circle cx="130" cy="362" r="1.5" fill="#4a3a15" opacity="0.3"/>
+    <circle cx="210" cy="325" r="2" fill="#4a3a15" opacity="0.4"/>
+    <circle cx="290" cy="298" r="1.5" fill="#4a3a15" opacity="0.3"/>
+    <circle cx="370" cy="270" r="2" fill="#4a3a15" opacity="0.4"/>
+    <circle cx="450" cy="248" r="1.5" fill="#4a3a15" opacity="0.3"/>
+    <!-- More noise lines -->
+    <polyline points="30,520 70,490 110,510 150,475 190,500 230,462 270,488 310,450 350,472 390,435 430,460 470,420 510,445 550,408" stroke="#2e2208" stroke-width="1" fill="none" opacity="0.4"/>
+    <polyline points="25,180 65,215 105,195 145,230 185,205 225,240 265,215 305,248 345,220 385,255 425,228 465,262 505,235 545,268" stroke="#2e2208" stroke-width="0.8" fill="none" opacity="0.3"/>
+    <!-- Jagged interference lines -->
+    <polyline points="50,150 70,140 72,165 90,135 92,160 112,128 114,155 134,122 136,148 155,118 157,143 178,112 180,138 200,108 202,133 222,104 224,128 244,100 246,124 264,95 266,120 285,91 287,115 306,87 308,112 328,84 330,108 349,80 351,105 370,77 372,102 392,74 394,98 413,71 415,95 434,68 436,92 454,65 456,90 474,63" stroke="#2e2208" stroke-width="0.8" fill="none" opacity="0.25"/>
+  </g>
+
+  <!-- Clean structured grid — right zone (modern era) -->
+  <g clip-path="url(#rightClip)" opacity="0.08">
+    <line x1="700" y1="0" x2="700" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="775" y1="0" x2="775" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="850" y1="0" x2="850" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="925" y1="0" x2="925" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="1000" y1="0" x2="1000" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="1075" y1="0" x2="1075" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="1150" y1="0" x2="1150" y2="630" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="625" y1="90" x2="1200" y2="90" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="625" y1="180" x2="1200" y2="180" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="625" y1="270" x2="1200" y2="270" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="625" y1="360" x2="1200" y2="360" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="625" y1="450" x2="1200" y2="450" stroke="#c9952a" stroke-width="0.5"/>
+    <line x1="625" y1="540" x2="1200" y2="540" stroke="#c9952a" stroke-width="0.5"/>
+  </g>
+
+  <!-- Structured clean signal lines — right zone -->
+  <g clip-path="url(#rightClip)">
+    <line x1="650" y1="315" x2="1180" y2="315" stroke="#3a2e10" stroke-width="1" opacity="0.4"/>
+    <line x1="650" y1="270" x2="1180" y2="270" stroke="#2e2208" stroke-width="0.8" opacity="0.25"/>
+    <line x1="650" y1="360" x2="1180" y2="360" stroke="#2e2208" stroke-width="0.8" opacity="0.25"/>
+  </g>
+
+  <!-- Horizontal timeline baseline -->
+  <line x1="60" y1="530" x2="1140" y2="530" stroke="#3a2e10" stroke-width="1" opacity="0.4"/>
+
+  <!-- THE MAIN SIGNAL LINE — the thread through history -->
+  <!-- Left side: noisy/erratic path -->
+  <polyline points="60,420 100,390 125,410 155,370 185,395 215,355 245,375 275,330 305,352 330,318 355,338 380,305 405,325 430,295 455,315 480,290 510,308 535,285" stroke="#7a5f1a" stroke-width="2" fill="none" opacity="0.6"/>
+  <!-- Signal line convergence through the middle -->
+  <line x1="535" y1="285" x2="665" y2="285" stroke="url(#signalGrad)" stroke-width="2.5" fill="none"/>
+  <!-- Right side: clean, confident path -->
+  <polyline points="665,285 720,285 780,282 840,283 900,281 960,282 1020,281 1080,280 1140,280" stroke="#e8b84b" stroke-width="2.5" fill="none" opacity="0.85"/>
+
+  <!-- Bright signal highlight at convergence -->
+  <circle cx="600" cy="285" r="5" fill="#f0c040" filter="url(#softglow)" opacity="0.8"/>
+
+  <!-- Milestone nodes on the timeline -->
+  <!-- 1998 — goto.com -->
+  <circle cx="160" cy="530" r="5" fill="#1a1408" stroke="#5a4420" stroke-width="1.5"/>
+  <line x1="160" y1="525" x2="160" y2="400" stroke="#3a2e10" stroke-width="0.8" stroke-dasharray="3,3" opacity="0.5"/>
+
+  <!-- 2000 — AdWords launch -->
+  <circle cx="340" cy="530" r="5" fill="#1a1408" stroke="#5a4420" stroke-width="1.5"/>
+  <line x1="340" y1="525" x2="340" y2="355" stroke="#3a2e10" stroke-width="0.8" stroke-dasharray="3,3" opacity="0.5"/>
+
+  <!-- 2003 — Quality Score -->
+  <circle cx="480" cy="530" r="5" fill="#1a1408" stroke="#7a6030" stroke-width="1.5"/>
+  <line x1="480" y1="525" x2="480" y2="295" stroke="#5a4420" stroke-width="0.8" stroke-dasharray="3,3" opacity="0.6"/>
+
+  <!-- Now — convergence point (bright) -->
+  <circle cx="600" cy="530" r="7" fill="#c9952a" stroke="#f0c040" stroke-width="1.5" filter="url(#glow)"/>
+  <line x1="600" y1="523" x2="600" y2="292" stroke="#c9952a" stroke-width="1" opacity="0.7"/>
+
+  <!-- 2026 -->
+  <circle cx="900" cy="530" r="5" fill="#1a1408" stroke="#7a6030" stroke-width="1.5"/>
+  <line x1="900" y1="525" x2="900" y2="286" stroke="#5a4420" stroke-width="0.8" stroke-dasharray="3,3" opacity="0.5"/>
+
+  <!-- Divider between eras -->
+  <line x1="600" y1="80" x2="600" y2="560" stroke="url(#dividerGrad)" stroke-width="1" opacity="0.6"/>
+
+  <!-- Era labels -->
+  <text x="290" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#5a4420" letter-spacing="3" font-weight="400">GOTO.COM ERA</text>
+  <text x="870" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#7a6030" letter-spacing="3" font-weight="400">MODERN PPC</text>
+
+  <!-- Year labels on timeline -->
+  <text x="160" y="558" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#3a2e10">1998</text>
+  <text x="340" y="558" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#3a2e10">2000</text>
+  <text x="480" y="558" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#3a2e10">2003</text>
+  <text x="900" y="558" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#3a2e10">2026</text>
+
+  <!-- Milestone labels (above timeline) -->
+  <text x="160" y="590" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#3a2e10" opacity="0.7">goto.com</text>
+  <text x="340" y="590" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#3a2e10" opacity="0.7">AdWords</text>
+  <text x="480" y="590" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#4a3a15" opacity="0.8">Quality Score</text>
+  <text x="600" y="590" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#c9952a" opacity="0.9">convergence</text>
+
+  <!-- Main title text -->
+  <text x="600" y="175" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#c9952a" letter-spacing="-1" font-weight="400" filter="url(#glow)">signal through</text>
+  <text x="600" y="228" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#e8b84b" letter-spacing="-1" font-weight="400">the noise</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="265" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#5a4420" letter-spacing="4">30 YEARS OF PAID ACQUISITION</text>
+
+  <!-- Small decorative element — modem/signal dots -->
+  <g opacity="0.35" transform="translate(80, 315)">
+    <rect x="0" y="0" width="3" height="12" fill="#4a3a15"/>
+    <rect x="6" y="4" width="3" height="8" fill="#4a3a15"/>
+    <rect x="12" y="2" width="3" height="10" fill="#4a3a15"/>
+    <rect x="18" y="6" width="3" height="6" fill="#4a3a15"/>
+    <rect x="24" y="1" width="3" height="11" fill="#4a3a15"/>
+    <rect x="30" y="5" width="3" height="7" fill="#4a3a15"/>
+    <rect x="36" y="3" width="3" height="9" fill="#4a3a15"/>
+    <rect x="42" y="7" width="3" height="5" fill="#4a3a15"/>
+  </g>
+
+  <!-- Structured bar signal right side -->
+  <g opacity="0.3" transform="translate(1060, 315)">
+    <rect x="0" y="0" width="3" height="6" fill="#7a6030"/>
+    <rect x="6" y="-2" width="3" height="14" fill="#7a6030"/>
+    <rect x="12" y="-4" width="3" height="16" fill="#7a6030"/>
+    <rect x="18" y="-6" width="3" height="18" fill="#7a6030"/>
+    <rect x="24" y="-4" width="3" height="16" fill="#7a6030"/>
+    <rect x="36" y="-2" width="3" height="14" fill="#7a6030"/>
+    <rect x="42" y="0" width="3" height="6" fill="#7a6030"/>
+  </g>
+</svg>
