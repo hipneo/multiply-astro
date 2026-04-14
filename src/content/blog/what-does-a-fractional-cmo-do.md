@@ -9,6 +9,8 @@ slug: what-does-a-fractional-cmo-do
 
 Most founders come into the first conversation expecting a strategist. Someone who'll spend a few weeks studying the business, hand over a polished deck with their findings, and check in quarterly to see if the slides are being followed. That's not **what a fractional CMO does**. Not even close.
 
+**A fractional CMO owns your marketing strategy and runs the execution — setting quarterly OKRs, managing your marketing team or freelancers, overseeing paid acquisition and content, and reporting directly to the founder. The key difference from a consultant: a fractional CMO doesn't hand you a plan. They build the system and run it alongside you.**
+
 What they get instead surprises them: someone who shows up every single week, builds the machine alongside them, adjusts when it breaks, and is accountable for what the numbers say on the last day of every month. The first time a founder sees me pull up their campaign dashboard at 8am on a Monday and reroute budget before breakfast, they usually pause and say: "I didn't expect this."
 
 That reaction tells me everything about what's broken in how this role gets described.
