@@ -1,6 +1,6 @@
 ---
 title: 'Fractional CMO vs Full-Time CMO: Cost, Flexibility & When to Choose Each'
-description: 'A full-time CMO costs $200–300K and takes 6 months to hire. A fractional CMO starts in days and costs a fraction of that. Here''s how to decide which is right for your stage.'
+description: 'A full-time CMO costs $200–300K and takes months to hire. A fractional CMO starts in days. Here''s how to decide which is right for your stage.'
 pubDate: '2026-04-03'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-vs-full-time.png'
@@ -130,16 +130,43 @@ In most companies at the early stage, the titles get used interchangeably — an
 
 Typically within a week of the engagement being agreed. The first 30 days is diagnostic — I'm auditing, interviewing your customers, mapping the funnel. But work starts immediately. There's no onboarding period where you're waiting for someone to get up to speed. I've seen this stage before.
 
----
-
-## One Way to Find Out What You Actually Need
-
-The fastest way to answer the fractional vs full-time question for your specific situation is to start with a 15-minute conversation. Not a sales call — an honest assessment.
-
-I'll ask about your ARR, your current marketing setup, what's working and what isn't, and what you're trying to achieve in the next 12 months. At the end, I'll tell you whether fractional makes sense for your stage, what scope I'd recommend, and roughly what results you should expect. If full-time is the right answer for you, I'll tell you that too.
-
-[Book the free 15-minute diagnostic at multiplycmo.com](https://multiplycmo.com/#book)
-
----
-
-*Liviu is the founder of Multiply, a fractional CMO practice built for founder-led B2B SaaS companies at $1–5M ARR. He has 30+ years of experience building companies across four countries.*
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "At what ARR should I hire a full-time CMO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There's no hard line, but $8–10M ARR is where the math usually starts to work. At that point, you have enough budget to support a full marketing team and enough revenue that the $300K fully-loaded cost is manageable. Before $5M ARR, the fractional model almost always makes more sense — financially and operationally."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a fractional CMO hire and train my full-time marketing team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Building the team is part of the job. In most engagements I'll hire 2–4 contractors or freelancers in the first 90 days — copywriter, paid specialist, designer — and manage them directly. The goal is always to leave a team, not a dependency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between a fractional CMO and a VP of Marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A VP of Marketing typically manages a team and owns execution. A CMO owns strategy, positioning, the P&L, and the team. Fractional engagements at the CMO level mean I own the whole marketing function — not just one channel or one campaign. I make the strategic calls and I'm accountable for the numbers, not just the activity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly can a fractional CMO get started?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically within a week of the engagement being agreed. The first 30 days is diagnostic — auditing, interviewing your customers, mapping the funnel. But work starts immediately. There's no onboarding period where you're waiting for someone to get up to speed."
+      }
+    }
+  ]
+}
+</script>

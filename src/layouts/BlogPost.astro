@@ -8,11 +8,39 @@ import Header from '../components/Header.astro';
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, author } = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
+const imageURL = heroImage ? new URL(heroImage, Astro.site).toString() : undefined;
+
+const blogPostingSchema = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": title,
+  "description": description,
+  "datePublished": pubDate.toISOString(),
+  "author": {
+    "@type": "Person",
+    "name": author ?? "Liviu",
+    "url": "https://multiplycmo.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Multiply",
+    "url": "https://multiplycmo.com"
+  },
+  "url": canonicalURL,
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": canonicalURL
+  },
+  ...(imageURL ? { "image": imageURL } : {}),
+};
 ---
 
 <html lang="en">
   <head>
     <BaseHead title={title} description={description} image={heroImage} pubDate={pubDate} author={author} />
+    <script type="application/ld+json" set:html={JSON.stringify(blogPostingSchema)} />
     <style>
       .post-hero-image {
         width: 100%;
@@ -56,6 +84,85 @@ const { title, description, pubDate, updatedDate, heroImage, author } = Astro.pr
         border-top: 1px solid rgba(240,237,230,0.08);
         margin-bottom: 2.5rem;
       }
+      /* ── Author bio ───────────────────── */
+      .author-bio {
+        display: flex;
+        align-items: flex-start;
+        gap: 1.25rem;
+        margin-top: 4rem;
+        padding-top: 2.5rem;
+        border-top: 1px solid rgba(240,237,230,0.08);
+      }
+      .author-photo {
+        width: 56px;
+        height: 56px;
+        border-radius: 50%;
+        object-fit: cover;
+        flex-shrink: 0;
+        border: 1px solid rgba(240,237,230,0.12);
+      }
+      .author-info {
+        display: flex;
+        flex-direction: column;
+        gap: 0.2rem;
+      }
+      .author-name {
+        font-weight: 600;
+        color: var(--text);
+        font-size: 0.95rem;
+      }
+      .author-role {
+        font-size: 0.82rem;
+        color: var(--text-faint);
+        margin-bottom: 0.4rem;
+      }
+      .author-desc {
+        font-size: 0.9rem;
+        color: var(--text-dim);
+        line-height: 1.55;
+        margin: 0;
+      }
+      .author-linkedin {
+        display: inline-block;
+        margin-top: 0.5rem;
+        font-size: 0.82rem;
+        color: var(--accent);
+        text-decoration: none;
+        transition: color 0.2s;
+      }
+      .author-linkedin:hover {
+        color: var(--text);
+      }
+      /* ── Post CTA ─────────────────────── */
+      .post-cta {
+        margin-top: 2.5rem;
+        padding: 2rem 2rem 2rem 2.25rem;
+        background: var(--bg2);
+        border-left: 3px solid var(--accent);
+        border-radius: 0 8px 8px 0;
+      }
+      .post-cta p {
+        font-size: 1rem;
+        color: var(--text-dim);
+        line-height: 1.65;
+        margin: 0 0 1.25rem;
+      }
+      .post-cta-btn {
+        display: inline-block;
+        background: var(--accent);
+        color: var(--bg);
+        font-size: 0.9rem;
+        font-weight: 600;
+        padding: 0.65rem 1.5rem;
+        border-radius: 6px;
+        border: none;
+        cursor: pointer;
+        transition: background 0.2s;
+        font-family: var(--sans);
+      }
+      .post-cta-btn:hover {
+        background: var(--text);
+      }
     </style>
   </head>
 
@@ -79,8 +186,46 @@ const { title, description, pubDate, updatedDate, heroImage, author } = Astro.pr
         <div class="prose">
           <slot />
         </div>
+
+        <!-- Author bio -->
+        <div class="author-bio">
+          <img src="/liviu.jpeg" alt="Liviu" class="author-photo" />
+          <div class="author-info">
+            <div class="author-name">{author ?? 'Liviu'}</div>
+            <div class="author-role">Founder &amp; Fractional CMO, Multiply</div>
+            <p class="author-desc">Serial entrepreneur. 30+ years building businesses. I help founder-led SaaS companies build and run their marketing engine.</p>
+            <a href="https://linkedin.com/in/multiplycmo" target="_blank" rel="noopener noreferrer" class="author-linkedin">LinkedIn →</a>
+          </div>
+        </div>
+
+        <!-- CTA block -->
+        <div class="post-cta">
+          <p>If this sounds like where you are right now, book a free 15-minute diagnostic. No pitch. Just an honest look at your marketing.</p>
+          <button
+            class="post-cta-btn"
+            data-cal-link="multiplycmo/15min"
+            data-cal-namespace="15min"
+            data-cal-config='{"layout":"month_view"}'
+          >Book the free diagnostic</button>
+        </div>
       </div>
     </main>
     <Footer />
+
+    <!-- Cal.com embed -->
+    <script>
+      (function (C, A, L) {
+        let p = function (a, ar) { a.q.push(ar); };
+        let d = C.document;
+        C.Cal = C.Cal || function () {
+          let cal = C.Cal; let ar = arguments;
+          if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; }
+          if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if (typeof namespace === "string") { cal.ns[namespace] = cal.ns[namespace] || api; p(cal.ns[namespace], ar); p(cal, [L, api]); } else { p(cal, ar); } return; }
+          p(cal, ar);
+        };
+      })(window, "https://app.cal.com/embed/embed.js", "init");
+      Cal("init", "15min", { origin: "https://app.cal.com" });
+      Cal.ns["15min"]("ui", { hideEventTypeDetails: false, layout: "month_view" });
+    </script>
   </body>
 </html>

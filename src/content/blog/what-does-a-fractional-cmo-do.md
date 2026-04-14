@@ -1,6 +1,6 @@
 ---
 title: 'What Does a Fractional CMO Actually Do? (It''s Not What Most Founders Expect)'
-description: 'Most founders expect strategy decks and quarterly reviews. A real fractional CMO builds and runs the marketing engine week to week. Here''s exactly what that looks like.'
+description: 'Most founders expect strategy decks. A fractional CMO builds and runs the marketing engine week to week. Here''s exactly what that looks like.'
 pubDate: '2026-04-10'
 author: 'Liviu'
 heroImage: '/blog/what-does-a-fractional-cmo-do.png'
@@ -131,16 +131,43 @@ Yes — and this is often the ideal configuration. A fractional CMO steps into t
 
 First signs: 30–60 days. Meaningful results: 90 days. Full impact: 6 months. The first month is diagnostic and foundational — you won't see the revenue effects yet, but you'll see clarity in decisions, systems getting fixed, and the team operating with better direction. Months two and three, channels are live and the feedback loops start. Month six, if the engagement is working, you have a machine you can point at specific growth targets. Anyone promising results in 30 days is either working with a business that already has the infrastructure, or overpromising.
 
----
-
-## Let's Find Out If This Is What You Need
-
-If you're trying to figure out whether a fractional CMO is the right move — and more specifically, whether I'm the right person — the fastest way is a 15-minute diagnostic call.
-
-I'll ask about your stage, your current marketing setup, and what you're trying to achieve. You'll get an honest answer about whether fractional makes sense, what scope I'd recommend, and what you should expect to see in the first 90 days.
-
-[Book the free diagnostic at multiplycmo.com](https://multiplycmo.com/#book)
-
----
-
-*Liviu is the founder of Multiply, a fractional CMO practice built for founder-led B2B SaaS companies at $1–5M ARR. He has 30+ years of experience building companies across four countries.*
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many hours does a fractional CMO work per week?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically 8–16 hours per week depending on engagement scope. At the lower end ($5,000–6,500/month), it's roughly 2 days per week — focused on strategy, direction, and key decisions. At the higher end ($8,500–10,000/month), it's closer to 4 days per week with hands-on involvement in campaigns and team management."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between a fractional CMO and a marketing consultant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A consultant's deliverable is advice — a diagnosis, a recommendation, a strategy document. A fractional CMO's deliverable is a running marketing function with measurable results. A consultant owns the advice. A fractional CMO owns the number. If CAC isn't moving, a consultant revises the recommendation. A fractional CMO revises the campaign."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a fractional CMO manage my existing marketing team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — and this is often the ideal configuration. A fractional CMO steps into the marketing leadership role, gives your existing team direction, and fills the strategic gap without replacing anyone. In most cases, a team that was doing reasonable work without leadership starts performing significantly better."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from a fractional CMO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First signs: 30–60 days. Meaningful results: 90 days. Full impact: 6 months. The first month is diagnostic and foundational. Months two and three, channels are live and the feedback loops start. Month six, if the engagement is working, you have a machine you can point at specific growth targets."
+      }
+    }
+  ]
+}
+</script>

@@ -146,16 +146,43 @@ When you have product-market fit, real revenue ($1M ARR or above), and growth th
 
 Yes — in fact, that's often the ideal setup. A fractional CMO can manage your existing writers, designers, and specialists, give them direction, and fill the strategic gap without replacing anyone. In most cases, the team performs better with a clear leader than they did without one.
 
----
-
-## Let's Find Out If Marketing Is Your Bottleneck
-
-I offer a free 15-minute diagnostic. No pitch. No deck. Just an honest look at your marketing: what's working, what's broken, and what I'd prioritise first.
-
-If marketing is your bottleneck, I'll tell you what I'd do about it. If it's not, I'll tell you that too.
-
-[Book the free diagnostic at multiplycmo.com](https://multiplycmo.com/#book)
-
----
-
-*Liviu is the founder of Multiply, a fractional CMO practice built for founder-led B2B SaaS companies at $1–5M ARR. He has 30+ years of experience building companies across four countries.*
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a fractional CMO cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically between $5,000 and $15,000 per month, depending on scope and seniority. For most SaaS companies at $1–5M ARR, $6,000–10,000/month is the right range — roughly half the cost of a full-time CMO hire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is a fractional CMO different from a marketing consultant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A consultant tells you what to do. A fractional CMO does it — or manages the people doing it. The deliverable isn't a strategy document. It's a running marketing function. A fractional CMO owns the number, not the advice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should a SaaS company hire a fractional CMO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you have product-market fit, real revenue ($1M ARR or above), and growth that's stalled or slower than it should be — and the bottleneck is clearly marketing leadership, not product. If you're still searching for PMF, you don't need a CMO yet. If you have PMF and can't scale it, you do."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a fractional CMO work with my existing marketing team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — in fact, that's often the ideal setup. A fractional CMO can manage your existing writers, designers, and specialists, give them direction, and fill the strategic gap without replacing anyone. In most cases, the team performs better with a clear leader than they did without one."
+      }
+    }
+  ]
+}
+</script>
