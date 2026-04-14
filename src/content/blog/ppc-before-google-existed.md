@@ -85,7 +85,7 @@ If you can answer those four questions specifically — specific buyer, specific
 
 I see SaaS founders spend weeks arguing about whether to invest in SEO or paid search. That argument is mostly a distraction. The real work is figuring out who your buyer is and what problem gets them to search in the first place. Once you know that, the channel question becomes almost obvious.
 
-Understanding [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do) week to week is partly understanding this: a lot of the job is pulling founders back from the channel conversation and into the buyer conversation. The channel is a distribution mechanism. The buyer is the strategy.
+Understanding [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do) week to week is partly understanding this: a lot of the job is pulling founders back from the channel conversation and into the buyer conversation. The channel is a distribution mechanism. The buyer is the strategy. It's also why the best [fractional CMO services](/blog/fractional-cmo-services) start with the same four-question framework — before any channel decision gets made.
 
 ---
 

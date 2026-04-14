@@ -85,7 +85,7 @@ I don't design every asset. I brief the designer with clear direction — format
 
 What I do is direct, brief, review, and own the results. The judgment layer. The part that ensures all the tactical execution is pointed at the right target.
 
-This matters because it scales. A fractional CMO running 3 contractors produces more output than a solo executor. The leverage comes from the coordination and direction, not from the hours at the keyboard.
+This matters because it scales. A fractional CMO running 3 contractors produces more output than a solo executor. The leverage comes from the coordination and direction, not from the hours at the keyboard. For [fractional CMO services in detail](/blog/fractional-cmo-services) — what's covered across strategy, execution, and leadership, and what sits outside the scope — that's laid out in full.
 
 ---
 

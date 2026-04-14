@@ -49,7 +49,7 @@ A fractional CMO engagement starts in days, not months. There's no hiring proces
 
 **Speed:** A fractional CMO has done this before, at your stage, in your category. They don't need 90 days to audit everything before making a recommendation — they come in with pattern recognition from 20 previous engagements that look a lot like yours. The diagnostic is faster, the decisions are faster, the results are faster.
 
-**What you actually get:** This isn't advisory work. It's execution. Campaigns running, channels live, funnel instrumented, messaging fixed, team managed. The deliverable isn't a strategy document. It's a working marketing function. For a granular picture of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do) — the actual Monday-morning cadence — I've written that out in detail.
+**What you actually get:** This isn't advisory work. It's execution. Campaigns running, channels live, funnel instrumented, messaging fixed, team managed. The deliverable isn't a strategy document. It's a working marketing function. For a granular picture of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do) — the actual Monday-morning cadence — I've written that out in detail. For the [full scope of fractional CMO services](/blog/fractional-cmo-services) — strategy layer, execution layer, leadership layer — that's covered in a dedicated breakdown.
 
 ---
 

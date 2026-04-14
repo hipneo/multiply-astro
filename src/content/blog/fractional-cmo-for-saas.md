@@ -254,7 +254,7 @@ Typically between $5,000 and $15,000 per month, depending on scope and seniority
 
 **How is a fractional CMO different from a marketing consultant?**
 
-A consultant tells you what to do. A fractional CMO does it — or manages the people doing it. The deliverable isn't a strategy document. It's a running marketing function. The accountability structure is also different: a fractional CMO owns the number, not the advice.
+A consultant tells you what to do. A fractional CMO does it — or manages the people doing it. The deliverable isn't a strategy document. It's a running marketing function. The accountability structure is also different: a fractional CMO owns the number, not the advice. For a full overview of [fractional CMO services](/blog/fractional-cmo-services) — what's covered across the strategy, execution, and leadership layers — that's broken down in detail.
 
 **When should a SaaS company hire a fractional CMO?**
 
