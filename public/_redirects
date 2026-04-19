@@ -1,0 +1,3 @@
+http://multiplycmo.com/* https://multiplycmo.com/:splat 301!
+http://www.multiplycmo.com/* https://multiplycmo.com/:splat 301!
+https://www.multiplycmo.com/* https://multiplycmo.com/:splat 301!
