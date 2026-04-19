@@ -64,7 +64,7 @@ This is where fractional CMO engagements consistently produce measurable results
 
 You've probably got the scattered-tactics problem I described above. Or you've grown mostly through founder-led sales and the pipeline runs dry when you take your foot off the pedal. Or you've been spending on marketing without being able to attribute what it's producing.
 
-A fractional CMO at this stage — at the [right price point](/blog/fractional-cmo-cost) for your scope — will typically pay for itself within 90 days in one of three ways: reduced CAC, improved trial-to-paid conversion, or pipeline generated from channels that weren't producing before.
+A fractional CMO at this stage — at the [right price point](/blog/fractional-cmo-cost) for your scope — will typically pay for itself within 90 days in one of three ways: reduced CAC, improved trial-to-paid conversion, or pipeline generated from channels that weren't producing before. For a full breakdown of [fractional CMO rates](/blog/fractional-cmo-rates) — what drives price within the $5,000–$10,000/month range and when hourly makes sense — that's covered in detail.
 
 **$5M–$8M ARR — Probably still yes, but think about the transition.**
 

@@ -99,7 +99,7 @@ This is the full embedded engagement. Everything across the three layers — str
 
 At the lower end of the range (around $5,000–$6,500/month), it's roughly two days per week. Strategic and leadership-heavy, with execution managed through contractors I oversee. At the higher end ($8,500–$10,000/month), it's closer to four days per week with direct hands-on involvement in campaign management and team building.
 
-For a full breakdown of what drives the price within this range, I've written a detailed [fractional CMO cost guide](/blog/fractional-cmo-cost) that covers every tier with specifics.
+For a full breakdown of what drives the price within this range, I've written a detailed [fractional CMO cost guide](/blog/fractional-cmo-cost) that covers every tier with specifics. There's also a dedicated guide to [current fractional CMO rates](/blog/fractional-cmo-rates) covering hourly vs retainer vs diagnostic pricing in full.
 
 ### 3. Advisory Retainer — $2,500–$4,000/month
 

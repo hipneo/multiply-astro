@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0c0c0a"/>
+      <stop offset="100%" style="stop-color:#0f0f0d"/>
+    </linearGradient>
+
+    <!-- Bar fill gradients — diagnostic (short), mid, full retainer (tall) -->
+    <linearGradient id="barA" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#c8923a;stop-opacity:0.55"/>
+      <stop offset="100%" style="stop-color:#c8923a;stop-opacity:0.10"/>
+    </linearGradient>
+    <linearGradient id="barB" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#d9a040;stop-opacity:0.70"/>
+      <stop offset="100%" style="stop-color:#d9a040;stop-opacity:0.12"/>
+    </linearGradient>
+    <linearGradient id="barC" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8b84c;stop-opacity:0.90"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0.15"/>
+    </linearGradient>
+    <linearGradient id="barD" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0c855;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#f0c855;stop-opacity:0.18"/>
+    </linearGradient>
+
+    <!-- Horizontal spectrum band -->
+    <linearGradient id="spectrumBand" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6a4e18;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#8a6422;stop-opacity:0.5"/>
+      <stop offset="50%" style="stop-color:#c8923a;stop-opacity:0.7"/>
+      <stop offset="80%" style="stop-color:#e8b84c;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#f0c855;stop-opacity:0"/>
+    </linearGradient>
+
+    <!-- Baseline gradient -->
+    <linearGradient id="baseline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e8b84c;stop-opacity:0"/>
+      <stop offset="15%" style="stop-color:#e8b84c;stop-opacity:0.6"/>
+      <stop offset="85%" style="stop-color:#e8b84c;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="topglow">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softbloom">
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle dot grid -->
+  <pattern id="dots" x="0" y="0" width="36" height="36" patternUnits="userSpaceOnUse">
+    <circle cx="18" cy="18" r="0.7" fill="#e8b84c" opacity="0.07"/>
+  </pattern>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+
+  <!-- Horizontal guide lines (value axis) -->
+  <line x1="100" y1="180" x2="1100" y2="180" stroke="#e8b84c" stroke-width="0.4" opacity="0.12"/>
+  <line x1="100" y1="280" x2="1100" y2="280" stroke="#e8b84c" stroke-width="0.4" opacity="0.10"/>
+  <line x1="100" y1="380" x2="1100" y2="380" stroke="#e8b84c" stroke-width="0.4" opacity="0.08"/>
+  <line x1="100" y1="480" x2="1100" y2="480" stroke="#e8b84c" stroke-width="0.4" opacity="0.06"/>
+
+  <!-- Tick marks on left axis -->
+  <line x1="96" y1="180" x2="106" y2="180" stroke="#e8b84c" stroke-width="0.8" opacity="0.25"/>
+  <line x1="96" y1="280" x2="106" y2="280" stroke="#e8b84c" stroke-width="0.8" opacity="0.20"/>
+  <line x1="96" y1="380" x2="106" y2="380" stroke="#e8b84c" stroke-width="0.8" opacity="0.15"/>
+  <line x1="96" y1="480" x2="106" y2="480" stroke="#e8b84c" stroke-width="0.8" opacity="0.10"/>
+  <!-- Vertical axis line -->
+  <line x1="100" y1="140" x2="100" y2="530" stroke="#e8b84c" stroke-width="0.6" opacity="0.18"/>
+
+  <!-- ===== FOUR PRICING BARS ===== -->
+  <!-- Widths: 120px each, gaps: 80px, centered in 1200px -->
+  <!-- Total bar+gap span: 4*120 + 3*80 = 480+240 = 720 -->
+  <!-- Start x: (1200-720)/2 = 240 -->
+  <!-- Bar centers: 300, 500, 700, 900 -->
+  <!-- Bar x positions: 240, 440, 640, 840 -->
+
+  <!-- BAR 1 — Diagnostic / $3–5K flat — shortest -->
+  <!-- Height: 180px, top at y=370, bottom at y=530 (above baseline) -->
+  <rect x="240" y="370" width="120" height="160" fill="url(#barA)" rx="2"/>
+  <!-- Bar border top -->
+  <line x1="240" y1="370" x2="360" y2="370" stroke="#c8923a" stroke-width="1.5" opacity="0.6"/>
+  <!-- Side lines -->
+  <line x1="240" y1="370" x2="240" y2="530" stroke="#c8923a" stroke-width="0.8" opacity="0.3"/>
+  <line x1="360" y1="370" x2="360" y2="530" stroke="#c8923a" stroke-width="0.8" opacity="0.3"/>
+  <!-- Top glow dot -->
+  <circle cx="300" cy="370" r="4" fill="#c8923a" opacity="0.7" filter="url(#glow)"/>
+
+  <!-- BAR 2 — Hourly / $150–350/hr — medium-short -->
+  <!-- Height: 260px, top at y=270 -->
+  <rect x="440" y="270" width="120" height="260" fill="url(#barB)" rx="2"/>
+  <line x1="440" y1="270" x2="560" y2="270" stroke="#d9a040" stroke-width="1.5" opacity="0.7"/>
+  <line x1="440" y1="270" x2="440" y2="530" stroke="#d9a040" stroke-width="0.8" opacity="0.35"/>
+  <line x1="560" y1="270" x2="560" y2="530" stroke="#d9a040" stroke-width="0.8" opacity="0.35"/>
+  <circle cx="500" cy="270" r="4.5" fill="#d9a040" opacity="0.8" filter="url(#glow)"/>
+
+  <!-- BAR 3 — Retainer $5–10K — tall -->
+  <!-- Height: 360px, top at y=170 -->
+  <rect x="640" y="170" width="120" height="360" fill="url(#barC)" rx="2"/>
+  <line x1="640" y1="170" x2="760" y2="170" stroke="#e8b84c" stroke-width="2" opacity="0.85"/>
+  <line x1="640" y1="170" x2="640" y2="530" stroke="#e8b84c" stroke-width="0.8" opacity="0.4"/>
+  <line x1="760" y1="170" x2="760" y2="530" stroke="#e8b84c" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="700" cy="170" r="6" fill="#e8b84c" opacity="0.9" filter="url(#topglow)"/>
+
+  <!-- BAR 4 — Full-time CMO (for comparison) — tallest, dimmer -->
+  <!-- Height: 430px, top at y=100 — represents what you'd pay FT -->
+  <rect x="840" y="100" width="120" height="430" fill="url(#barD)" rx="2" opacity="0.35"/>
+  <line x1="840" y1="100" x2="960" y2="100" stroke="#f0c855" stroke-width="1.5" opacity="0.45"/>
+  <line x1="840" y1="100" x2="840" y2="530" stroke="#f0c855" stroke-width="0.8" opacity="0.25"/>
+  <line x1="960" y1="100" x2="960" y2="530" stroke="#f0c855" stroke-width="0.8" opacity="0.25"/>
+  <circle cx="900" cy="100" r="5" fill="#f0c855" opacity="0.5"/>
+
+  <!-- ===== BASELINE ===== -->
+  <line x1="140" y1="530" x2="1060" y2="530" stroke="url(#baseline)" stroke-width="1.5"/>
+
+  <!-- ===== CONNECTING VALUE CURVE across bar tops ===== -->
+  <!-- Smooth curve through: (300,370) → (500,270) → (700,170) → (900,100) -->
+  <path d="M 300 370 C 380 340 420 300 500 270 C 580 240 620 200 700 170 C 780 140 820 115 900 100"
+        stroke="#e8b84c" stroke-width="1.5" fill="none" stroke-dasharray="6,4" opacity="0.45"/>
+
+  <!-- ===== HORIZONTAL SPECTRUM BAND (value watermark) ===== -->
+  <rect x="140" y="480" width="920" height="16" fill="url(#spectrumBand)" rx="1" opacity="0.5"/>
+
+  <!-- ===== BLOOM HALOS above tallest bars ===== -->
+  <ellipse cx="700" cy="170" rx="70" ry="18" fill="#e8b84c" opacity="0.06" filter="url(#softbloom)"/>
+  <ellipse cx="900" cy="100" rx="60" ry="14" fill="#f0c855" opacity="0.04" filter="url(#softbloom)"/>
+
+  <!-- ===== INNER COLUMN DETAILS (subtle vertical stripes) ===== -->
+  <!-- Bar 3 inner highlight -->
+  <rect x="662" y="170" width="2" height="360" fill="#e8b84c" opacity="0.12" rx="1"/>
+  <rect x="736" y="170" width="2" height="360" fill="#e8b84c" opacity="0.08" rx="1"/>
+  <!-- Bar 4 inner highlight -->
+  <rect x="862" y="100" width="2" height="430" fill="#f0c855" opacity="0.08" rx="1"/>
+
+  <!-- ===== BRACKET / CALLOUT LINE — Bar 3 to 4 delta ===== -->
+  <!-- Horizontal bracket showing the gap between retainer top and FT top -->
+  <line x1="970" y1="100" x2="970" y2="170" stroke="#e8b84c" stroke-width="0.8" opacity="0.35"/>
+  <line x1="965" y1="100" x2="975" y2="100" stroke="#e8b84c" stroke-width="0.8" opacity="0.35"/>
+  <line x1="965" y1="170" x2="975" y2="170" stroke="#e8b84c" stroke-width="0.8" opacity="0.35"/>
+
+  <!-- ===== SIDE MARGIN DETAILS ===== -->
+  <!-- Right axis -->
+  <line x1="1100" y1="140" x2="1100" y2="530" stroke="#e8b84c" stroke-width="0.5" opacity="0.12"/>
+  <line x1="1094" y1="180" x2="1104" y2="180" stroke="#e8b84c" stroke-width="0.8" opacity="0.2"/>
+  <line x1="1094" y1="280" x2="1104" y2="280" stroke="#e8b84c" stroke-width="0.8" opacity="0.15"/>
+  <line x1="1094" y1="380" x2="1104" y2="380" stroke="#e8b84c" stroke-width="0.8" opacity="0.12"/>
+  <line x1="1094" y1="480" x2="1104" y2="480" stroke="#e8b84c" stroke-width="0.8" opacity="0.08"/>
+
+  <!-- Corner accent marks -->
+  <line x1="60" y1="80" x2="110" y2="80" stroke="#e8b84c" stroke-width="0.6" opacity="0.2"/>
+  <line x1="60" y1="80" x2="60" y2="130" stroke="#e8b84c" stroke-width="0.6" opacity="0.2"/>
+  <line x1="1140" y1="80" x2="1090" y2="80" stroke="#e8b84c" stroke-width="0.6" opacity="0.2"/>
+  <line x1="1140" y1="80" x2="1140" y2="130" stroke="#e8b84c" stroke-width="0.6" opacity="0.2"/>
+  <line x1="60" y1="550" x2="110" y2="550" stroke="#e8b84c" stroke-width="0.6" opacity="0.15"/>
+  <line x1="60" y1="550" x2="60" y2="500" stroke="#e8b84c" stroke-width="0.6" opacity="0.15"/>
+  <line x1="1140" y1="550" x2="1090" y2="550" stroke="#e8b84c" stroke-width="0.6" opacity="0.15"/>
+  <line x1="1140" y1="550" x2="1140" y2="500" stroke="#e8b84c" stroke-width="0.6" opacity="0.15"/>
+</svg>

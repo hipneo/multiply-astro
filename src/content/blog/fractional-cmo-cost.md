@@ -137,7 +137,7 @@ Your fractional CMO costs $7,500/month. That's $90,000/year.
 
 **Scenario 3:** You've been spending $8,000/month on a content agency with nothing to show in pipeline. Stopping that spend and redirecting $4,000 into a well-run paid channel (managed by the fractional CMO) produces 15 qualified trials in 60 days. You've effectively cut marketing waste and redirected the savings toward something that works.
 
-The question isn't "can we afford a fractional CMO?" The question is: what does six more months of running marketing ourselves cost in stalled growth, wasted spend, and your time?
+The question isn't "can we afford a fractional CMO?" The question is: what does six more months of running marketing ourselves cost in stalled growth, wasted spend, and your time? For the complete picture on [fractional CMO rates and hourly pricing](/blog/fractional-cmo-rates) — how hourly compares to retainer, and what drives cost within each range — that's broken down in full.
 
 ---
 
