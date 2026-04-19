@@ -118,7 +118,7 @@ Don't skip the proof of concept.
 
 **At what ARR should I hire a full-time CMO?**
 
-There's no hard line, but $8–10M ARR is where the math usually starts to work. At that point, you have enough budget to support a full marketing team, enough complexity to justify full-time leadership, and enough revenue that the $300K fully-loaded cost is a manageable percentage of your top line. Before $5M ARR, the fractional model almost always makes more sense — financially and operationally.
+There's no hard line, but $8–10M ARR is where the math usually starts to work. At that point, you have enough budget to support a full marketing team, enough complexity to justify full-time leadership, and enough revenue that the $300K fully-loaded cost is a manageable percentage of your top line. Before $5M ARR, the fractional model almost always makes more sense — financially and operationally. For [early-stage startups considering fractional](/blog/fractional-cmo-for-startups) — including the honest framework around pre-revenue timing — that's covered in detail.
 
 **Can a fractional CMO hire and train my full-time marketing team?**
 

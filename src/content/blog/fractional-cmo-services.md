@@ -127,7 +127,7 @@ The accountability structure is the difference. Agencies account for outputs. A 
 
 The right engagement level isn't about what you can afford — it's about what your business actually needs right now.
 
-**Under $500K ARR:** You probably don't need a full fractional engagement yet. A diagnostic is the right move — understand what's working, get a prioritised roadmap, execute it yourself or with one contractor. The bottleneck at this stage is usually product-market fit, not marketing sophistication.
+**Under $500K ARR:** You probably don't need a full fractional engagement yet. A diagnostic is the right move — understand what's working, get a prioritised roadmap, execute it yourself or with one contractor. The bottleneck at this stage is usually product-market fit, not marketing sophistication. For the full decision framework at this stage, see [fractional CMO for startups](/blog/fractional-cmo-for-startups).
 
 **$500K–$2M ARR:** This is where most founders are doing marketing themselves, supplemented by freelancers and agencies, and nothing is compounding. A fractional retainer at the lower scope level ($5,000–$6,500/month) typically unlocks the most leverage here — someone to own the architecture, manage the vendors, and build the first real funnel.
 

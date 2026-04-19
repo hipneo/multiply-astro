@@ -48,7 +48,7 @@ At this stage, your problem is almost certainly not marketing. It's product-mark
 
 A fractional CMO can't fix those problems. Marketing at this stage amplifies what already works. If you haven't found what works, more marketing spend just accelerates the burn. Save the money. Talk to your customers instead.
 
-The one exception: if you're getting strong inbound signal — people finding you without you chasing them — and you need someone to turn that signal into a repeatable system, there's an argument for a limited diagnostic engagement. But an ongoing retainer at this stage is almost always premature.
+The one exception: if you're getting strong inbound signal — people finding you without you chasing them — and you need someone to turn that signal into a repeatable system, there's an argument for a limited diagnostic engagement. But an ongoing retainer at this stage is almost always premature. For a detailed decision framework covering exactly when it makes sense, see [fractional CMO for startups](/blog/fractional-cmo-for-startups).
 
 **$500K–$1M ARR — Maybe, with conditions.**
 
