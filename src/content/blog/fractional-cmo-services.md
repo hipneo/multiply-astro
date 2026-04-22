@@ -119,7 +119,7 @@ What agencies don't do: own the connection between their work and your revenue. 
 
 A fractional CMO owns the whole picture. I decide which channels to invest in, what the campaigns say, who manages them, and how success is measured — against your revenue goal, not their deliverable. When the SEO isn't generating qualified pipeline, I reconsider the content strategy. When the paid campaigns have a great CTR but poor conversion to trial, I rebuild the landing page. When two agencies are pointing in different directions, I resolve the conflict.
 
-The accountability structure is the difference. Agencies account for outputs. A [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) accounts for outcomes.
+The accountability structure is the difference. Agencies account for outputs. A [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) accounts for outcomes. For a broader look at how [fractional marketing](/blog/fractional-marketing) works as a model — including the different role types and what the first 90 days looks like — that's covered in the complete guide.
 
 ---
 

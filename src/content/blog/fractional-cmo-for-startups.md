@@ -115,7 +115,7 @@ Before you reach out to any fractional CMO — including me — answer these hon
 4. **Can you describe your ideal customer precisely — not a demographic, but a specific person with a specific problem?** If the answer is vague, a diagnostic engagement (not a full retainer) is the right entry point.
 5. **Do you have 2–3 hours per week to work closely with a marketing leader?** A fractional CMO is not a set-and-forget hire. They need your time, your input, and your decisions. If you can't carve that out, the engagement won't perform.
 
-If you answered yes to all five, you're in the right position to evaluate an engagement seriously. If you answered no to two or more, address those gaps first.
+If you answered yes to all five, you're in the right position to evaluate an engagement seriously. If you answered no to two or more, address those gaps first. For a broader introduction to the [fractional marketing approach](/blog/fractional-marketing) — how the model works, what it costs, and what separates it from agencies — the complete guide is a useful next read.
 
 For a full picture of [fractional CMO services](/blog/fractional-cmo-services) — what's covered at each engagement level — and current [fractional CMO rates](/blog/fractional-cmo-rates) so you can budget properly, both are worth reviewing before you start a conversation.
 

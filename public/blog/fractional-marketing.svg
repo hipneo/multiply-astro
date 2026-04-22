@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0b"/>
+      <stop offset="100%" style="stop-color:#101010"/>
+    </linearGradient>
+
+    <!-- Flow path gradients — from satellite (dim) to center (bright) -->
+    <linearGradient id="flow1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a4e18;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="flow2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a4e18;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="flow3" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6a4e18;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="flow4" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#6a4e18;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="flowT" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a4e18;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="flowB" x1="50%" y1="100%" x2="50%" y2="0%">
+      <stop offset="0%" style="stop-color:#6a4e18;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="flowL" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" style="stop-color:#6a4e18;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0.8"/>
+    </linearGradient>
+    <linearGradient id="flowR" x1="100%" y1="50%" x2="0%" y2="50%">
+      <stop offset="0%" style="stop-color:#6a4e18;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0.8"/>
+    </linearGradient>
+
+    <!-- Center radial glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#e8b84c;stop-opacity:0.18"/>
+      <stop offset="60%" style="stop-color:#e8b84c;stop-opacity:0.06"/>
+      <stop offset="100%" style="stop-color:#e8b84c;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Satellite node glow -->
+    <radialGradient id="satGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#c8923a;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#c8923a;stop-opacity:0"/>
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="brightglow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="bloom">
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="satbloom">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle dot grid -->
+  <pattern id="dots" x="0" y="0" width="36" height="36" patternUnits="userSpaceOnUse">
+    <circle cx="18" cy="18" r="0.65" fill="#e8b84c" opacity="0.06"/>
+  </pattern>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+
+  <!-- Center is at 600, 315 -->
+
+  <!-- ===== OUTER AMBIENT GLOW at center ===== -->
+  <ellipse cx="600" cy="315" rx="220" ry="180" fill="url(#centerGlow)" filter="url(#bloom)"/>
+
+  <!-- ===== CONCENTRIC ORBIT RINGS ===== -->
+  <!-- Outer ring — very faint -->
+  <circle cx="600" cy="315" r="240" fill="none" stroke="#e8b84c" stroke-width="0.5" opacity="0.08" stroke-dasharray="3,8"/>
+  <!-- Mid ring -->
+  <circle cx="600" cy="315" r="150" fill="none" stroke="#e8b84c" stroke-width="0.6" opacity="0.12" stroke-dasharray="4,6"/>
+  <!-- Inner ring -->
+  <circle cx="600" cy="315" r="72" fill="none" stroke="#e8b84c" stroke-width="0.8" opacity="0.20"/>
+
+  <!-- ===== 8 SATELLITE NODES at varying distances and angles ===== -->
+  <!-- Satellites positioned on outer orbit r≈240, mid r≈160, with variation -->
+  <!-- Using angles: 0°(right), 45°(BR), 90°(bottom), 135°(BL), 180°(left), 225°(TL), 270°(top), 315°(TR) -->
+  <!-- But offset some for visual interest -->
+
+  <!-- Node 1 — right, r=240 — (840, 315) -->
+  <!-- Node 2 — bottom-right, r=220 — (756, 471) -->
+  <!-- Node 3 — bottom, r=200 — (600, 515) -->
+  <!-- Node 4 — bottom-left, r=215 — (448, 467) -->
+  <!-- Node 5 — left, r=240 — (360, 315) -->
+  <!-- Node 6 — top-left, r=210 — (452, 167) -->
+  <!-- Node 7 — top, r=195 — (600, 120) -->
+  <!-- Node 8 — top-right, r=225 — (759, 156) -->
+
+  <!-- ===== CURVED FLOW PATHS — bezier curves flowing to center ===== -->
+  <!-- Each path curves toward center (600, 315), creating a subtle swirl -->
+
+  <!-- Node 1 → center (right) -->
+  <path d="M 840 315 C 780 295 720 310 600 315" stroke="url(#flowL)" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <!-- Glow copy -->
+  <path d="M 840 315 C 780 295 720 310 600 315" stroke="#e8b84c" stroke-width="0.8" fill="none" opacity="0.25" filter="url(#glow)"/>
+
+  <!-- Node 2 → center (bottom-right) -->
+  <path d="M 756 471 C 720 430 680 390 600 315" stroke="#c8923a" stroke-width="1.5" fill="none" opacity="0.55"/>
+  <path d="M 756 471 C 720 430 680 390 600 315" stroke="#e8b84c" stroke-width="0.8" fill="none" opacity="0.2" filter="url(#glow)"/>
+
+  <!-- Node 3 → center (bottom) -->
+  <path d="M 600 515 C 580 460 592 400 600 315" stroke="url(#flowB)" stroke-width="1.5" fill="none" opacity="0.55"/>
+  <path d="M 600 515 C 580 460 592 400 600 315" stroke="#e8b84c" stroke-width="0.8" fill="none" opacity="0.2" filter="url(#glow)"/>
+
+  <!-- Node 4 → center (bottom-left) -->
+  <path d="M 448 467 C 490 430 535 388 600 315" stroke="#c8923a" stroke-width="1.5" fill="none" opacity="0.55"/>
+  <path d="M 448 467 C 490 430 535 388 600 315" stroke="#e8b84c" stroke-width="0.8" fill="none" opacity="0.2" filter="url(#glow)"/>
+
+  <!-- Node 5 → center (left) -->
+  <path d="M 360 315 C 420 330 480 318 600 315" stroke="url(#flowR)" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <path d="M 360 315 C 420 330 480 318 600 315" stroke="#e8b84c" stroke-width="0.8" fill="none" opacity="0.25" filter="url(#glow)"/>
+
+  <!-- Node 6 → center (top-left) -->
+  <path d="M 452 167 C 490 210 535 250 600 315" stroke="#c8923a" stroke-width="1.5" fill="none" opacity="0.55"/>
+  <path d="M 452 167 C 490 210 535 250 600 315" stroke="#e8b84c" stroke-width="0.8" fill="none" opacity="0.2" filter="url(#glow)"/>
+
+  <!-- Node 7 → center (top) -->
+  <path d="M 600 120 C 618 175 608 240 600 315" stroke="url(#flowT)" stroke-width="1.5" fill="none" opacity="0.55"/>
+  <path d="M 600 120 C 618 175 608 240 600 315" stroke="#e8b84c" stroke-width="0.8" fill="none" opacity="0.2" filter="url(#glow)"/>
+
+  <!-- Node 8 → center (top-right) -->
+  <path d="M 759 156 C 718 207 664 255 600 315" stroke="#c8923a" stroke-width="1.5" fill="none" opacity="0.55"/>
+  <path d="M 759 156 C 718 207 664 255 600 315" stroke="#e8b84c" stroke-width="0.8" fill="none" opacity="0.2" filter="url(#glow)"/>
+
+  <!-- ===== SECONDARY CROSS-CONNECTIONS between adjacent satellites ===== -->
+  <!-- These suggest the channels aren't isolated — they connect to each other through the center -->
+  <path d="M 840 315 C 810 390 790 440 756 471" stroke="#3a2c0c" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <path d="M 756 471 C 690 500 640 510 600 515" stroke="#3a2c0c" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <path d="M 600 515 C 540 510 488 494 448 467" stroke="#3a2c0c" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <path d="M 448 467 C 388 430 368 378 360 315" stroke="#3a2c0c" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <path d="M 360 315 C 370 248 400 202 452 167" stroke="#3a2c0c" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <path d="M 452 167 C 510 132 558 122 600 120" stroke="#3a2c0c" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <path d="M 600 120 C 644 122 700 136 759 156" stroke="#3a2c0c" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <path d="M 759 156 C 808 183 832 240 840 315" stroke="#3a2c0c" stroke-width="0.8" fill="none" opacity="0.3"/>
+
+  <!-- ===== SATELLITE NODE CLUSTERS ===== -->
+  <!-- Each node has a small halo + main circle + inner dot -->
+
+  <!-- Node 1 — right (840, 315) -->
+  <circle cx="840" cy="315" r="30" fill="#c8923a" opacity="0.04" filter="url(#satbloom)"/>
+  <circle cx="840" cy="315" r="12" fill="#0d0d0b" stroke="#9a6e28" stroke-width="1.2" opacity="0.7"/>
+  <circle cx="840" cy="315" r="5" fill="#c8923a" opacity="0.6" filter="url(#glow)"/>
+  <!-- Small cluster marks around node 1 -->
+  <circle cx="858" cy="306" r="2.5" fill="#7a5820" opacity="0.35"/>
+  <circle cx="855" cy="326" r="2" fill="#7a5820" opacity="0.28"/>
+  <circle cx="822" cy="300" r="2" fill="#7a5820" opacity="0.28"/>
+
+  <!-- Node 2 — bottom-right (756, 471) -->
+  <circle cx="756" cy="471" r="28" fill="#c8923a" opacity="0.04" filter="url(#satbloom)"/>
+  <circle cx="756" cy="471" r="11" fill="#0d0d0b" stroke="#8a6020" stroke-width="1.2" opacity="0.65"/>
+  <circle cx="756" cy="471" r="4.5" fill="#c8923a" opacity="0.55" filter="url(#glow)"/>
+  <circle cx="772" cy="460" r="2" fill="#7a5820" opacity="0.3"/>
+  <circle cx="768" cy="484" r="2" fill="#7a5820" opacity="0.25"/>
+
+  <!-- Node 3 — bottom (600, 515) -->
+  <circle cx="600" cy="515" r="28" fill="#c8923a" opacity="0.04" filter="url(#satbloom)"/>
+  <circle cx="600" cy="515" r="11" fill="#0d0d0b" stroke="#8a6020" stroke-width="1.2" opacity="0.65"/>
+  <circle cx="600" cy="515" r="4.5" fill="#c8923a" opacity="0.55" filter="url(#glow)"/>
+  <circle cx="614" cy="506" r="2" fill="#7a5820" opacity="0.3"/>
+  <circle cx="586" cy="506" r="2" fill="#7a5820" opacity="0.25"/>
+
+  <!-- Node 4 — bottom-left (448, 467) -->
+  <circle cx="448" cy="467" r="28" fill="#c8923a" opacity="0.04" filter="url(#satbloom)"/>
+  <circle cx="448" cy="467" r="11" fill="#0d0d0b" stroke="#8a6020" stroke-width="1.2" opacity="0.65"/>
+  <circle cx="448" cy="467" r="4.5" fill="#c8923a" opacity="0.55" filter="url(#glow)"/>
+  <circle cx="432" cy="458" r="2" fill="#7a5820" opacity="0.3"/>
+  <circle cx="436" cy="477" r="2" fill="#7a5820" opacity="0.25"/>
+
+  <!-- Node 5 — left (360, 315) -->
+  <circle cx="360" cy="315" r="30" fill="#c8923a" opacity="0.04" filter="url(#satbloom)"/>
+  <circle cx="360" cy="315" r="12" fill="#0d0d0b" stroke="#9a6e28" stroke-width="1.2" opacity="0.7"/>
+  <circle cx="360" cy="315" r="5" fill="#c8923a" opacity="0.6" filter="url(#glow)"/>
+  <circle cx="342" cy="306" r="2.5" fill="#7a5820" opacity="0.35"/>
+  <circle cx="345" cy="326" r="2" fill="#7a5820" opacity="0.28"/>
+  <circle cx="378" cy="300" r="2" fill="#7a5820" opacity="0.28"/>
+
+  <!-- Node 6 — top-left (452, 167) -->
+  <circle cx="452" cy="167" r="28" fill="#c8923a" opacity="0.04" filter="url(#satbloom)"/>
+  <circle cx="452" cy="167" r="11" fill="#0d0d0b" stroke="#8a6020" stroke-width="1.2" opacity="0.65"/>
+  <circle cx="452" cy="167" r="4.5" fill="#c8923a" opacity="0.55" filter="url(#glow)"/>
+  <circle cx="436" cy="176" r="2" fill="#7a5820" opacity="0.3"/>
+  <circle cx="440" cy="156" r="2" fill="#7a5820" opacity="0.25"/>
+
+  <!-- Node 7 — top (600, 120) -->
+  <circle cx="600" cy="120" r="28" fill="#c8923a" opacity="0.04" filter="url(#satbloom)"/>
+  <circle cx="600" cy="120" r="11" fill="#0d0d0b" stroke="#8a6020" stroke-width="1.2" opacity="0.65"/>
+  <circle cx="600" cy="120" r="4.5" fill="#c8923a" opacity="0.55" filter="url(#glow)"/>
+  <circle cx="614" cy="130" r="2" fill="#7a5820" opacity="0.3"/>
+  <circle cx="586" cy="130" r="2" fill="#7a5820" opacity="0.25"/>
+
+  <!-- Node 8 — top-right (759, 156) -->
+  <circle cx="759" cy="156" r="28" fill="#c8923a" opacity="0.04" filter="url(#satbloom)"/>
+  <circle cx="759" cy="156" r="11" fill="#0d0d0b" stroke="#8a6020" stroke-width="1.2" opacity="0.65"/>
+  <circle cx="759" cy="156" r="4.5" fill="#c8923a" opacity="0.55" filter="url(#glow)"/>
+  <circle cx="775" cy="166" r="2" fill="#7a5820" opacity="0.3"/>
+  <circle cx="772" cy="146" r="2" fill="#7a5820" opacity="0.25"/>
+
+  <!-- ===== CENTER NODE — the strategic core ===== -->
+  <!-- Outer bloom -->
+  <circle cx="600" cy="315" r="48" fill="#e8b84c" opacity="0.05" filter="url(#bloom)"/>
+  <!-- Outer ring -->
+  <circle cx="600" cy="315" r="30" fill="#0d0d0b" stroke="#e8b84c" stroke-width="1.5" opacity="0.7"/>
+  <!-- Mid ring -->
+  <circle cx="600" cy="315" r="20" fill="#0d0d0b" stroke="#e8b84c" stroke-width="1" opacity="0.85"/>
+  <!-- Inner fill -->
+  <circle cx="600" cy="315" r="10" fill="#e8b84c" opacity="0.85" filter="url(#brightglow)"/>
+  <!-- Core -->
+  <circle cx="600" cy="315" r="4" fill="#0d0d0b"/>
+
+  <!-- Cross hairs on center -->
+  <line x1="572" y1="315" x2="590" y2="315" stroke="#e8b84c" stroke-width="0.8" opacity="0.4"/>
+  <line x1="610" y1="315" x2="628" y2="315" stroke="#e8b84c" stroke-width="0.8" opacity="0.4"/>
+  <line x1="600" y1="287" x2="600" y2="305" stroke="#e8b84c" stroke-width="0.8" opacity="0.4"/>
+  <line x1="600" y1="325" x2="600" y2="343" stroke="#e8b84c" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- ===== CORNER MARKS ===== -->
+  <line x1="48" y1="48" x2="100" y2="48" stroke="#e8b84c" stroke-width="0.6" opacity="0.18"/>
+  <line x1="48" y1="48" x2="48" y2="100" stroke="#e8b84c" stroke-width="0.6" opacity="0.18"/>
+  <line x1="1152" y1="48" x2="1100" y2="48" stroke="#e8b84c" stroke-width="0.6" opacity="0.18"/>
+  <line x1="1152" y1="48" x2="1152" y2="100" stroke="#e8b84c" stroke-width="0.6" opacity="0.18"/>
+  <line x1="48" y1="582" x2="100" y2="582" stroke="#e8b84c" stroke-width="0.6" opacity="0.14"/>
+  <line x1="48" y1="582" x2="48" y2="530" stroke="#e8b84c" stroke-width="0.6" opacity="0.14"/>
+  <line x1="1152" y1="582" x2="1100" y2="582" stroke="#e8b84c" stroke-width="0.6" opacity="0.14"/>
+  <line x1="1152" y1="582" x2="1152" y2="530" stroke="#e8b84c" stroke-width="0.6" opacity="0.14"/>
+</svg>
