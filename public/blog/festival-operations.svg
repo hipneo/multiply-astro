@@ -1,0 +1,104 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="trackFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1C1C1A" stop-opacity="0"/>
+      <stop offset="8%" stop-color="#1C1C1A" stop-opacity="0.14"/>
+      <stop offset="85%" stop-color="#1C1C1A" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#1C1C1A" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="trackFadeB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1C1C1A" stop-opacity="0"/>
+      <stop offset="12%" stop-color="#1C1C1A" stop-opacity="0.09"/>
+      <stop offset="80%" stop-color="#1C1C1A" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#1C1C1A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#F9F8F5"/>
+
+  <!-- Faint vertical grid -->
+  <line x1="240" y1="0" x2="240" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="480" y1="0" x2="480" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="720" y1="0" x2="720" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="960" y1="0" x2="960" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- Left bracket (scope marker) -->
+  <line x1="48" y1="88" x2="48" y2="528" stroke="#1C1C1A" stroke-width="1.5" opacity="0.12"/>
+  <line x1="48" y1="88" x2="64" y2="88" stroke="#1C1C1A" stroke-width="1.5" opacity="0.12"/>
+  <line x1="48" y1="528" x2="64" y2="528" stroke="#1C1C1A" stroke-width="1.5" opacity="0.12"/>
+
+  <!-- Horizontal track bars (9 tracks representing departments) -->
+  <!-- Track 1 -->
+  <rect x="72" y="85" width="680" height="6" fill="url(#trackFade)" rx="1"/>
+  <!-- Track 2 -->
+  <rect x="130" y="135" width="820" height="6" fill="url(#trackFade)" rx="1"/>
+  <!-- Track 3 -->
+  <rect x="88" y="185" width="580" height="6" fill="url(#trackFadeB)" rx="1"/>
+  <!-- Track 4 -->
+  <rect x="180" y="235" width="760" height="6" fill="url(#trackFade)" rx="1"/>
+  <!-- Track 5 (center, heavier) -->
+  <rect x="96" y="288" width="880" height="8" fill="url(#trackFade)" rx="1"/>
+  <!-- Track 6 -->
+  <rect x="148" y="345" width="640" height="6" fill="url(#trackFade)" rx="1"/>
+  <!-- Track 7 -->
+  <rect x="72" y="395" width="780" height="6" fill="url(#trackFadeB)" rx="1"/>
+  <!-- Track 8 -->
+  <rect x="200" y="445" width="560" height="6" fill="url(#trackFade)" rx="1"/>
+  <!-- Track 9 -->
+  <rect x="110" y="495" width="730" height="6" fill="url(#trackFadeB)" rx="1"/>
+
+  <!-- Track start dots -->
+  <circle cx="72" cy="88" r="3" fill="#1C1C1A" opacity="0.18"/>
+  <circle cx="130" cy="138" r="3" fill="#1C1C1A" opacity="0.18"/>
+  <circle cx="88" cy="188" r="3" fill="#1C1C1A" opacity="0.13"/>
+  <circle cx="180" cy="238" r="3" fill="#1C1C1A" opacity="0.18"/>
+  <circle cx="96" cy="292" r="4" fill="#1C1C1A" opacity="0.18"/>
+  <circle cx="148" cy="348" r="3" fill="#1C1C1A" opacity="0.18"/>
+  <circle cx="72" cy="398" r="3" fill="#1C1C1A" opacity="0.13"/>
+  <circle cx="200" cy="448" r="3" fill="#1C1C1A" opacity="0.18"/>
+  <circle cx="110" cy="498" r="3" fill="#1C1C1A" opacity="0.13"/>
+
+  <!-- Crimson orchestration column (semi-transparent) -->
+  <rect x="620" y="48" width="56" height="534" fill="#9B2335" opacity="0.06" rx="2"/>
+
+  <!-- Crimson center spine -->
+  <line x1="648" y1="48" x2="648" y2="582" stroke="#9B2335" stroke-width="1.5" opacity="0.35"/>
+
+  <!-- Intersection highlights — where the spine meets each track -->
+  <rect x="620" y="82" width="56" height="12" fill="#9B2335" opacity="0.45" rx="1"/>
+  <rect x="620" y="132" width="56" height="12" fill="#9B2335" opacity="0.45" rx="1"/>
+  <rect x="620" y="182" width="56" height="12" fill="#9B2335" opacity="0.35" rx="1"/>
+  <rect x="620" y="232" width="56" height="12" fill="#9B2335" opacity="0.45" rx="1"/>
+  <rect x="620" y="285" width="56" height="14" fill="#9B2335" opacity="0.55" rx="1"/>
+  <rect x="620" y="342" width="56" height="12" fill="#9B2335" opacity="0.45" rx="1"/>
+  <rect x="620" y="392" width="56" height="12" fill="#9B2335" opacity="0.35" rx="1"/>
+  <rect x="620" y="442" width="56" height="12" fill="#9B2335" opacity="0.45" rx="1"/>
+  <rect x="620" y="492" width="56" height="12" fill="#9B2335" opacity="0.35" rx="1"/>
+
+  <!-- Spine cap marks (top and bottom ticks) -->
+  <line x1="632" y1="48" x2="664" y2="48" stroke="#9B2335" stroke-width="1.5" opacity="0.5"/>
+  <line x1="632" y1="582" x2="664" y2="582" stroke="#9B2335" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Right side: secondary accent lines (schedule ticks) -->
+  <line x1="960" y1="88" x2="1060" y2="88" stroke="#9B2335" stroke-width="1" opacity="0.2"/>
+  <line x1="960" y1="138" x2="1100" y2="138" stroke="#9B2335" stroke-width="1" opacity="0.2"/>
+  <line x1="960" y1="188" x2="1020" y2="188" stroke="#9B2335" stroke-width="1" opacity="0.15"/>
+  <line x1="960" y1="238" x2="1080" y2="238" stroke="#9B2335" stroke-width="1" opacity="0.2"/>
+  <line x1="960" y1="292" x2="1120" y2="292" stroke="#9B2335" stroke-width="1" opacity="0.25"/>
+  <line x1="960" y1="348" x2="1060" y2="348" stroke="#9B2335" stroke-width="1" opacity="0.2"/>
+  <line x1="960" y1="398" x2="1040" y2="398" stroke="#9B2335" stroke-width="1" opacity="0.15"/>
+  <line x1="960" y1="448" x2="1090" y2="448" stroke="#9B2335" stroke-width="1" opacity="0.2"/>
+  <line x1="960" y1="498" x2="1050" y2="498" stroke="#9B2335" stroke-width="1" opacity="0.15"/>
+
+  <!-- Top-right corner geometric accent -->
+  <rect x="1108" y="44" width="52" height="52" fill="none" stroke="#9B2335" stroke-width="1" opacity="0.25" rx="1"/>
+  <rect x="1122" y="58" width="24" height="24" fill="#9B2335" opacity="0.12"/>
+  <line x1="1108" y1="70" x2="1160" y2="70" stroke="#9B2335" stroke-width="0.75" opacity="0.2"/>
+
+  <!-- Bottom-left corner accent -->
+  <rect x="40" y="558" width="36" height="28" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.1" rx="1"/>
+
+  <!-- Subtle horizontal rule at vertical center -->
+  <line x1="0" y1="315" x2="1200" y2="315" stroke="#1C1C1A" stroke-width="0.5" opacity="0.05"/>
+</svg>
