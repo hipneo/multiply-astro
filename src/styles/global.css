@@ -2,14 +2,16 @@
 html, body { overflow-x: hidden; max-width: 100%; }
 
 :root {
-  --bg: #0E0E0C;
-  --bg2: #161614;
-  --bg3: #1E1E1B;
-  --text: #F0EDE6;
-  --text-dim: #9A9790;
-  --text-faint: #5C5A55;
-  --accent: #E8A84C;
-  --accent-dim: #C4863A;
+  --bg: #F9F8F5;
+  --bg2: #F2F0EB;
+  --bg3: #E8E6E0;
+  --text: #1C1C1A;
+  --text-dim: #6B6860;
+  --text-faint: #A8A49C;
+  --text-body: #3C3C3A;
+  --accent: #B8832A;
+  --accent-dim: #8C6420;
+  --border: #E8E6E0;
   --serif: 'DM Serif Display', Georgia, serif;
   --sans: 'DM Sans', -apple-system, sans-serif;
   --max: 1100px;
@@ -28,15 +30,26 @@ body {
 }
 
 a { color: var(--accent); text-decoration: none; }
-a:hover { color: var(--text); }
+a:hover { color: var(--accent-dim); }
+
+::selection {
+  background: rgba(184, 131, 42, 0.15);
+  color: var(--text);
+}
+
+/* Light scrollbar */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--bg2); }
+::-webkit-scrollbar-thumb { background: var(--bg3); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-faint); }
 
 .container { max-width: var(--max); margin: 0 auto; padding: 0 var(--pad); }
 
 /* ── BLOG PROSE ── */
 .prose {
-  font-size: 1.05rem;
+  font-size: 1.125rem;
   line-height: 1.8;
-  color: var(--text-dim);
+  color: var(--text-body);
 }
 .prose p { margin-bottom: 1.5em; }
 .prose h1,
@@ -49,16 +62,16 @@ a:hover { color: var(--text); }
   color: var(--text);
   line-height: 1.2;
   letter-spacing: -0.02em;
-  margin: 2rem 0 0.75rem;
+  margin: 2.25rem 0 0.75rem;
 }
 .prose h1 { font-size: 2.2rem; }
 .prose h2 { font-size: 1.7rem; }
 .prose h3 { font-size: 1.35rem; }
-.prose h4 { font-size: 1.1rem; font-family: var(--sans); font-weight: 600; letter-spacing: 0; }
+.prose h4 { font-size: 1.05rem; font-family: var(--sans); font-weight: 600; letter-spacing: 0; }
 .prose strong, .prose b { color: var(--text); font-weight: 600; }
 .prose em { color: var(--text); }
-.prose a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
-.prose a:hover { color: var(--text); }
+.prose a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: rgba(184,131,42,0.4); }
+.prose a:hover { color: var(--accent-dim); text-decoration-color: var(--accent-dim); }
 .prose ul, .prose ol { padding-left: 1.5rem; margin-bottom: 1.5em; }
 .prose li { margin-bottom: 0.4em; }
 .prose blockquote {
@@ -72,19 +85,20 @@ a:hover { color: var(--text); }
 }
 .prose hr {
   border: none;
-  border-top: 1px solid rgba(240,237,230,0.08);
+  border-top: 1px solid var(--border);
   margin: 2.5rem 0;
 }
 .prose code {
-  background: var(--bg3);
+  background: var(--bg2);
   color: var(--accent);
   padding: 2px 6px;
   border-radius: 4px;
   font-size: 0.9em;
+  border: 1px solid var(--border);
 }
 .prose pre {
   background: var(--bg2);
-  border: 1px solid rgba(240,237,230,0.06);
+  border: 1px solid var(--border);
   border-radius: 8px;
   padding: 1.5em;
   overflow-x: auto;
@@ -95,20 +109,23 @@ a:hover { color: var(--text); }
   color: var(--text-dim);
   padding: 0;
   font-size: 0.9em;
+  border: none;
 }
 .prose img {
   max-width: 100%;
   border-radius: 8px;
   margin: 1.5rem 0;
+  border: 1px solid var(--border);
 }
 .prose table {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 1.5em;
+  font-size: 0.95rem;
 }
 .prose th, .prose td {
   padding: 0.6rem 1rem;
-  border: 1px solid rgba(240,237,230,0.08);
+  border: 1px solid var(--border);
   text-align: left;
 }
 .prose th { color: var(--text); font-weight: 600; background: var(--bg2); }

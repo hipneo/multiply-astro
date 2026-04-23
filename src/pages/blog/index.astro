@@ -15,13 +15,14 @@ const posts = (await getCollection('blog')).sort(
 <html lang="en">
   <head>
     <BaseHead
-      title={`Blog — ${SITE_TITLE}`}
+      title={`Writing — ${SITE_TITLE}`}
       description="Marketing strategy, growth, and lessons from the trenches. For SaaS founders who want to build a real marketing engine."
     />
     <style>
       .blog-header {
-        padding: 5rem 0 3rem;
-        border-bottom: 1px solid rgba(240,237,230,0.08);
+        padding: 5rem 0 3.5rem;
+        border-bottom: 1px solid var(--border);
+        max-width: 720px;
       }
       .blog-header .section-label {
         font-size: 12px;
@@ -33,90 +34,58 @@ const posts = (await getCollection('blog')).sort(
       }
       .blog-header h1 {
         font-family: var(--serif);
-        font-size: clamp(2rem, 4vw, 3rem);
-        line-height: 1.15;
+        font-size: clamp(2.2rem, 4vw, 3.2rem);
+        line-height: 1.1;
         letter-spacing: -0.02em;
+        color: var(--text);
         margin-bottom: 0.75rem;
       }
       .blog-header p {
         color: var(--text-dim);
         font-size: 1.05rem;
-        max-width: 520px;
+        max-width: 500px;
+        line-height: 1.7;
       }
-      .posts-grid {
-        padding: 4rem 0;
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-        gap: 2rem;
+      .posts-list {
+        padding: 0;
+        max-width: 720px;
       }
-      .post-card {
-        background: var(--bg2);
-        border: 1px solid rgba(240,237,230,0.06);
-        border-radius: 12px;
-        overflow: hidden;
-        transition: border-color 0.2s;
+      .post-item {
         display: block;
-      }
-      .post-card:hover {
-        border-color: var(--accent-dim);
+        padding: 2.5rem 0;
+        border-bottom: 1px solid var(--border);
+        transition: none;
         color: inherit;
+        text-decoration: none;
       }
-      .post-card-img {
-        width: 100%;
-        aspect-ratio: 16/9;
-        overflow: hidden;
-      }
-      .post-card-img img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        display: block;
-        transition: transform 0.3s ease;
-      }
-      .post-card:hover .post-card-img img {
-        transform: scale(1.02);
-      }
-      .post-card-img-placeholder {
-        width: 100%;
-        aspect-ratio: 16/9;
-        background: var(--bg3);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: 1.5rem;
-        box-sizing: border-box;
-      }
-      .post-card-img-placeholder span {
-        font-family: var(--serif);
-        font-size: 1.1rem;
-        line-height: 1.3;
-        color: var(--text-faint);
-        text-align: center;
-        letter-spacing: -0.01em;
-      }
-      .post-card-body {
-        padding: 1.5rem;
-      }
-      .post-card-date {
-        font-size: 12px;
-        color: var(--text-faint);
-        margin-bottom: 0.6rem;
-        text-transform: uppercase;
-        letter-spacing: 0.08em;
-      }
-      .post-card-title {
-        font-family: var(--serif);
-        font-size: 1.25rem;
-        line-height: 1.25;
-        letter-spacing: -0.01em;
-        color: var(--text);
-        margin: 0;
-      }
-      .post-card:hover .post-card-title {
+      .post-item:hover .post-item-title {
         color: var(--accent);
       }
-      @media (max-width: 640px) {
-        .posts-grid { grid-template-columns: 1fr; }
+      .post-item-date {
+        font-size: 12px;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--text-faint);
+        margin-bottom: 0.6rem;
+      }
+      .post-item-title {
+        font-family: var(--serif);
+        font-size: clamp(1.3rem, 2.5vw, 1.75rem);
+        line-height: 1.2;
+        letter-spacing: -0.02em;
+        color: var(--text);
+        margin-bottom: 0.6rem;
+        transition: color 0.2s;
+      }
+      .post-item-desc {
+        font-size: 0.95rem;
+        color: var(--text-dim);
+        line-height: 1.6;
+        max-width: 600px;
+      }
+      .posts-section {
+        padding: 0 0 5rem;
       }
     </style>
   </head>
@@ -126,29 +95,23 @@ const posts = (await getCollection('blog')).sort(
       <div class="container">
         <div class="blog-header">
           <div class="section-label">From the desk of Liviu</div>
-          <h1>Marketing that compounds.</h1>
-          <p>Strategy, growth, and lessons from the trenches — for SaaS founders building real marketing engines.</p>
+          <h1>Writing.</h1>
+          <p>Marketing strategy, growth, and lessons from the trenches — for SaaS founders building real marketing engines.</p>
         </div>
-        <div class="posts-grid">
-          {posts.map((post) => (
-            <a class="post-card" href={`/blog/${post.id}/`}>
-              {post.data.heroImage ? (
-                <div class="post-card-img">
-                  <img src={post.data.heroImage} alt="" />
-                </div>
-              ) : (
-                <div class="post-card-img-placeholder">
-                  <span>{post.data.title}</span>
-                </div>
-              )}
-              <div class="post-card-body">
-                <div class="post-card-date">
+        <div class="posts-section">
+          <div class="posts-list">
+            {posts.map((post) => (
+              <a class="post-item" href={`/blog/${post.id}/`}>
+                <div class="post-item-date">
                   <FormattedDate date={post.data.pubDate} />
                 </div>
-                <h2 class="post-card-title">{post.data.title}</h2>
-              </div>
-            </a>
-          ))}
+                <div class="post-item-title">{post.data.title}</div>
+                {post.data.description && (
+                  <div class="post-item-desc">{post.data.description}</div>
+                )}
+              </a>
+            ))}
+          </div>
         </div>
       </div>
     </main>

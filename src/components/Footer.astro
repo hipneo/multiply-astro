@@ -13,9 +13,10 @@ const today = new Date();
 
 <style>
   footer {
-    border-top: 1px solid rgba(240,237,230,0.06);
+    border-top: 1px solid var(--border);
     padding: 2.5rem 0;
     margin-top: 4rem;
+    background: var(--bg);
   }
   footer .container {
     display: flex;
@@ -23,6 +24,6 @@ const today = new Date();
     align-items: center;
   }
   footer p { font-size: 13px; color: var(--text-faint); }
-  footer a { color: var(--text-faint); font-size: 13px; }
+  footer a { color: var(--text-faint); font-size: 13px; transition: color 0.2s; }
   footer a:hover { color: var(--accent); }
 </style>
