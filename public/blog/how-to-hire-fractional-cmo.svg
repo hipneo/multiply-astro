@@ -1,0 +1,82 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#F9F8F5"/>
+
+  <!-- Faint grid lines -->
+  <line x1="0" y1="315" x2="1200" y2="315" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="600" y1="0" x2="600" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- Outer circle — dashed, very faint -->
+  <circle cx="600" cy="315" r="255" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.1"
+    stroke-dasharray="318 79"/>
+
+  <!-- Middle circle — solid, light -->
+  <circle cx="600" cy="315" r="165" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.18"/>
+
+  <!-- Inner circle — crimson -->
+  <circle cx="600" cy="315" r="88" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.55"/>
+
+  <!-- Crosshair — horizontal segments (gap = 2x inner radius) -->
+  <line x1="60" y1="315" x2="510" y2="315" stroke="#1C1C1A" stroke-width="0.75" opacity="0.15"/>
+  <line x1="690" y1="315" x2="1140" y2="315" stroke="#1C1C1A" stroke-width="0.75" opacity="0.15"/>
+
+  <!-- Crosshair — vertical segments -->
+  <line x1="600" y1="38" x2="600" y2="225" stroke="#1C1C1A" stroke-width="0.75" opacity="0.15"/>
+  <line x1="600" y1="405" x2="600" y2="592" stroke="#1C1C1A" stroke-width="0.75" opacity="0.15"/>
+
+  <!-- Cardinal tick marks on outer circle -->
+  <!-- Top -->
+  <line x1="594" y1="57" x2="606" y2="57" stroke="#1C1C1A" stroke-width="1.5" opacity="0.2"/>
+  <!-- Right -->
+  <line x1="858" y1="309" x2="858" y2="321" stroke="#1C1C1A" stroke-width="1.5" opacity="0.2"/>
+  <!-- Bottom -->
+  <line x1="594" y1="573" x2="606" y2="573" stroke="#1C1C1A" stroke-width="1.5" opacity="0.2"/>
+  <!-- Left -->
+  <line x1="342" y1="309" x2="342" y2="321" stroke="#1C1C1A" stroke-width="1.5" opacity="0.2"/>
+
+  <!-- Cardinal tick marks on middle circle -->
+  <!-- Top -->
+  <line x1="596" y1="147" x2="604" y2="147" stroke="#1C1C1A" stroke-width="1.5" opacity="0.25"/>
+  <!-- Right -->
+  <line x1="768" y1="311" x2="768" y2="319" stroke="#1C1C1A" stroke-width="1.5" opacity="0.25"/>
+  <!-- Bottom -->
+  <line x1="596" y1="483" x2="604" y2="483" stroke="#1C1C1A" stroke-width="1.5" opacity="0.25"/>
+  <!-- Left -->
+  <line x1="432" y1="311" x2="432" y2="319" stroke="#1C1C1A" stroke-width="1.5" opacity="0.25"/>
+
+  <!-- Center target rings -->
+  <circle cx="600" cy="315" r="14" fill="none" stroke="#9B2335" stroke-width="1" opacity="0.35"/>
+
+  <!-- Center dot (the selected point) -->
+  <circle cx="600" cy="315" r="5" fill="#9B2335"/>
+
+  <!-- Selection bracket — upper right of inner circle -->
+  <!-- Top-right corner bracket -->
+  <polyline points="648,252 668,252 668,272" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Selection bracket — lower left of inner circle -->
+  <polyline points="552,378 532,378 532,358" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Right-side filter criteria lines (representing evaluation criteria) -->
+  <line x1="920" y1="248" x2="1080" y2="248" stroke="#1C1C1A" stroke-width="1" opacity="0.14"/>
+  <line x1="920" y1="272" x2="1040" y2="272" stroke="#1C1C1A" stroke-width="1" opacity="0.10"/>
+  <line x1="920" y1="296" x2="1060" y2="296" stroke="#1C1C1A" stroke-width="1" opacity="0.14"/>
+  <line x1="920" y1="320" x2="1090" y2="320" stroke="#1C1C1A" stroke-width="1" opacity="0.10"/>
+  <line x1="920" y1="344" x2="1020" y2="344" stroke="#1C1C1A" stroke-width="1" opacity="0.14"/>
+  <!-- Accent line (the "selected" criterion) -->
+  <line x1="920" y1="368" x2="1080" y2="368" stroke="#9B2335" stroke-width="1.5" opacity="0.45"/>
+  <circle cx="912" cy="368" r="4" fill="#9B2335" opacity="0.55"/>
+
+  <!-- Left-side vertical bracket (outer scope) -->
+  <line x1="112" y1="168" x2="112" y2="462" stroke="#1C1C1A" stroke-width="1" opacity="0.1"/>
+  <line x1="112" y1="168" x2="126" y2="168" stroke="#1C1C1A" stroke-width="1" opacity="0.1"/>
+  <line x1="112" y1="462" x2="126" y2="462" stroke="#1C1C1A" stroke-width="1" opacity="0.1"/>
+
+  <!-- Diagonal precision mark — lower right -->
+  <line x1="740" y1="398" x2="820" y2="478" stroke="#1C1C1A" stroke-width="0.75" opacity="0.1"/>
+  <circle cx="820" cy="478" r="3" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.15"/>
+
+  <!-- Top-left corner geometry -->
+  <rect x="44" y="44" width="44" height="44" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.1" rx="1"/>
+  <rect x="56" y="56" width="20" height="20" fill="none" stroke="#9B2335" stroke-width="0.75" opacity="0.2"/>
+</svg>
