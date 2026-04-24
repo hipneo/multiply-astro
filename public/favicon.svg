@@ -1,18 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <!-- Dark background with rounded corners -->
-  <rect width="32" height="32" rx="6" fill="#0E0E0C"/>
-  <g fill="#E8A84C">
-    <!-- Left vertical stroke -->
-    <rect x="3" y="5" width="4" height="20"/>
-    <!-- Left bottom slab serif -->
-    <rect x="1" y="23.5" width="8" height="2.5"/>
-    <!-- Right vertical stroke -->
-    <rect x="25" y="5" width="4" height="20"/>
-    <!-- Right bottom slab serif -->
-    <rect x="23" y="23.5" width="8" height="2.5"/>
-    <!-- Left diagonal stroke -->
-    <polygon points="5.5,6.5 8.5,4.5 17.5,17.5 14.5,19.5"/>
-    <!-- Right diagonal stroke -->
-    <polygon points="23.5,4.5 26.5,6.5 17.5,19.5 14.5,17.5"/>
-  </g>
+  <rect width="32" height="32" rx="6" fill="#1C1C1A"/>
+  <path
+    d="M 7,25 L 7,7 L 16,18 L 25,7 L 25,25"
+    fill="none"
+    stroke="#9B2335"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
 </svg>
