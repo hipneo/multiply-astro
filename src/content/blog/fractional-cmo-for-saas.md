@@ -210,6 +210,8 @@ If the answer is "nobody," you don't need better execution. You need a marketing
 
 Five criteria, in order of importance. I'm telling you this as someone who is one, which means I know exactly what the bad version looks like.
 
+If you sell primarily to other businesses, the criteria shift slightly — there's a separate post on what makes a [B2B fractional CMO](/blog/b2b-fractional-cmo) effective specifically in that context.
+
 **1. They've built marketing engines from zero, not managed ones that already existed.**
 
 There's a difference between someone who ran marketing at a company that was already scaling and someone who built it from nothing. These are completely different skill sets. The first person knows how to manage and optimise. The second knows how to audit, prioritise, hire, and build.
