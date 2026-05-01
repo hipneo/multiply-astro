@@ -119,6 +119,8 @@ If you answered yes to all five, you're in the right position to evaluate an eng
 
 For a full picture of [fractional CMO services](/blog/fractional-cmo-services) — what's covered at each engagement level — and current [fractional CMO rates](/blog/fractional-cmo-rates) so you can budget properly, both are worth reviewing before you start a conversation.
 
+The model isn't only a startup tool, either. It works equally well — sometimes better — for [professional services firms](/blog/fractional-cmo-law-firms) where a full-time marketing director chronically under-fits the actual scope of the role.
+
 ---
 
 ## FAQ

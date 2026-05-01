@@ -81,7 +81,7 @@ Four specific things, all B2B-focused.
 
 **Skipping the sales-marketing alignment conversation.** A founder who hires marketing leadership and doesn't insist on monthly pipeline reviews with sales has misunderstood the job.
 
-For more on what to expect from a senior marketing operator at this stage, the post on [b2b marketing leadership](/blog/what-does-a-fractional-cmo-do) goes into operating cadence and weekly output.
+For more on what to expect from a senior marketing operator at this stage, the post on [b2b marketing leadership](/blog/what-does-a-fractional-cmo-do) goes into operating cadence and weekly output. The same principles also apply to professional services with buying-committee dynamics — see [fractional CMO for law firms](/blog/fractional-cmo-law-firms) for how the model adapts when the buyer is a partnership.
 
 ---
 
