@@ -213,6 +213,33 @@ const personSchema = {
       font-style: italic;
     }
 
+    /* ── PRESS BAR (Featured In) ── */
+    .press-bar {
+      padding: 2.5rem 0;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      background: var(--bg2);
+    }
+    .press-bar-track {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 4.2rem;
+      flex-wrap: nowrap;
+    }
+    .press-bar-track .press-logo {
+      max-height: 34px;
+      width: auto;
+      object-fit: contain;
+      filter: grayscale(100%);
+      opacity: 0.4;
+      transition: filter 0.3s, opacity 0.3s;
+    }
+    .press-bar-track .press-logo:hover {
+      filter: grayscale(0);
+      opacity: 1;
+    }
+
     /* ── SECTIONS ── */
     section { padding: 6rem 0; }
     .section-label {
@@ -439,6 +466,7 @@ const personSchema = {
       .logo-bar-track { gap: 2rem; }
       .logo-bar-track .brand-mark { font-size: 0.95rem; }
       .logo-bar-track .brand-mark.serif-mark { font-size: 1.1rem; }
+      .press-bar-track { flex-wrap: wrap; gap: 2.4rem 3rem; }
     }
 
     /* ── ANIMATIONS ── */
@@ -545,6 +573,21 @@ const personSchema = {
     </div>
   </div>
 </section>
+
+<div class="press-bar fade-in">
+  <div class="container">
+    <div class="logo-bar-label">Featured in</div>
+    <div class="press-bar-track">
+      <img src="/press/logo-pr.png" alt="PR publication" class="press-logo" width="120" height="34" />
+      <img src="/press/logo-ama.png" alt="American Marketing Association" class="press-logo" width="120" height="34" />
+      <img src="/press/logo-cmo-times.png" alt="CMO Times" class="press-logo" width="120" height="34" />
+      <img src="/press/logo-small-biz-leader.png" alt="Small Biz Leader" class="press-logo" width="120" height="34" />
+      <img src="/press/logo-backlinkbuilding.png" alt="BacklinkBuilding" class="press-logo" width="120" height="34" />
+      <img src="/press/logo-featured.png" alt="Featured" class="press-logo" width="120" height="34" />
+      <img src="/press/logo-pursue-passion.png" alt="Pursue The Passion" class="press-logo" width="120" height="34" />
+    </div>
+  </div>
+</div>
 
 <section id="how">
   <div class="container">
