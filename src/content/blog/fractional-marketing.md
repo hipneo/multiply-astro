@@ -19,6 +19,8 @@ It was the wrong question. But he didn't know that yet.
 
 **Fractional marketing is the practice of hiring a senior marketing leader — a fractional CMO or fractional marketing executive — on a part-time basis, giving companies access to strategic marketing leadership at 20–30% of the cost of a full-time hire. It covers strategy, execution oversight, team management, and channel ownership — without the commitment of a permanent role.**
 
+For the full [fractional CMO definition](/blog/what-is-a-fractional-cmo) — including how the role compares to consultants, agencies, and interim hires — that pillar is the broader reference.
+
 ---
 
 ## What Fractional Marketing Actually Means

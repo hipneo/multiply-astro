@@ -13,6 +13,8 @@ Here's the full breakdown so you can budget properly and ask the right questions
 
 **Fractional CMO rates typically range from $150–$350 per hour, or $5,000–$10,000 per month on a retainer engagement. A one-time diagnostic engagement costs $3,000–$5,000 flat. Rates vary based on experience, scope, industry, and time commitment — but expect to pay significantly less than the $200,000–$300,000 total compensation of a full-time CMO.**
 
+If you're still figuring out [what a fractional CMO is](/blog/what-is-a-fractional-cmo) before you compare prices, that pillar covers the role definition, engagement models, and how it differs from consultants and agencies.
+
 ---
 
 ## The Three Fractional CMO Rate Models

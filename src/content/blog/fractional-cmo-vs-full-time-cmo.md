@@ -13,7 +13,7 @@ The question on your desk: do you hire a full-time CMO, or go fractional?
 
 **A fractional CMO provides the same strategic leadership as a full-time CMO at 20–30% of the cost, with the flexibility to pause, stop, or change scope at any time. A full-time CMO requires a 3–6 month hiring process, a 3–6 month ramp period, and significant severance risk — making fractional the smarter choice for most SaaS companies under $8M ARR.**
 
-This is the **fractional CMO vs full-time CMO** decision that every founder at your stage eventually faces — and almost nobody gives you a straight framework for making it. So here it is.
+This is the **fractional CMO vs full-time CMO** decision that every founder at your stage eventually faces — and almost nobody gives you a straight framework for making it. So here it is. (For the broader [fractional CMO definition](/blog/what-is-a-fractional-cmo) — what the role is, what it isn't, and how it works — the pillar guide is the longer read.)
 
 ---
 

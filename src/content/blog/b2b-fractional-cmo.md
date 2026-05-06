@@ -21,6 +21,8 @@ I've seen this exact mistake at least eight times in the last two years. Differe
 
 **A b2b fractional CMO specializes in marketing to businesses rather than consumers — managing longer sales cycles, multiple stakeholders, and revenue metrics like pipeline, CAC, and LTV rather than impressions and engagement. For B2B SaaS companies at $1–5M ARR, a fractional CMO with B2B-specific experience typically delivers faster results than a generalist because the playbooks, channels, and metrics are fundamentally different.**
 
+If you're new to the model, the [what is a fractional CMO](/blog/what-is-a-fractional-cmo) pillar covers the role end-to-end before this B2B-specific take.
+
 This is the distinction that founders most often miss. Not because they're not paying attention, but because from the outside the roles look identical. Same title. Similar pitch. Comparable monthly retainer. The difference shows up in month four — when the work either produces pipeline or it doesn't.
 
 ## Why B2B marketing is a different sport

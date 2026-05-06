@@ -13,6 +13,8 @@ Here's the honest answer: **a fractional CMO for startups makes sense in some si
 
 **A fractional CMO for startups provides senior marketing leadership on a part-time basis — helping early-stage companies build their go-to-market strategy, acquire first customers, and establish repeatable growth before they can afford a full-time marketing hire. Engagements typically start at $3,000–$5,000 for a diagnostic and $5,000–$10,000/month for an ongoing retainer.**
 
+For the broader [what is a fractional CMO](/blog/what-is-a-fractional-cmo) primer — the role end-to-end, engagement models, and how it compares to consultants and agencies — that pillar is the longer reference.
+
 ---
 
 ## When a Startup Should Hire a Fractional CMO

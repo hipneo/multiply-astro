@@ -21,7 +21,7 @@ She was right on all three counts. And she's not alone. I hear this story — di
 
 **To hire a fractional CMO effectively, look for someone who combines senior strategic experience with hands-on execution — not just advisory. The right fractional CMO owns your marketing outcomes, manages your team, and shows up every week. The wrong one delivers a strategy deck and bills for calls.**
 
-This distinction — operator versus advisor — is the single most important one you'll make in this process. Everything else in this guide is about how to tell them apart before you sign a contract.
+This distinction — operator versus advisor — is the single most important one you'll make in this process. Everything else in this guide is about how to tell them apart before you sign a contract. (If you're earlier in the research phase, the [what a fractional CMO is](/blog/what-is-a-fractional-cmo) pillar covers the role end-to-end before you get into the hiring mechanics below.)
 
 ## The market has no quality filter
 

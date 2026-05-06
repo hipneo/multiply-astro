@@ -29,7 +29,7 @@ Festivals are logistics problems. The music is the goal — it's why you build t
 
 The music is what people come for. The operations are what makes the music happen.
 
-I've spent the last several years working with [SaaS founders as a fractional CMO](/blog/fractional-cmo-for-saas). And the thing that surprises most of them — the thing they don't expect me to say in the first meeting — is this: you don't have a marketing problem. You have a coordination problem.
+I've spent the last several years working with [SaaS founders as a fractional CMO](/blog/fractional-cmo-for-saas) (if you're new to the model, here's the primer on what a [fractional CMO](/blog/what-is-a-fractional-cmo) is). And the thing that surprises most of them — the thing they don't expect me to say in the first meeting — is this: you don't have a marketing problem. You have a coordination problem.
 
 ---
 

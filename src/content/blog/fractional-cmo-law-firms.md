@@ -21,6 +21,8 @@ He was right. The problem at most mid-sized law firms isn't who they hire. The s
 
 **A fractional law firm CMO provides senior marketing strategy and execution leadership on a part-time basis — typically 2-3 days per week — giving firms access to CMO-level thinking at 20-30% of a full-time hire's cost. For most law firms below 50 partners, a fractional CMO is a more effective model than a full-time marketing director because the strategic workload doesn't justify a permanent role.**
 
+For the broader [what a fractional CMO is](/blog/what-is-a-fractional-cmo) primer — the role end-to-end and how it compares to consultants and agencies — that pillar is the wider reference. This post focuses on the law firm-specific application.
+
 This isn't a workaround. It's a better fit. And it's the model nobody in legal is talking about because most law firms still hire the way they did in 2008.
 
 ## Why law firm marketing is uniquely difficult

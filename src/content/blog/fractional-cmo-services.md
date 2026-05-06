@@ -15,6 +15,8 @@ That's not a marketing function. That's a collection of marketing activities. An
 
 **Fractional CMO services include marketing strategy, go-to-market planning, team management, paid acquisition oversight, content strategy, analytics and reporting — delivered by a senior marketing leader who embeds part-time in your company. Unlike an agency, a fractional CMO owns the entire marketing function and is accountable for revenue outcomes, not just deliverables.**
 
+For the broader [fractional CMO meaning](/blog/what-is-a-fractional-cmo) — the role end-to-end, what it isn't, and the engagement models — that pillar is the wider reference. This post focuses specifically on what's included in the services.
+
 ---
 
 ## What Fractional CMO Services Actually Cover

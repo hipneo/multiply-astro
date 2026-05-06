@@ -21,6 +21,8 @@ He was right. SaaS marketing has a completely different operating system from co
 
 **A saas fractional cmo is a senior marketing leader with specific experience in software-as-a-service growth models — understanding metrics like MRR, ARR, CAC, LTV, churn rate, and trial-to-paid conversion that don't exist in other industries. For SaaS companies at $1–10M ARR, domain-specific experience dramatically reduces the time to meaningful results.**
 
+For the broader [fractional CMO definition](/blog/what-is-a-fractional-cmo) — the role end-to-end and how it works across industries — that pillar is the wider reference.
+
 This is the most underrated filter in fractional CMO hiring. Founders evaluate seniority, communication, references, pricing — but rarely test depth in the specific operating system their company runs on. The result is the story above, repeated across hundreds of companies.
 
 ## The SaaS operating system
