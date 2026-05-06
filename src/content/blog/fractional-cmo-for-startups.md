@@ -135,7 +135,7 @@ Practically speaking, $5,000/month is the floor for a meaningful fractional enga
 
 **How is a fractional CMO different for startups vs established companies?**
 
-At the startup stage, the work is more foundational: ICP definition, first-channel selection, positioning, and basic analytics setup. At a $3M ARR SaaS company, those foundations exist and the fractional CMO is optimising and scaling a working system. Startups need more building; established companies need more tuning and acceleration. The skill set required is the same — the emphasis shifts.
+At the startup stage, the work is more foundational: ICP definition, first-channel selection, positioning, and basic analytics setup. At a $3M ARR SaaS company, those foundations exist and the fractional CMO is optimising and scaling a working system. Startups need more building; established companies need more tuning and acceleration. The skill set required is the same — the emphasis shifts. If you're specifically running a recurring-revenue product, a [SaaS fractional CMO](/blog/saas-fractional-cmo) with stage-fit experience matters more than a generalist with a bigger resume.
 
 **When should a startup hire a full-time marketer instead of a fractional CMO?**
 

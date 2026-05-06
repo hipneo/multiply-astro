@@ -55,7 +55,7 @@ B2B SaaS adds another dimension. Recurring revenue means churn becomes a marketi
 
 Product-led versus sales-led growth changes the playbook materially. In a product-led motion, trial-to-paid conversion is a marketing-owned metric. The job extends into onboarding, activation emails, in-app messaging, feature adoption. In a sales-led motion, marketing's job is sourcing qualified opportunities and arming sales with the right content for the committee. A [fractional cmo for b2b](/blog/fractional-cmo-for-saas) SaaS understands which motion you're actually running and stops trying to bolt on the wrong one.
 
-Onboarding is part of the funnel. The first 14 days of usage often determine whether a $20K/year customer becomes a $200K/year customer. That's marketing territory, even if it sits in the product team's backlog.
+Onboarding is part of the funnel. The first 14 days of usage often determine whether a $20K/year customer becomes a $200K/year customer. That's marketing territory, even if it sits in the product team's backlog. For more on the metrics and motions that change once recurring revenue enters the picture, see this breakdown of a [SaaS-specific fractional CMO](/blog/saas-fractional-cmo).
 
 ## What to look for when hiring a B2B fractional CMO
 

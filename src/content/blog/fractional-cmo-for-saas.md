@@ -34,7 +34,7 @@ This isn't a criticism. It makes complete sense. You're a CEO. You're doing prod
 
 The cost compounds quietly. You don't see it in one week. You see it twelve months later when your growth rate is half what it was at $500K ARR and you can't explain why.
 
-A SaaS fractional CMO doesn't solve this by adding more tactics. They solve it by building the architecture that makes tactics compound.
+A [SaaS fractional CMO](/blog/saas-fractional-cmo) doesn't solve this by adding more tactics. They solve it by building the architecture that makes tactics compound.
 
 ---
 
