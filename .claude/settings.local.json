@@ -15,7 +15,8 @@
       "Bash(node -e \"require\\('@playwright/test'\\)\")",
       "Read(//Applications/**)",
       "Bash(node:*)",
-      "Bash(awk '/^---$/{c++; next} c==2 && !/^<script/ && !/^[[:space:]]*$/ {print}' /Users/hipneo/projects/multiply-astro/src/content/blog/b2b-fractional-cmo.md)"
+      "Bash(awk '/^---$/{c++; next} c==2 && !/^<script/ && !/^[[:space:]]*$/ {print}' /Users/hipneo/projects/multiply-astro/src/content/blog/b2b-fractional-cmo.md)",
+      "Bash(/usr/bin/sips -s format png real-estate-saas-marketing.svg --out real-estate-saas-marketing.png)"
     ]
   }
 }
