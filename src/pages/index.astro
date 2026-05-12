@@ -463,7 +463,13 @@ const personSchema = {
       .hero { min-height: auto; padding: 8rem 0 4rem; }
       .nav-links a.nav-link { display: none; }
       .bio-visual { max-width: 320px; }
-      .logo-bar-track { gap: 2rem; }
+      .logo-bar .logo-bar-track {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+        justify-items: center;
+        align-items: center;
+      }
       .logo-bar-track .brand-mark { font-size: 0.95rem; }
       .logo-bar-track .brand-mark.serif-mark { font-size: 1.1rem; }
       .press-bar-track { flex-wrap: wrap; gap: 2.4rem 3rem; }
