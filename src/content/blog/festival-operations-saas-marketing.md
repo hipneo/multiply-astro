@@ -97,7 +97,7 @@ This is the unfair advantage most agencies and freelancers can't provide, and wo
 
 Twenty thousand people were on site that opening night in Iași. The headline act went on two minutes late. Nobody noticed.
 
-That's what operations look like when they're working: invisible. The music feels effortless. The experience feels seamless. The forty departments and the contractor who went dark and the backup calls and the emergency rig, none of it is visible to the audience. They just remember that the night was good.
+That's what operations look like when they're working: invisible. The music feels effortless. The experience feels smooth. The forty departments and the contractor who went dark and the backup calls and the emergency rig, none of it is visible to the audience. They just remember that the night was good.
 
 Your marketing should feel the same way to your customers. Not chaotic, not reactive, not patched together from parallel Slack threads. And if it feels more like a festival with no operations document right now, where contractors are building from memory and nobody's doing the debrief, that's worth a conversation.
 

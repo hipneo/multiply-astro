@@ -11,7 +11,7 @@ The managing partner sat across from me with a folder of resumes. Twelve candida
 
 "Third time we've done this in four years," he said. "We hire someone good. They last 18 months. They leave. We start again."
 
-His firm has 12 partners and a 40-year reputation built almost entirely on referrals. The marketing director who'd just resigned had been their best yet, sharp, organised, well-liked. She'd built a credible LinkedIn presence, refreshed the website, started a thought-leadership program. Then she left for a corporate role at three times the salary.
+His firm has 12 partners and a 40-year reputation built almost entirely on referrals. The marketing director who'd just resigned had been their best yet, sharp, organised, well-liked. She'd built a credible LinkedIn presence, refreshed the website, started an expert content program. Then she left for a corporate role at three times the salary.
 
 "I keep thinking we need to find the right person," he said. "But maybe we keep hiring the right person. Maybe the role itself is broken."
 
@@ -71,7 +71,7 @@ For more on engagement scope, see [fractional CMO services](/blog/fractional-cmo
 
 A real engagement covers five areas.
 
-**Thought leadership.** A coordinated program of partner-authored pieces, speaking placements, and ranking submissions (Chambers, Legal 500, regional directories) that compounds reputation across the right communities.
+**Expert content.** A coordinated program of partner-authored pieces, speaking placements, and ranking submissions (Chambers, Legal 500, regional directories) that compounds reputation across the right communities.
 
 **Digital presence.** A website that communicates differentiation, most don't. LinkedIn at partner level, not firm-page level. SEO for the practice areas producing highest-margin matters. The fractional CMO orchestrates rather than executes each personally.
 
@@ -105,7 +105,7 @@ For the broader hiring framework, [how to hire a fractional CMO](/blog/how-to-hi
 
 The managing partner I opened with closed the search. He hired a fractional CMO instead, someone who'd run marketing at two AmLaw 200 firms before going fractional. Three days a week. $9,500 a month.
 
-Eighteen months in, the firm has a working thought-leadership program, two new lateral partners brought in with proper positioning, and an origination dashboard the partnership reviews quarterly. None of which the previous full-time directors had been able to build.
+Eighteen months in, the firm has a working expert content program, two new lateral partners brought in with proper positioning, and an origination dashboard the partnership reviews quarterly. None of which the previous full-time directors had been able to build.
 
 The role wasn't broken. The full-time version of it was.
 
