@@ -115,7 +115,7 @@ If your average contract value is $24,000 and a fractional CMO helps you close o
 
 The founders who get the most from fractional engagements treat it as an investment with a specific expected return. Before starting, we agree on: what does success look like at 90 days? What's the CAC target? What trial-to-paid conversion rate would justify this? Those numbers exist. We can define them. And we measure against them.
 
-For a detailed breakdown of [how much does a fractional CMO cost](/blog/fractional-cmo-cost), including what you get at each tier and what drives price within a range, that's the next thing worth reading.
+For a detailed breakdown of [how much does a fractional CMO cost](/blog/fractional-cmo-cost), including what you get at each tier and what drives price within a range, that's the next thing worth reading. If you're a senior marketer looking at these numbers from the other side of the table, [becoming a fractional CMO](/blog/how-to-become-a-fractional-cmo) covers how to set pricing, package the role, and land the first client.
 
 ---
 

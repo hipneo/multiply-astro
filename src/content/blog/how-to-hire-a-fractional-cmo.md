@@ -27,7 +27,7 @@ This distinction, operator versus advisor, is the single most important one you'
 
 There is no certification for fractional CMOs. No licensing body, no minimum experience standard, no industry definition of what the role entails. Anyone who has spent a few years in marketing can declare themselves a fractional CMO tomorrow and start taking meetings.
 
-This means the market spans from genuinely experienced operators with decades of hands-on P&L responsibility to career consultants who have rebranded their advisory practice. From the outside, they often look identical: similar titles, similar LinkedIn summaries, similar pricing.
+This means the market spans from genuinely experienced operators with decades of hands-on P&L responsibility to career consultants who have rebranded their advisory practice. From the outside, they often look identical: similar titles, similar LinkedIn summaries, similar pricing. (For the practitioner's view on [how fractional CMOs build their practice](/blog/how-to-become-a-fractional-cmo), the path from senior marketer to fractional operator explains why the market looks the way it does.)
 
 Understanding [what a fractional CMO actually does week to week](/blog/what-does-a-fractional-cmo-do), and what distinguishes the operators from the advisors, is the only filter you have.
 

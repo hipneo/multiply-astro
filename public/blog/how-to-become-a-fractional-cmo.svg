@@ -1,0 +1,113 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F9F8F5"/>
+
+  <!-- Faint grid -->
+  <line x1="0" y1="315" x2="1200" y2="315" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="600" y1="0" x2="600" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- ── ORIGIN: single employee node (left) ────────────────────────────── -->
+  <!-- Container outline -->
+  <rect x="110" y="280" width="120" height="70" fill="none" stroke="#1C1C1A" stroke-width="1.25" opacity="0.4" rx="2"/>
+  <!-- The "employed" single dot -->
+  <circle cx="170" cy="315" r="11" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="170" cy="315" r="4" fill="#1C1C1A" opacity="0.85"/>
+  <!-- Origin label ticks -->
+  <line x1="110" y1="370" x2="230" y2="370" stroke="#1C1C1A" stroke-width="0.5" opacity="0.18"/>
+  <line x1="110" y1="378" x2="195" y2="378" stroke="#1C1C1A" stroke-width="0.5" opacity="0.12"/>
+
+  <!-- ── PATH (the becoming) ────────────────────────────────────────────── -->
+  <!-- Outer glow -->
+  <path d="M 230 315 C 360 315, 440 235, 560 235 C 680 235, 720 395, 850 395 C 940 395, 990 315, 1070 315"
+    fill="none" stroke="#9B2335" stroke-width="6" stroke-linecap="round" opacity="0.07"/>
+  <!-- Main path: starts straight, curves at the inflection (the moment), straightens to destination -->
+  <path d="M 230 315 C 360 315, 440 235, 560 235 C 680 235, 720 395, 850 395 C 940 395, 990 315, 1070 315"
+    fill="none" stroke="#9B2335" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+
+  <!-- Dashed continuation hinting future -->
+  <path d="M 1070 315 L 1140 315"
+    fill="none" stroke="#9B2335" stroke-width="1.5" stroke-linecap="round" opacity="0.5" stroke-dasharray="4 6"/>
+
+  <!-- ── MILESTONE NODES along the path ─────────────────────────────────── -->
+  <!-- Milestone 1: realisation (first inflection) -->
+  <circle cx="395" cy="265" r="6" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.7"/>
+  <line x1="395" y1="237" x2="395" y2="248" stroke="#1C1C1A" stroke-width="0.75" opacity="0.25"/>
+
+  <!-- Milestone 2: the moment (focal, crimson, peak) -->
+  <circle cx="560" cy="235" r="22" fill="none" stroke="#9B2335" stroke-width="1" opacity="0.3"/>
+  <circle cx="560" cy="235" r="11" fill="#F9F8F5" stroke="#9B2335" stroke-width="1.5" opacity="0.95"/>
+  <circle cx="560" cy="235" r="5" fill="#9B2335"/>
+  <!-- Brackets around the focal -->
+  <polyline points="540,215 534,215 534,221" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="580,255 586,255 586,249" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Milestone 3: first client (mid-descent) -->
+  <circle cx="720" cy="395" r="6" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.7"/>
+  <line x1="720" y1="413" x2="720" y2="424" stroke="#1C1C1A" stroke-width="0.75" opacity="0.25"/>
+
+  <!-- Milestone 4: capacity (re-stabilising) -->
+  <circle cx="900" cy="375" r="6" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.7"/>
+
+  <!-- ── DESTINATION: multi-client hub (right) ─────────────────────────── -->
+  <!-- Container outline -->
+  <rect x="1000" y="240" width="170" height="150" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.45" rx="2"/>
+
+  <!-- Central node -->
+  <circle cx="1085" cy="315" r="14" fill="#F9F8F5" stroke="#9B2335" stroke-width="1.75" opacity="0.95"/>
+  <circle cx="1085" cy="315" r="6" fill="#9B2335"/>
+
+  <!-- Three client satellites -->
+  <g>
+    <circle cx="1035" cy="275" r="7" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.8"/>
+    <circle cx="1135" cy="275" r="7" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.8"/>
+    <circle cx="1085" cy="365" r="7" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.8"/>
+  </g>
+
+  <!-- Spokes from hub to clients -->
+  <g stroke="#1C1C1A" stroke-width="0.75" opacity="0.3" fill="none">
+    <line x1="1085" y1="315" x2="1035" y2="275"/>
+    <line x1="1085" y1="315" x2="1135" y2="275"/>
+    <line x1="1085" y1="315" x2="1085" y2="365"/>
+  </g>
+
+  <!-- ── BOTTOM TIMELINE (career stages) ───────────────────────────────── -->
+  <line x1="170" y1="500" x2="1085" y2="500" stroke="#1C1C1A" stroke-width="0.75" opacity="0.18" stroke-dasharray="4 6"/>
+
+  <!-- Stage ticks -->
+  <g stroke="#1C1C1A" stroke-width="0.75" opacity="0.25">
+    <line x1="170" y1="493" x2="170" y2="507"/>
+    <line x1="395" y1="495" x2="395" y2="505"/>
+    <line x1="560" y1="493" x2="560" y2="507"/>
+    <line x1="720" y1="495" x2="720" y2="505"/>
+    <line x1="900" y1="495" x2="900" y2="505"/>
+    <line x1="1085" y1="493" x2="1085" y2="507"/>
+  </g>
+  <!-- Stage dots (smaller, accent at start and end) -->
+  <circle cx="170" cy="500" r="3" fill="#1C1C1A" opacity="0.5"/>
+  <circle cx="560" cy="500" r="3.5" fill="#9B2335" opacity="0.7"/>
+  <circle cx="1085" cy="500" r="3.5" fill="#9B2335" opacity="0.85"/>
+
+  <!-- ── CORNER GEOMETRY ────────────────────────────────────────────────── -->
+  <!-- Top-left -->
+  <rect x="44" y="44" width="44" height="44" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.1" rx="1"/>
+  <rect x="56" y="56" width="20" height="20" fill="none" stroke="#9B2335" stroke-width="0.75" opacity="0.2"/>
+
+  <!-- Top-right ledger -->
+  <g>
+    <line x1="1020" y1="58" x2="1148" y2="58" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+    <line x1="1020" y1="74" x2="1130" y2="74" stroke="#1C1C1A" stroke-width="0.75" opacity="0.12"/>
+    <line x1="1020" y1="90" x2="1148" y2="90" stroke="#9B2335" stroke-width="1" opacity="0.45"/>
+    <circle cx="1012" cy="90" r="3" fill="#9B2335" opacity="0.6"/>
+  </g>
+
+  <!-- Bottom-left tier ladder -->
+  <g stroke="#1C1C1A" stroke-width="0.75">
+    <line x1="56" y1="558" x2="156" y2="558" opacity="0.16"/>
+    <line x1="56" y1="572" x2="136" y2="572" opacity="0.12"/>
+    <line x1="56" y1="586" x2="116" y2="586" opacity="0.10"/>
+  </g>
+
+  <!-- Bottom-right small target -->
+  <circle cx="1130" cy="570" r="14" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+  <circle cx="1130" cy="570" r="7" fill="none" stroke="#9B2335" stroke-width="0.75" opacity="0.4"/>
+  <circle cx="1130" cy="570" r="2" fill="#9B2335" opacity="0.65"/>
+</svg>

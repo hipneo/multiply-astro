@@ -139,7 +139,7 @@ The fractional model is not new, fractional CFOs have existed for over two decad
 
 First, the gig economy reached senior talent. Executives who would historically have only considered W-2 roles started accepting that fractional work could provide both income and autonomy. Second, COVID broke the geography assumption, remote work dramatically expanded the pool of senior fractional operators. Third, the 2022–2024 financing environment forced founders to think harder about cost structure; a $250K CMO at a $2M ARR SaaS became financially impractical for many.
 
-The result: a model that was niche in 2018 became mainstream by 2024. Fractional executive roles, especially in marketing, are now the default for early-stage and mid-sized companies that need senior leadership without a permanent commitment.
+The result: a model that was niche in 2018 became mainstream by 2024. Fractional executive roles, especially in marketing, are now the default for early-stage and mid-sized companies that need senior leadership without a permanent commitment. For the practitioner side of this shift, [how to become a fractional CMO](/blog/how-to-become-a-fractional-cmo) covers what the transition looks like from inside.
 
 ## Common misconceptions
 
