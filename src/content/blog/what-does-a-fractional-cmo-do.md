@@ -69,7 +69,7 @@ This is where most marketing engagements fall apart. The plan exists. Nobody exe
 
 A fractional CMO closes that gap. The strategy and the execution are owned by the same person. When the copy isn't converting, I know why, I approved the copy, I know what we were trying to achieve, and I know how to fix it. There's no handover friction, no briefing gap, no "but the agency said they followed the brief."
 
-That's the core of **fractional CMO responsibilities** at a real engagement level: own the plan, run the plan, fix the plan when reality pushes back.
+That's the core of [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities) at a real engagement level: own the plan, run the plan, fix the plan when reality pushes back.
 
 ---
 

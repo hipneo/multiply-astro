@@ -49,7 +49,7 @@ These distinctions matter because the wrong category produces the wrong outcome.
 
 The weekly reality: thirty minutes on Monday for a founder sync with a one-page brief sent ahead. Two or three hours managing the team, briefing the writer, reviewing the paid ads report, approving creative. A block of strategic work, positioning rewrite, channel test plan, pipeline review with sales. A monthly review at the end of the month. Repeat.
 
-The work is not glamorous. It is not deck-heavy. It is owning the marketing function operationally and producing measurable outcomes against agreed metrics. [What a fractional CMO does](/blog/what-does-a-fractional-cmo-do) goes into the day-to-day cadence in detail.
+The work is not glamorous. It is not deck-heavy. It is owning the marketing function operationally and producing measurable outcomes against agreed metrics. [What a fractional CMO does](/blog/what-does-a-fractional-cmo-do) goes into the day-to-day cadence in detail, and the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities) breakdown covers what they own versus what they don't, including the handover problem most founders get wrong.
 
 ## The three engagement models
 
