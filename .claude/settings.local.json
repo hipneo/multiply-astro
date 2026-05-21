@@ -18,7 +18,8 @@
       "Bash(awk '/^---$/{c++; next} c==2 && !/^<script/ && !/^[[:space:]]*$/ {print}' /Users/hipneo/projects/multiply-astro/src/content/blog/b2b-fractional-cmo.md)",
       "Bash(/usr/bin/sips -s format png real-estate-saas-marketing.svg --out real-estate-saas-marketing.png)",
       "Bash(/usr/bin/sips -s format png how-to-become-a-fractional-cmo.svg --out how-to-become-a-fractional-cmo.png)",
-      "Bash(/usr/bin/sips -s format png fractional-cmo-responsibilities.svg --out fractional-cmo-responsibilities.png)"
+      "Bash(/usr/bin/sips -s format png fractional-cmo-responsibilities.svg --out fractional-cmo-responsibilities.png)",
+      "Bash(/usr/bin/sips -s format png fractional-cmo-agency.svg --out fractional-cmo-agency.png)"
     ]
   }
 }

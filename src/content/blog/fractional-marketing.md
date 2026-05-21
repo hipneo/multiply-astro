@@ -91,7 +91,7 @@ Daniel, on the advice of a friend, also talked to three agencies before he calle
 
 Because agencies can't ask that question in a way that changes their answer. They sell a lane. They execute in that lane. A good SEO agency will produce real SEO results, but those results only matter if SEO is the right channel for your buyer at your stage, if the content is positioned correctly, and if the leads it generates connect to a sales motion that closes them. An agency optimises for traffic. Someone else has to care about what happens after.
 
-This is the gap fractional digital marketing leadership fills. Not by replacing the agencies, good specialists are valuable, but by being the person who decides whether to hire them, what to brief them on, and whether they're producing what the business actually needs.
+This is the gap fractional digital marketing leadership fills. Not by replacing the agencies, good specialists are valuable, but by being the person who decides whether to hire them, what to brief them on, and whether they're producing what the business actually needs. (Note: this is distinct from the [fractional CMO agency model](/blog/fractional-cmo-agency), where the leadership itself is packaged as a team service; that comparison gets its own breakdown.)
 
 ---
 

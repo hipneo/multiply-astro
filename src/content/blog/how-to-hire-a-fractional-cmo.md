@@ -143,7 +143,7 @@ Ask specifically what they've built and shipped, not what they've advised on. Ge
 
 ### Should I hire a fractional CMO or a marketing agency?
 
-A fractional CMO and a marketing agency solve different problems. An agency delivers execution, campaigns, content, ads. A fractional CMO provides leadership, strategy, systems, team ownership, and outcome accountability. For most $1–5M SaaS companies, the absence of marketing leadership is the actual problem. Agencies can't solve a leadership gap. Only a leader can.
+A fractional CMO and a marketing agency solve different problems. An agency delivers execution, campaigns, content, ads. A fractional CMO provides leadership, strategy, systems, team ownership, and outcome accountability. For most $1–5M SaaS companies, the absence of marketing leadership is the actual problem. Agencies can't solve a leadership gap. Only a leader can. For the [fractional CMO agency vs independent](/blog/fractional-cmo-agency) comparison specifically (firms that package fractional leadership as a team), the dedicated breakdown covers seven concrete differences.
 
 ### What's a reasonable trial period for a fractional CMO?
 
