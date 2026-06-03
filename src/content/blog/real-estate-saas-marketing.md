@@ -73,7 +73,7 @@ Marketing is not a department. It is not a budget line. It is how the entire bus
 
 Founders who hire fractional CMOs and expect them to "run marketing" while everything else stays the same are the ones who get the smallest return. The right hire sees the whole business and intervenes wherever it is leaking trust. That is closer to a chief growth officer with a marketing tilt than a CMO in the old sense.
 
-The reason I am usefully positioned to do this work, I think, is precisely that I did not come up through marketing. I came up building and selling things in a business where the apartment had to actually exist, the lift had to actually work, and the buyer had to actually move in with their family and live there for thirty years.
+The reason I am usefully positioned to do this work, I think, is precisely that I did not come up through marketing. I came up building and selling things in a business where the apartment had to actually exist, the lift had to actually work, and the buyer had to actually move in with their family and live there for thirty years. Real estate was not the only teacher, either: [another business failure that shaped my thinking](/blog/amazon-failure-saas-marketing) was a private label cosmetics brand I ran on Amazon for four years before it slowly died.
 
 ## Back to the couple at the window
 

@@ -88,6 +88,8 @@ I want to be specific here because "strategic marketing leadership" is a phrase 
 
 **Week 1–4:** I audit everything. Your positioning. Your ICP. Your funnel metrics, even the ones nobody's looked at in a year. Your current channels and what they're actually producing. Your competitors. Your sales call recordings. I talk to your customers directly.
 
+Part of that audit is an honest look at [owned vs rented channels](/blog/amazon-failure-saas-marketing): how much of your pipeline depends on platforms whose rules and prices you don't control, and what you actually own outright.
+
 You get a written diagnostic and a prioritised 90-day plan tied to specific revenue targets. Not a deck. A working document.
 
 **Month 2–3:** I start building. Fixing the positioning if it's off. Rewriting the core message. Restructuring the funnel. Launching or relaunching channels with proper tracking in place. I hire where needed, a freelance copywriter, a paid specialist, and I manage them.

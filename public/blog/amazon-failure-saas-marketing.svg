@@ -1,0 +1,89 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="curveFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9B2335" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#9B2335" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="effortFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1C1C1A" stop-opacity="0"/>
+      <stop offset="10%" stop-color="#1C1C1A" stop-opacity="0.10"/>
+      <stop offset="90%" stop-color="#1C1C1A" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#1C1C1A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#F9F8F5"/>
+
+  <!-- Faint horizontal grid -->
+  <line x1="0" y1="160" x2="1200" y2="160" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="0" y1="270" x2="1200" y2="270" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="0" y1="380" x2="1200" y2="380" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="0" y1="490" x2="1200" y2="490" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- Faint vertical grid -->
+  <line x1="240" y1="60" x2="240" y2="540" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="480" y1="60" x2="480" y2="540" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="720" y1="60" x2="720" y2="540" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="960" y1="60" x2="960" y2="540" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- Axis bracket (lower-left) -->
+  <line x1="96" y1="96" x2="96" y2="520" stroke="#1C1C1A" stroke-width="1.5" opacity="0.18"/>
+  <line x1="96" y1="520" x2="1104" y2="520" stroke="#1C1C1A" stroke-width="1.5" opacity="0.18"/>
+  <line x1="96" y1="96" x2="80" y2="96" stroke="#1C1C1A" stroke-width="1.5" opacity="0.18"/>
+  <line x1="1104" y1="520" x2="1104" y2="536" stroke="#1C1C1A" stroke-width="1.5" opacity="0.18"/>
+
+  <!-- Effort bars: the work that keeps rising, evenly, relentlessly -->
+  <!-- Each bar a unit of effort along the timeline; they grow taller while the curve flattens -->
+  <g>
+    <rect x="150" y="470" width="10" height="50" fill="url(#effortFade)"/>
+    <rect x="230" y="452" width="10" height="68" fill="url(#effortFade)"/>
+    <rect x="310" y="436" width="10" height="84" fill="url(#effortFade)"/>
+    <rect x="390" y="420" width="10" height="100" fill="url(#effortFade)"/>
+    <rect x="470" y="404" width="10" height="116" fill="url(#effortFade)"/>
+    <rect x="550" y="390" width="10" height="130" fill="url(#effortFade)"/>
+    <rect x="630" y="376" width="10" height="144" fill="url(#effortFade)"/>
+    <rect x="710" y="362" width="10" height="158" fill="url(#effortFade)"/>
+    <rect x="790" y="350" width="10" height="170" fill="url(#effortFade)"/>
+    <rect x="870" y="338" width="10" height="182" fill="url(#effortFade)"/>
+    <rect x="950" y="326" width="10" height="194" fill="url(#effortFade)"/>
+    <rect x="1030" y="316" width="10" height="204" fill="url(#effortFade)"/>
+  </g>
+
+  <!-- Area fill under the result curve -->
+  <path d="M 120 470
+           C 230 370, 320 250, 470 200
+           C 560 172, 640 168, 720 178
+           C 820 190, 900 214, 1000 252
+           C 1050 270, 1080 282, 1100 292
+           L 1100 520 L 120 520 Z"
+        fill="url(#curveFill)"/>
+
+  <!-- The result curve: steep climb, plateau, slow decline -->
+  <path d="M 120 470
+           C 230 370, 320 250, 470 200
+           C 560 172, 640 168, 720 178
+           C 820 190, 900 214, 1000 252
+           C 1050 270, 1080 282, 1100 292"
+        fill="none" stroke="#9B2335" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Marker: launch -->
+  <circle cx="120" cy="470" r="5" fill="#9B2335" opacity="0.55"/>
+
+  <!-- Marker: the peak (where it stops climbing) -->
+  <circle cx="690" cy="170" r="6" fill="#F9F8F5" stroke="#9B2335" stroke-width="2.5"/>
+  <line x1="690" y1="176" x2="690" y2="520" stroke="#9B2335" stroke-width="0.75" stroke-dasharray="3,4" opacity="0.35"/>
+
+  <!-- Marker: present (the slow decline, slightly below peak) -->
+  <circle cx="1100" cy="292" r="5" fill="#9B2335"/>
+
+  <!-- The gap: peak height vs. where it ends, a quiet measure of the slide -->
+  <line x1="1140" y1="170" x2="1140" y2="292" stroke="#1C1C1A" stroke-width="1" opacity="0.22"/>
+  <line x1="1134" y1="170" x2="1146" y2="170" stroke="#1C1C1A" stroke-width="1" opacity="0.22"/>
+  <line x1="1134" y1="292" x2="1146" y2="292" stroke="#1C1C1A" stroke-width="1" opacity="0.22"/>
+
+  <!-- Corner accents to match house style -->
+  <rect x="1108" y="44" width="48" height="48" fill="none" stroke="#9B2335" stroke-width="1" opacity="0.22" rx="1"/>
+  <rect x="1120" y="56" width="24" height="24" fill="#9B2335" opacity="0.10"/>
+  <rect x="44" y="558" width="34" height="26" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.10" rx="1"/>
+</svg>

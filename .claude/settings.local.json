@@ -19,7 +19,8 @@
       "Bash(/usr/bin/sips -s format png real-estate-saas-marketing.svg --out real-estate-saas-marketing.png)",
       "Bash(/usr/bin/sips -s format png how-to-become-a-fractional-cmo.svg --out how-to-become-a-fractional-cmo.png)",
       "Bash(/usr/bin/sips -s format png fractional-cmo-responsibilities.svg --out fractional-cmo-responsibilities.png)",
-      "Bash(/usr/bin/sips -s format png fractional-cmo-agency.svg --out fractional-cmo-agency.png)"
+      "Bash(/usr/bin/sips -s format png fractional-cmo-agency.svg --out fractional-cmo-agency.png)",
+      "Bash(awk -F: '$1>=1576')"
     ]
   }
 }

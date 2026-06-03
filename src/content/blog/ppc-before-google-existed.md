@@ -101,7 +101,7 @@ The cost of entry has also changed. The barrier to running a paid campaign in 19
 
 The other constant: speed of learning beats size of budget. On goto.com, the companies that won weren't always the ones spending the most. They were the ones testing the most hypotheses per dollar. That's still true in Google Ads, LinkedIn Campaigns, and every other paid channel today. Budget is not a substitute for understanding your buyer.
 
-The founders who understand this, who treat marketing as a learning system, not a spend system, are the ones I see compound. The ones who treat it as a tap you turn on are the ones still staring at a flat growth curve at 3am wondering why the LinkedIn posts aren't working.
+The founders who understand this, who treat marketing as a learning system, not a spend system, are the ones I see compound. Some of my own sharpest [lessons from failed experiments](/blog/amazon-failure-saas-marketing) came not from a campaign that worked but from a whole business that slowly stopped working. The ones who treat it as a tap you turn on are the ones still staring at a flat growth curve at 3am wondering why the LinkedIn posts aren't working.
 
 I know that feeling. I've been there. It started in 1998, on a 56k modem, watching a number on a screen and thinking: if I just understand who's on the other side of this click, I can figure everything else out.
 
