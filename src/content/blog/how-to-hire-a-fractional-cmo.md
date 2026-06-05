@@ -83,7 +83,7 @@ If the calls feel good but something is slightly off, trust that. If it feels li
 
 ### Where to find a fractional CMO
 
-Your network is the best filter. A warm introduction from a founder who hired someone and would hire them again is worth more than any LinkedIn search. Second: operator communities where fractional executives and founders interact. Third: LinkedIn with specific filters, fractional CMO, B2B SaaS, your ARR stage. Fractional executive networks exist but vet carefully, quality varies enormously within them.
+Your network is the best filter. A warm introduction from a founder who hired someone and would hire them again is worth more than any LinkedIn search. Second: operator communities where fractional executives and founders interact. Third: LinkedIn with specific filters, fractional CMO, B2B SaaS, your ARR stage. Fractional executive networks exist but vet carefully, quality varies enormously within them. One filter to drop entirely is geography: a [fractional CMO near me](/blog/fractional-cmo-near-me) search optimises for the variable that matters least, because the work runs remotely and the right operator for your stage rarely lives in your city.
 
 ### The discovery call
 

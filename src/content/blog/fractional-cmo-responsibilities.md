@@ -39,7 +39,7 @@ Four categories of ownership. This is the practical list of fractional cmo respo
 
 **Reporting and leadership.** Weekly sync with the founder or CEO, focused on decisions rather than status. Monthly review with real numbers and explicit interpretation. Dashboard and KPI ownership at the function level. Board-level marketing representation when needed. The reporting layer keeps marketing connected to the business case it serves.
 
-If you want a deeper view of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do) inside that ownership scope, that post breaks down the day-to-day cadence in detail. The [fractional CMO services](/blog/fractional-cmo-services) breakdown covers the three layers (strategy, execution, leadership) in service terms.
+If you want a deeper view of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do) inside that ownership scope, that post breaks down the day-to-day cadence in detail. The [fractional CMO services](/blog/fractional-cmo-services) breakdown covers the three layers (strategy, execution, leadership) in service terms. Almost all of this cadence runs as a [remote fractional CMO](/blog/fractional-cmo-near-me) engagement, on weekly calls and in shared documents, which is why location has nothing to do with who owns these responsibilities well.
 
 ## What a fractional CMO does NOT own
 
