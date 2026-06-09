@@ -121,7 +121,7 @@ Income varies widely. With two or three active retainers at $5,000-$10,000/month
 
 ### How do fractional CMOs find their first clients?
 
-Almost always through existing network: ex-colleagues, founders they have worked with, investors who know their work, operators in adjacent companies. Cold outreach rarely produces the first client because the role requires trust that has been built over years. Building a public body of work (LinkedIn, writing, talks) accelerates inbound from a wider network, but the first one or two engagements typically come from people who already know you can do the work.
+Almost always through existing network: ex-colleagues, founders they have worked with, investors who know their work, operators in adjacent companies. Cold outreach rarely produces the first client because the role requires trust that has been built over years. Building a public body of work (LinkedIn, writing, talks) accelerates inbound from a wider network, but the first one or two engagements typically come from people who already know you can do the work. For a deeper breakdown of where [fractional CMO jobs](/blog/fractional-cmo-jobs) actually come from (six channels ranked by yield), that post is the operational reference.
 
 ### Is being a fractional CMO a good career?
 

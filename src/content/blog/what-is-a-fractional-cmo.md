@@ -215,7 +215,7 @@ For most companies at $1–10M ARR with stalled growth and no senior marketing l
 
 ### How do I find a fractional CMO?
 
-The best filter is your founder network, warm referrals beat any LinkedIn search. Beyond that: operator communities (Revenue Collective, Pavilion), fractional executive networks, and LinkedIn searches filtered to fractional CMO + your industry + your stage. A paid diagnostic ($3,000–$5,000) is the safest way to evaluate before committing to a multi-month retainer.
+The best filter is your founder network, warm referrals beat any LinkedIn search. Beyond that: operator communities (Revenue Collective, Pavilion), fractional executive networks, and LinkedIn searches filtered to fractional CMO + your industry + your stage. A paid diagnostic ($3,000–$5,000) is the safest way to evaluate before committing to a multi-month retainer. For the practitioner-side view of where [fractional CMO jobs](/blog/fractional-cmo-jobs) live in this market (the same channels operate in reverse for founders), that breakdown explains why warm referrals dominate.
 
 ### What is the difference between fractional and interim CMO?
 
