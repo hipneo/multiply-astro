@@ -1,3 +1,7 @@
-http://multiplycmo.com/* https://multiplycmo.com/:splat 301!
-http://www.multiplycmo.com/* https://multiplycmo.com/:splat 301!
-https://www.multiplycmo.com/* https://multiplycmo.com/:splat 301!
+# Blog: enforce trailing-slash form for canonical URLs
+/blog/:slug  /blog/:slug/  301
+
+# HTTP → HTTPS, apex-only canonicalization
+http://multiplycmo.com/*       https://multiplycmo.com/:splat  301!
+http://www.multiplycmo.com/*   https://multiplycmo.com/:splat  301!
+https://www.multiplycmo.com/*  https://multiplycmo.com/:splat  301!
