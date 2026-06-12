@@ -93,7 +93,7 @@ This is your diagnostic, not theirs. You should leave the call knowing: what the
 
 The smartest first step is a paid diagnostic, typically $3,000–5,000 for two to four weeks of structured discovery and output. Not a free audit. A real, paid engagement that produces a specific deliverable (usually a marketing diagnostic with a prioritized 90-day plan) and, more importantly, shows you what working with this person actually feels like.
 
-You see their process. You see their output quality. You see how they communicate when they're on the clock. You see whether their read of your situation is correct. If the diagnostic is impressive, you have strong evidence before a six-month commitment. If it's weak, you've spent $4,000 instead of $40,000 to find out.
+You see their process. You see their output quality. You see how they communicate when they're on the clock. You see whether their read of your situation is correct. If the diagnostic is impressive, you have strong evidence before a six-month commitment. If it's weak, you've spent $4,000 instead of $40,000 to find out. Once you do commit, I've written a week-by-week breakdown of the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo) so you know exactly what should be happening and when.
 
 ### Reference checks that actually work
 

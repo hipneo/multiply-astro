@@ -55,7 +55,7 @@ The work is not glamorous. It is not deck-heavy. It is owning the marketing func
 
 Three standard structures.
 
-**Growth Diagnostic ($3,000–$5,000).** A 2–4 week paid engagement: customer interviews, funnel audit, competitive landscape, analytics review, positioning assessment, written 90-day recommendation. No ongoing execution. Often the right entry point, produces clarity and gives the founder a credible read on the operator before committing.
+**Growth Diagnostic ($3,000–$5,000).** A 2–4 week paid engagement: customer interviews, funnel audit, competitive landscape, analytics review, positioning assessment, written 90-day recommendation. No ongoing execution. Often the right entry point, produces clarity and gives the founder a credible read on the operator before committing. It mirrors the diagnostic work of the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo) in a full engagement.
 
 **Fractional CMO Retainer ($5,000–$10,000/month).** The full engagement: 2–3 days per week, ongoing strategy and execution leadership, team management, weekly cadence with the CEO, monthly reviews. Six- to twelve-month minimums standard. For current [fractional CMO rates](/blog/fractional-cmo-rates) by tier, that post goes deeper.
 

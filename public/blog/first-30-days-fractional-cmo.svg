@@ -1,0 +1,178 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F9F8F5"/>
+
+  <!-- Faint grid -->
+  <line x1="0" y1="315" x2="1200" y2="315" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="600" y1="0" x2="600" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- ── TIMELINE BASELINE ──────────────────────────────────────────────── -->
+  <!-- Dashed (diagnostic) for first three quarters, solid crimson for week 4 -->
+  <line x1="100" y1="315" x2="845" y2="315" stroke="#1C1C1A" stroke-width="1" opacity="0.3" stroke-dasharray="4 6"/>
+  <line x1="845" y1="315" x2="1100" y2="315" stroke="#9B2335" stroke-width="1.75" opacity="0.7"/>
+
+  <!-- Tick marks for the four weeks -->
+  <g stroke="#1C1C1A" stroke-width="0.75" opacity="0.25">
+    <line x1="170" y1="305" x2="170" y2="325"/>
+    <line x1="430" y1="305" x2="430" y2="325"/>
+    <line x1="690" y1="305" x2="690" y2="325"/>
+  </g>
+  <line x1="950" y1="303" x2="950" y2="327" stroke="#9B2335" stroke-width="1.25" opacity="0.55"/>
+
+  <!-- ── WEEK 1 NODE: observation (magnifier over scattered system dots) ── -->
+  <g>
+    <circle cx="170" cy="315" r="58" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.14" stroke-dasharray="3 5"/>
+    <circle cx="170" cy="315" r="7" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.7"/>
+    <circle cx="170" cy="315" r="2.5" fill="#1C1C1A" opacity="0.45"/>
+
+    <!-- scattered faint dots above: the unexamined systems -->
+    <g fill="#1C1C1A">
+      <circle cx="130" cy="205" r="3.5" opacity="0.16"/>
+      <circle cx="168" cy="178" r="4.5" opacity="0.2"/>
+      <circle cx="210" cy="200" r="3" opacity="0.14"/>
+      <circle cx="148" cy="232" r="3" opacity="0.18"/>
+      <circle cx="196" cy="236" r="4" opacity="0.16"/>
+      <circle cx="232" cy="222" r="2.5" opacity="0.12"/>
+    </g>
+    <!-- dotted access lines from node up to the systems -->
+    <g stroke="#1C1C1A" stroke-width="0.5" opacity="0.14" stroke-dasharray="2 5">
+      <line x1="170" y1="308" x2="132" y2="210"/>
+      <line x1="170" y1="308" x2="168" y2="184"/>
+      <line x1="170" y1="308" x2="208" y2="205"/>
+      <line x1="170" y1="308" x2="195" y2="240"/>
+    </g>
+
+    <!-- magnifier -->
+    <g fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.55">
+      <circle cx="200" cy="395" r="22"/>
+      <line x1="216" y1="411" x2="238" y2="433"/>
+    </g>
+  </g>
+
+  <!-- ── WEEK 2 NODE: deep audit (layered scan rings, bars under review) ── -->
+  <g>
+    <circle cx="430" cy="315" r="58" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.18" stroke-dasharray="3 5"/>
+    <circle cx="430" cy="315" r="9" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.8"/>
+    <circle cx="430" cy="315" r="3" fill="#1C1C1A" opacity="0.5"/>
+
+    <!-- concentric scan rings: looking deeper -->
+    <g fill="none" stroke="#9B2335" stroke-width="0.75">
+      <circle cx="430" cy="315" r="24" opacity="0.4"/>
+      <circle cx="430" cy="315" r="38" opacity="0.25"/>
+    </g>
+
+    <!-- audit bars above: channels being measured, one flagged crimson -->
+    <g>
+      <rect x="368" y="186" width="86" height="9" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.22" rx="1"/>
+      <rect x="368" y="206" width="118" height="9" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.22" rx="1"/>
+      <rect x="368" y="226" width="64" height="9" fill="#9B2335" opacity="0.5" rx="1"/>
+      <rect x="368" y="246" width="98" height="9" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.22" rx="1"/>
+    </g>
+    <!-- flag marker on the crimson bar -->
+    <circle cx="446" cy="230.5" r="3" fill="#9B2335" opacity="0.7"/>
+
+    <!-- interview marks below: customer conversations -->
+    <g stroke="#1C1C1A" stroke-width="0.75" opacity="0.2">
+      <line x1="392" y1="400" x2="430" y2="400"/>
+      <line x1="392" y1="414" x2="452" y2="414"/>
+      <line x1="392" y1="428" x2="418" y2="428"/>
+    </g>
+  </g>
+
+  <!-- ── WEEK 3 NODE: synthesis (many lines converging to three) ────────── -->
+  <g>
+    <circle cx="690" cy="315" r="58" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.22"/>
+    <circle cx="690" cy="315" r="11" fill="#F9F8F5" stroke="#9B2335" stroke-width="1.5" opacity="0.9"/>
+    <circle cx="690" cy="315" r="4" fill="#9B2335" opacity="0.7"/>
+
+    <!-- many faint findings converging into the node -->
+    <g stroke="#1C1C1A" stroke-width="0.5" opacity="0.18">
+      <line x1="618" y1="208" x2="684" y2="304"/>
+      <line x1="654" y1="192" x2="688" y2="302"/>
+      <line x1="694" y1="186" x2="691" y2="302"/>
+      <line x1="732" y1="194" x2="694" y2="303"/>
+      <line x1="764" y1="214" x2="698" y2="306"/>
+    </g>
+    <g fill="#1C1C1A">
+      <circle cx="618" cy="208" r="2.5" opacity="0.2"/>
+      <circle cx="654" cy="192" r="2.5" opacity="0.2"/>
+      <circle cx="694" cy="186" r="2.5" opacity="0.2"/>
+      <circle cx="732" cy="194" r="2.5" opacity="0.2"/>
+      <circle cx="764" cy="214" r="2.5" opacity="0.2"/>
+    </g>
+
+    <!-- three prioritized outputs below: the highest-leverage changes -->
+    <g>
+      <line x1="690" y1="328" x2="652" y2="402" stroke="#9B2335" stroke-width="1" opacity="0.45"/>
+      <line x1="690" y1="328" x2="690" y2="402" stroke="#9B2335" stroke-width="1" opacity="0.45"/>
+      <line x1="690" y1="328" x2="728" y2="402" stroke="#9B2335" stroke-width="1" opacity="0.45"/>
+      <circle cx="652" cy="410" r="6" fill="#9B2335" opacity="0.75"/>
+      <circle cx="690" cy="410" r="6" fill="#9B2335" opacity="0.55"/>
+      <circle cx="728" cy="410" r="6" fill="#9B2335" opacity="0.35"/>
+    </g>
+  </g>
+
+  <!-- ── WEEK 4 NODE: action (solid crimson, motion forward) ────────────── -->
+  <g>
+    <!-- halo -->
+    <circle cx="950" cy="315" r="64" fill="#9B2335" opacity="0.06"/>
+    <circle cx="950" cy="315" r="44" fill="#9B2335" opacity="0.1"/>
+    <circle cx="950" cy="315" r="58" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.5"/>
+    <circle cx="950" cy="315" r="16" fill="#F9F8F5" stroke="#9B2335" stroke-width="1.75" opacity="0.95"/>
+    <circle cx="950" cy="315" r="7" fill="#9B2335"/>
+
+    <!-- selection brackets: this is where it lands -->
+    <polyline points="928,289 920,289 920,297" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="972,289 980,289 980,297" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="928,341 920,341 920,333" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="972,341 980,341 980,333" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- forward arrow off the node: first initiative shipping -->
+    <g stroke="#9B2335" stroke-width="2" opacity="0.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="1014" y1="315" x2="1092" y2="315"/>
+      <polyline points="1076,303 1092,315 1076,327"/>
+    </g>
+
+    <!-- rising bars above: results beginning to register -->
+    <g fill="#9B2335">
+      <rect x="906" y="226" width="14" height="22" opacity="0.25" rx="1"/>
+      <rect x="930" y="212" width="14" height="36" opacity="0.4" rx="1"/>
+      <rect x="954" y="194" width="14" height="54" opacity="0.55" rx="1"/>
+      <rect x="978" y="172" width="14" height="76" opacity="0.75" rx="1"/>
+    </g>
+
+    <!-- aligned team marks below: briefed, pointing the same way -->
+    <g stroke="#9B2335" stroke-width="1.25" opacity="0.45" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="912,402 928,394 912,386"/>
+      <polyline points="944,402 960,394 944,386"/>
+      <polyline points="976,402 992,394 976,386"/>
+    </g>
+  </g>
+
+  <!-- ── PROGRESSION DOTS along the base: density increasing left to right ─ -->
+  <g fill="#1C1C1A">
+    <circle cx="300" cy="315" r="2" opacity="0.15"/>
+    <circle cx="560" cy="315" r="2" opacity="0.2"/>
+  </g>
+  <circle cx="820" cy="315" r="2.5" fill="#9B2335" opacity="0.45"/>
+
+  <!-- ── CORNER GEOMETRY ────────────────────────────────────────────────── -->
+  <rect x="44" y="44" width="44" height="44" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.1" rx="1"/>
+  <rect x="56" y="56" width="20" height="20" fill="none" stroke="#9B2335" stroke-width="0.75" opacity="0.2"/>
+
+  <g>
+    <line x1="1020" y1="58" x2="1148" y2="58" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+    <line x1="1020" y1="74" x2="1130" y2="74" stroke="#1C1C1A" stroke-width="0.75" opacity="0.12"/>
+    <line x1="1020" y1="90" x2="1148" y2="90" stroke="#9B2335" stroke-width="1" opacity="0.45"/>
+    <circle cx="1012" cy="90" r="3" fill="#9B2335" opacity="0.6"/>
+  </g>
+
+  <g stroke="#1C1C1A" stroke-width="0.75">
+    <line x1="56" y1="558" x2="156" y2="558" opacity="0.16"/>
+    <line x1="56" y1="572" x2="136" y2="572" opacity="0.12"/>
+    <line x1="56" y1="586" x2="116" y2="586" opacity="0.10"/>
+  </g>
+
+  <circle cx="1130" cy="570" r="14" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+  <circle cx="1130" cy="570" r="7" fill="none" stroke="#9B2335" stroke-width="0.75" opacity="0.4"/>
+  <circle cx="1130" cy="570" r="2" fill="#9B2335" opacity="0.65"/>
+</svg>

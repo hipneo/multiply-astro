@@ -73,7 +73,7 @@ When the line is clear, the engagement compounds. When it is not, both parties s
 
 The same role looks different in month one and month six. Four phases.
 
-**Month 1: mostly diagnostic.** Observing, talking to customers, reading the data, talking to the existing team. Output looks thin because most of the work is internal. The deliverable at the end of the month is a written diagnostic and a 90-day plan tied to revenue.
+**Month 1: mostly diagnostic.** Observing, talking to customers, reading the data, talking to the existing team. Output looks thin because most of the work is internal. The deliverable at the end of the month is a written diagnostic and a 90-day plan tied to revenue. I've broken down [what happens in the first 30 days](/blog/first-30-days-fractional-cmo) week by week if you want the full detail.
 
 **Month 2-3: building systems and first execution.** Vendors briefed, dashboards set up, the first repositioned campaign goes live, the team operating against a clear plan. Founders sometimes panic here because results have not arrived yet. The systems produce the results in the next phase.
 
