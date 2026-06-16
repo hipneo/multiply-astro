@@ -63,7 +63,7 @@ Most fractional CMO engagements that underperform fail in exactly this gap, and 
 
 The pattern: the founder hires expecting someone to "take marketing off my plate," then keeps the decision rights, the approval power, the relationships with agencies and writers. The CMO can advise, plan, attend calls, write strategy. They cannot move fast, because every move requires founder blessing. The team does not know who to listen to, because the previous leader is still visibly in the role.
 
-The fix is an explicit, written agreement about what the CMO decides alone, what they decide with founder input but their own authority, and what they decide jointly. I run this in week one of every engagement. If we do not get it right in the first month, the next five are expensive theater.
+The fix is an explicit, written agreement about what the CMO decides alone, what they decide with founder input but their own authority, and what they decide jointly. The cleanest place to set this down is a [fractional CMO brief](/blog/fractional-cmo-brief) written before the engagement starts, with a dedicated section on decision rights. I run this in week one of every engagement. If we do not get it right in the first month, the next five are expensive theater.
 
 On the CMO's side of the line: copy approvals, vendor selection within a defined budget, weekly priorities, freelancer briefings, channel test decisions, attribution methodology. Joint: positioning changes affecting the brand, hiring above a budget threshold, channel investments above a spend threshold.
 

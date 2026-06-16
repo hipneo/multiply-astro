@@ -94,7 +94,7 @@ The fractional CMO first month has failure modes, and they all look like product
 
 ## How to support your fractional CMO in the first 30 days
 
-You are not a passenger in this month. Four things make the diagnostic faster and sharper:
+You are not a passenger in this month. The single highest-leverage thing you can do is hand over [a proper fractional CMO brief](/blog/fractional-cmo-brief) before day one, which compresses the diagnostic by handing over your business context faster than any interview can. Beyond that, four things make the diagnostic faster and sharper:
 
 1. **Give access to everything immediately.** Every day of waiting on a login is a day of diagnosis lost.
 2. **Block real time for the founder interview.** Ninety minutes, no Slack, no reschedule.

@@ -1,0 +1,135 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F9F8F5"/>
+
+  <!-- Faint grid -->
+  <line x1="0" y1="315" x2="1200" y2="315" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="600" y1="0" x2="600" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- ── BACKGROUND STACKED PAGES (depth / template-as-reusable) ────────── -->
+  <rect x="436" y="118" width="430" height="404" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="0.75" opacity="0.12" rx="4"/>
+  <rect x="423" y="106" width="430" height="404" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="0.75" opacity="0.2" rx="4"/>
+
+  <!-- ── MAIN DOCUMENT ───────────────────────────────────────────────────── -->
+  <rect x="410" y="94" width="430" height="404" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.55" rx="4"/>
+
+  <!-- Title block -->
+  <rect x="442" y="126" width="200" height="13" fill="#9B2335" opacity="0.55" rx="1.5"/>
+  <rect x="442" y="148" width="120" height="7" fill="#1C1C1A" opacity="0.2" rx="1"/>
+  <line x1="442" y1="172" x2="808" y2="172" stroke="#1C1C1A" stroke-width="0.75" opacity="0.18"/>
+
+  <!-- ── SIX SECTIONS, each: crimson numbered tab + heading + ruled lines ── -->
+  <!-- Section 1 -->
+  <g>
+    <rect x="442" y="190" width="14" height="14" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.7" rx="2"/>
+    <circle cx="449" cy="197" r="2.5" fill="#9B2335" opacity="0.7"/>
+    <rect x="466" y="192" width="120" height="9" fill="#1C1C1A" opacity="0.42" rx="1.5"/>
+    <line x1="466" y1="211" x2="800" y2="211" stroke="#1C1C1A" stroke-width="0.5" opacity="0.15"/>
+    <line x1="466" y1="221" x2="760" y2="221" stroke="#1C1C1A" stroke-width="0.5" opacity="0.13"/>
+  </g>
+
+  <!-- Section 2 -->
+  <g>
+    <rect x="442" y="240" width="14" height="14" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.7" rx="2"/>
+    <circle cx="449" cy="247" r="2.5" fill="#9B2335" opacity="0.7"/>
+    <rect x="466" y="242" width="148" height="9" fill="#1C1C1A" opacity="0.42" rx="1.5"/>
+    <line x1="466" y1="261" x2="800" y2="261" stroke="#1C1C1A" stroke-width="0.5" opacity="0.15"/>
+    <line x1="466" y1="271" x2="740" y2="271" stroke="#1C1C1A" stroke-width="0.5" opacity="0.13"/>
+  </g>
+
+  <!-- Section 3 (highlighted: the #1 priority) -->
+  <g>
+    <rect x="434" y="286" width="382" height="42" fill="#9B2335" opacity="0.05" rx="3"/>
+    <rect x="442" y="290" width="14" height="14" fill="#9B2335" opacity="0.7" rx="2"/>
+    <circle cx="449" cy="297" r="2.5" fill="#F9F8F5"/>
+    <rect x="466" y="292" width="134" height="9" fill="#9B2335" opacity="0.5" rx="1.5"/>
+    <line x1="466" y1="311" x2="800" y2="311" stroke="#9B2335" stroke-width="0.5" opacity="0.25"/>
+    <line x1="466" y1="321" x2="770" y2="321" stroke="#9B2335" stroke-width="0.5" opacity="0.2"/>
+  </g>
+
+  <!-- Section 4 -->
+  <g>
+    <rect x="442" y="340" width="14" height="14" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.7" rx="2"/>
+    <circle cx="449" cy="347" r="2.5" fill="#9B2335" opacity="0.7"/>
+    <rect x="466" y="342" width="128" height="9" fill="#1C1C1A" opacity="0.42" rx="1.5"/>
+    <line x1="466" y1="361" x2="800" y2="361" stroke="#1C1C1A" stroke-width="0.5" opacity="0.15"/>
+    <line x1="466" y1="371" x2="752" y2="371" stroke="#1C1C1A" stroke-width="0.5" opacity="0.13"/>
+  </g>
+
+  <!-- Section 5 -->
+  <g>
+    <rect x="442" y="390" width="14" height="14" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.7" rx="2"/>
+    <circle cx="449" cy="397" r="2.5" fill="#9B2335" opacity="0.7"/>
+    <rect x="466" y="392" width="116" height="9" fill="#1C1C1A" opacity="0.42" rx="1.5"/>
+    <line x1="466" y1="411" x2="800" y2="411" stroke="#1C1C1A" stroke-width="0.5" opacity="0.15"/>
+    <line x1="466" y1="421" x2="730" y2="421" stroke="#1C1C1A" stroke-width="0.5" opacity="0.13"/>
+  </g>
+
+  <!-- Section 6 -->
+  <g>
+    <rect x="442" y="440" width="14" height="14" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.7" rx="2"/>
+    <circle cx="449" cy="447" r="2.5" fill="#9B2335" opacity="0.7"/>
+    <rect x="466" y="442" width="140" height="9" fill="#1C1C1A" opacity="0.42" rx="1.5"/>
+    <line x1="466" y1="461" x2="800" y2="461" stroke="#1C1C1A" stroke-width="0.5" opacity="0.15"/>
+    <line x1="466" y1="471" x2="744" y2="471" stroke="#1C1C1A" stroke-width="0.5" opacity="0.13"/>
+  </g>
+
+  <!-- ── LEFT MARGIN: section index / structure key ──────────────────────── -->
+  <g>
+    <line x1="150" y1="190" x2="150" y2="475" stroke="#1C1C1A" stroke-width="0.75" opacity="0.15"/>
+    <!-- six index ticks aligning conceptually with the sections -->
+    <g>
+      <circle cx="150" cy="197" r="4" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.3"/>
+      <line x1="162" y1="197" x2="250" y2="197" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+
+      <circle cx="150" cy="247" r="4" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.3"/>
+      <line x1="162" y1="247" x2="234" y2="247" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+
+      <circle cx="150" cy="297" r="4.5" fill="#9B2335" opacity="0.65"/>
+      <line x1="162" y1="297" x2="258" y2="297" stroke="#9B2335" stroke-width="0.75" opacity="0.4"/>
+
+      <circle cx="150" cy="347" r="4" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.3"/>
+      <line x1="162" y1="347" x2="240" y2="347" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+
+      <circle cx="150" cy="397" r="4" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.3"/>
+      <line x1="162" y1="397" x2="228" y2="397" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+
+      <circle cx="150" cy="447" r="4" fill="none" stroke="#1C1C1A" stroke-width="1" opacity="0.3"/>
+      <line x1="162" y1="447" x2="246" y2="447" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+    </g>
+  </g>
+
+  <!-- ── RIGHT MARGIN: a checkmark seal (brief complete / checklist) ─────── -->
+  <g>
+    <circle cx="1010" cy="300" r="52" fill="#9B2335" opacity="0.05"/>
+    <circle cx="1010" cy="300" r="36" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.45"/>
+    <polyline points="990,300 1004,316 1032,282" fill="none" stroke="#9B2335" stroke-width="2.5" opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- faint checklist rows feeding into the seal -->
+    <g stroke="#1C1C1A" stroke-width="0.75" opacity="0.14">
+      <line x1="930" y1="220" x2="990" y2="220"/>
+      <line x1="930" y1="236" x2="978" y2="236"/>
+      <line x1="930" y1="364" x2="982" y2="364"/>
+      <line x1="930" y1="380" x2="970" y2="380"/>
+    </g>
+  </g>
+
+  <!-- ── CORNER GEOMETRY (house style) ───────────────────────────────────── -->
+  <rect x="44" y="44" width="44" height="44" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.1" rx="1"/>
+  <rect x="56" y="56" width="20" height="20" fill="none" stroke="#9B2335" stroke-width="0.75" opacity="0.2"/>
+
+  <g>
+    <line x1="1020" y1="58" x2="1148" y2="58" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+    <line x1="1020" y1="74" x2="1130" y2="74" stroke="#1C1C1A" stroke-width="0.75" opacity="0.12"/>
+    <line x1="1020" y1="90" x2="1148" y2="90" stroke="#9B2335" stroke-width="1" opacity="0.45"/>
+    <circle cx="1012" cy="90" r="3" fill="#9B2335" opacity="0.6"/>
+  </g>
+
+  <g stroke="#1C1C1A" stroke-width="0.75">
+    <line x1="56" y1="558" x2="156" y2="558" opacity="0.16"/>
+    <line x1="56" y1="572" x2="136" y2="572" opacity="0.12"/>
+    <line x1="56" y1="586" x2="116" y2="586" opacity="0.10"/>
+  </g>
+
+  <circle cx="1130" cy="570" r="14" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+  <circle cx="1130" cy="570" r="7" fill="none" stroke="#9B2335" stroke-width="0.75" opacity="0.4"/>
+  <circle cx="1130" cy="570" r="2" fill="#9B2335" opacity="0.65"/>
+</svg>

@@ -43,7 +43,7 @@ Vagueness here is diagnostic.
 
 ### 2. An operator mindset
 
-Real marketing operators think in systems, dashboards, briefs, and post-mortems. They want to see your current attribution setup. They ask about your CRM before they ask about your positioning. They want to understand your team structure, vendor relationships, and what's broken in your ops before they start talking strategy.
+Real marketing operators think in systems, dashboards, briefs, and post-mortems. They want to see your current attribution setup. They ask about your CRM before they ask about your positioning. They want to understand your team structure, vendor relationships, and what's broken in your ops before they start talking strategy. A fast way to find this out is to hand candidates a [fractional CMO brief](/blog/fractional-cmo-brief) before the final interview and watch which questions they ask about it.
 
 If the first two calls are entirely about your ICP and narrative positioning, and nobody has asked to look at your funnel numbers, pay attention. That's an advisor pattern, not an operator one.
 
