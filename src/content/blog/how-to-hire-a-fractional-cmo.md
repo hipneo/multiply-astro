@@ -107,7 +107,7 @@ Six months minimum. Marketing takes time to produce results, and anyone who is h
 
 If you hire right, the first 90 days are structured: weeks one through four, a full diagnostic of positioning, funnel, channels, team, and analytics, with a prioritized action plan tied to your revenue targets, not vanity metrics. Weeks five through twelve, the first programs running, the first operational changes, weekly reporting against agreed metrics, and a clear picture of what the next quarter builds on.
 
-What they should not look like: mostly calls, mostly documents, no programs live, no baseline metrics established. If you are four weeks in and the only output is a Notion document, something is wrong.
+What they should not look like: mostly calls, mostly documents, no programs live, no baseline metrics established. If you are four weeks in and the only output is a Notion document, something is wrong. Once the engagement is running, [how to measure fractional CMO ROI](/blog/fractional-cmo-roi) lays out the leading indicators to track at 30, 60, and 90 days so you can prove it is working before revenue catches up.
 
 [Read more about what a fractional CMO does in the first 90 days](/blog/what-does-a-fractional-cmo-do).
 

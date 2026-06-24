@@ -103,7 +103,7 @@ You are not a passenger in this month. The single highest-leverage thing you can
 
 The founder who called me at week three? At week five, his CMO presented the audit: one channel quietly eating 40 percent of the budget for almost no pipeline, a website saying something customers never said, and three fixes sequenced over 90 days. The "expensive listener" had found six figures of waste by listening. If you run a software business and want to see how this plays out in that context specifically, I wrote a full breakdown of the [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) engagement model.
 
-That feeling at week three, when nothing visible has shipped and the doubt creeps in? In a well-run engagement, that is not a warning sign. That is what diagnosis looks like from the outside. It is a green flag wearing a disguise.
+That feeling at week three, when nothing visible has shipped and the doubt creeps in? In a well-run engagement, that is not a warning sign. That is what diagnosis looks like from the outside. It is a green flag wearing a disguise. Once the diagnostic is done and the work starts shipping, [measuring ROI in the first 90 days](/blog/fractional-cmo-roi) is how you confirm the engagement is paying off before revenue moves.
 
 ---
 
