@@ -10,7 +10,9 @@ type Props = CollectionEntry<'blog'>['data'];
 const { title, description, pubDate, updatedDate, heroImage, author } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
-const imageURL = heroImage ? new URL(heroImage, Astro.site).toString() : undefined;
+// heroImage is a string path for blog posts, but may be an imported image object (e.g. about.astro)
+const heroSrc = typeof heroImage === 'string' ? heroImage : (heroImage as any)?.src;
+const imageURL = heroSrc ? new URL(heroSrc, Astro.site).toString() : undefined;
 
 const blogPostingSchema = {
   "@context": "https://schema.org",
@@ -70,6 +72,15 @@ const blogPostingSchema = {
         letter-spacing: -0.02em;
         color: var(--text);
         margin-bottom: 2rem;
+      }
+      .post-hero {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1200 / 630;
+        object-fit: cover;
+        border-radius: 8px;
+        border: 1px solid var(--border);
+        margin-bottom: 2.5rem;
       }
       .post-divider {
         border: none;
@@ -167,6 +178,9 @@ const blogPostingSchema = {
           )}
         </div>
         <h1 class="post-title">{title}</h1>
+        {heroSrc && (
+          <img src={heroSrc} alt={title} class="post-hero" width="1200" height="630" loading="eager" />
+        )}
         <hr class="post-divider" />
         <div class="prose">
           <slot />
@@ -174,7 +188,7 @@ const blogPostingSchema = {
 
         <!-- Author bio -->
         <div class="author-bio">
-          <img src="/liviu.webp" alt="Liviu" class="author-photo" />
+          <img src="/liviu.webp" alt="Liviu, Founder & Fractional CMO at Multiply" class="author-photo" />
           <div class="author-info">
             <div class="author-name">{author ?? 'Liviu'}</div>
             <div class="author-role">Founder &amp; Fractional CMO, Multiply</div>
