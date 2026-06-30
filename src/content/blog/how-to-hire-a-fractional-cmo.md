@@ -87,7 +87,7 @@ Your network is the best filter. A warm introduction from a founder who hired so
 
 ### The discovery call
 
-This is your diagnostic, not theirs. You should leave the call knowing: what they've actually built, how they think about your specific problem, what their operating rhythm looks like, and whether they asked the right questions. The strongest candidates will want to see your data before they propose anything.
+This is your diagnostic, not theirs. You should leave the call knowing: what they've actually built, how they think about your specific problem, what their operating rhythm looks like, and whether they asked the right questions. The strongest candidates will want to see your data before they propose anything. To run this call well, use these [5 questions to ask before hiring](/blog/questions-to-ask-fractional-cmo), each designed to reward specificity over polished vocabulary.
 
 ### The paid diagnostic as a trial engagement
 

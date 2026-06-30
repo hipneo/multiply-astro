@@ -80,7 +80,7 @@ The founder from the opening could not answer the board because nothing was set 
 1. **Define the three metrics that matter most before the CMO starts.** Tie them to your biggest problem. Owning this clarity is part of the founder's job, just as owning the numbers is part of the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities).
 2. **Baseline everything in week one.** You cannot measure improvement against a number you never recorded. This is the single most skipped step.
 3. **Review the dashboard weekly, not monthly.** Monthly reviews catch problems a month too late.
-4. **Agree on what "good" looks like at 30, 60, and 90 days.** Write it down before the work starts so the 90-day review is a comparison, not a debate.
+4. **Agree on what "good" looks like at 30, 60, and 90 days.** Write it down before the work starts so the 90-day review is a comparison, not a debate. Settle these targets during hiring, alongside the [questions to ask before you sign](/blog/questions-to-ask-fractional-cmo), so accountability is built in from the first conversation.
 
 ## Red flags in the numbers
 

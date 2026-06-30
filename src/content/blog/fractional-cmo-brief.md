@@ -98,7 +98,7 @@ Four failure modes, all common:
 
 The brief isn't only an onboarding tool. It's a hiring instrument.
 
-Share it with your final candidates before the last interview. What they do with it tells you more than any answer to "what's your process." Watch the questions they ask. Sharp questions about the constraints section or the failed channels signal an operator who thinks in systems. Vague enthusiasm signals someone who skimmed it.
+Share it with your final candidates before the last interview. What they do with it tells you more than any answer to "what's your process." Watch the questions they ask. Sharp questions about the constraints section or the failed channels signal an operator who thinks in systems. Vague enthusiasm signals someone who skimmed it. Pair the brief with these [questions to ask in the interview](/blog/questions-to-ask-fractional-cmo) to separate operators from advisors before you commit.
 
 And watch for pushback. A strong CMO will challenge something in the brief, your stated number one priority, your read on a failed channel, your budget split. That's a green flag. It means they're already engaging with your business instead of nodding along to win the contract. If you want the full evaluation framework, I wrote it up in [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo).
 

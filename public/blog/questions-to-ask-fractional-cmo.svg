@@ -1,0 +1,113 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F9F8F5"/>
+
+  <!-- Faint grid -->
+  <line x1="0" y1="315" x2="1200" y2="315" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="600" y1="0" x2="600" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- ── CHECKLIST PANEL ─────────────────────────────────────────────────── -->
+  <rect x="330" y="96" width="540" height="438" fill="#F9F8F5" stroke="#1C1C1A" stroke-width="1.25" opacity="0.5" rx="5"/>
+
+  <!-- Header bar -->
+  <rect x="362" y="128" width="170" height="11" fill="#9B2335" opacity="0.55" rx="1.5"/>
+  <line x1="362" y1="158" x2="838" y2="158" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+
+  <!-- ── FIVE CHECKLIST ROWS ─────────────────────────────────────────────── -->
+  <!-- Row 1: checked (crimson check) -->
+  <g>
+    <rect x="362" y="188" width="30" height="30" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.7" rx="5"/>
+    <polyline points="369,203 376,211 386,196" fill="none" stroke="#9B2335" stroke-width="2.25" opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="410" y="194" width="300" height="9" fill="#1C1C1A" opacity="0.4" rx="1.5"/>
+    <rect x="410" y="208" width="220" height="7" fill="#1C1C1A" opacity="0.16" rx="1.5"/>
+  </g>
+
+  <!-- Row 2: checked -->
+  <g>
+    <rect x="362" y="248" width="30" height="30" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.7" rx="5"/>
+    <polyline points="369,263 376,271 386,256" fill="none" stroke="#9B2335" stroke-width="2.25" opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="410" y="254" width="330" height="9" fill="#1C1C1A" opacity="0.4" rx="1.5"/>
+    <rect x="410" y="268" width="250" height="7" fill="#1C1C1A" opacity="0.16" rx="1.5"/>
+  </g>
+
+  <!-- Row 3: focal / currently being evaluated (filled crimson box + halo) -->
+  <g>
+    <rect x="346" y="302" width="508" height="42" fill="#9B2335" opacity="0.05" rx="4"/>
+    <rect x="362" y="308" width="30" height="30" fill="#9B2335" opacity="0.7" rx="5"/>
+    <polyline points="369,323 376,331 386,316" fill="none" stroke="#F9F8F5" stroke-width="2.25" opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="410" y="314" width="290" height="9" fill="#9B2335" opacity="0.5" rx="1.5"/>
+    <rect x="410" y="328" width="200" height="7" fill="#9B2335" opacity="0.22" rx="1.5"/>
+    <!-- selection brackets -->
+    <polyline points="828,310 836,310 836,318" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="828,336 836,336 836,328" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Row 4: unchecked (empty box) -->
+  <g>
+    <rect x="362" y="368" width="30" height="30" fill="none" stroke="#1C1C1A" stroke-width="1.25" opacity="0.3" rx="5"/>
+    <rect x="410" y="374" width="312" height="9" fill="#1C1C1A" opacity="0.28" rx="1.5"/>
+    <rect x="410" y="388" width="234" height="7" fill="#1C1C1A" opacity="0.12" rx="1.5"/>
+  </g>
+
+  <!-- Row 5: unchecked (empty box) -->
+  <g>
+    <rect x="362" y="428" width="30" height="30" fill="none" stroke="#1C1C1A" stroke-width="1.25" opacity="0.3" rx="5"/>
+    <rect x="410" y="434" width="276" height="9" fill="#1C1C1A" opacity="0.28" rx="1.5"/>
+    <rect x="410" y="448" width="210" height="7" fill="#1C1C1A" opacity="0.12" rx="1.5"/>
+  </g>
+
+  <!-- ── LEFT MARGIN: five numbered evaluation ticks (the 5 questions) ────── -->
+  <g>
+    <line x1="190" y1="200" x2="190" y2="446" stroke="#1C1C1A" stroke-width="0.75" opacity="0.14"/>
+    <circle cx="190" cy="203" r="9" fill="#F9F8F5" stroke="#9B2335" stroke-width="1.5" opacity="0.7"/>
+    <circle cx="190" cy="203" r="3" fill="#9B2335" opacity="0.6"/>
+    <circle cx="190" cy="263" r="9" fill="#F9F8F5" stroke="#9B2335" stroke-width="1.5" opacity="0.7"/>
+    <circle cx="190" cy="263" r="3" fill="#9B2335" opacity="0.6"/>
+    <circle cx="190" cy="323" r="10.5" fill="#9B2335" opacity="0.75"/>
+    <circle cx="190" cy="323" r="20" fill="#9B2335" opacity="0.08"/>
+    <circle cx="190" cy="383" r="9" fill="none" stroke="#1C1C1A" stroke-width="1.25" opacity="0.3"/>
+    <circle cx="190" cy="443" r="9" fill="none" stroke="#1C1C1A" stroke-width="1.25" opacity="0.3"/>
+  </g>
+
+  <!-- ── RIGHT MARGIN: scoring gauge (specificity vs vocabulary) ─────────── -->
+  <g>
+    <!-- vertical scale -->
+    <line x1="970" y1="200" x2="970" y2="430" stroke="#1C1C1A" stroke-width="0.75" opacity="0.18"/>
+    <g stroke="#1C1C1A" stroke-width="0.75" opacity="0.16">
+      <line x1="965" y1="200" x2="975" y2="200"/>
+      <line x1="965" y1="258" x2="975" y2="258"/>
+      <line x1="965" y1="315" x2="975" y2="315"/>
+      <line x1="965" y1="372" x2="975" y2="372"/>
+      <line x1="965" y1="430" x2="975" y2="430"/>
+    </g>
+    <!-- score bars, ascending (specificity rating) -->
+    <g fill="#9B2335">
+      <rect x="990" y="400" width="16" height="30" opacity="0.25" rx="1.5"/>
+      <rect x="1014" y="360" width="16" height="70" opacity="0.35" rx="1.5"/>
+      <rect x="1038" y="300" width="16" height="130" opacity="0.5" rx="1.5"/>
+      <rect x="1062" y="250" width="16" height="180" opacity="0.7" rx="1.5"/>
+    </g>
+    <!-- a small crimson dot capping the top bar -->
+    <circle cx="1070" cy="250" r="4" fill="#9B2335" opacity="0.85"/>
+  </g>
+
+  <!-- ── CORNER GEOMETRY (house style) ───────────────────────────────────── -->
+  <rect x="44" y="44" width="44" height="44" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.1" rx="1"/>
+  <rect x="56" y="56" width="20" height="20" fill="none" stroke="#9B2335" stroke-width="0.75" opacity="0.2"/>
+
+  <g>
+    <line x1="1020" y1="58" x2="1148" y2="58" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+    <line x1="1020" y1="74" x2="1130" y2="74" stroke="#1C1C1A" stroke-width="0.75" opacity="0.12"/>
+    <line x1="1020" y1="90" x2="1148" y2="90" stroke="#9B2335" stroke-width="1" opacity="0.45"/>
+    <circle cx="1012" cy="90" r="3" fill="#9B2335" opacity="0.6"/>
+  </g>
+
+  <g stroke="#1C1C1A" stroke-width="0.75">
+    <line x1="56" y1="558" x2="156" y2="558" opacity="0.16"/>
+    <line x1="56" y1="572" x2="136" y2="572" opacity="0.12"/>
+    <line x1="56" y1="586" x2="116" y2="586" opacity="0.10"/>
+  </g>
+
+  <circle cx="1130" cy="570" r="14" fill="none" stroke="#1C1C1A" stroke-width="0.75" opacity="0.16"/>
+  <circle cx="1130" cy="570" r="7" fill="none" stroke="#9B2335" stroke-width="0.75" opacity="0.4"/>
+  <circle cx="1130" cy="570" r="2" fill="#9B2335" opacity="0.65"/>
+</svg>
