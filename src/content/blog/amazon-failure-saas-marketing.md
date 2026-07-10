@@ -71,7 +71,7 @@ Here is the thing nobody tells you about failure. The best marketing lessons I h
 
 But scar tissue is only an asset if you are honest enough to study it. Plenty of founders walk away from a failure with the wrong lesson, or no lesson, because looking at it clearly is painful. The whole value of the scar is in the diagnosis: not "Amazon is hard," which is useless, but "I built on a channel I didn't own, I never created a margin through positioning, and I waited two years too long to act." Those three sentences are worth more than any success I have had, because a success rarely tells you why it worked. A failure, studied honestly, tells you exactly why.
 
-That is what I bring to every engagement now. Not a playbook of things that worked once, but the willingness to look at a business and call the hard thing early: the channel risk nobody wants to name, the positioning that does not exist yet, the thing that is not working that everyone is too invested to stop doing. I learned all of it the expensive way, so that the founders I work with do not have to.
+That is what I bring to every engagement now. Not a playbook of things that worked once, but the willingness to look at a business and call the hard thing early: the channel risk nobody wants to name, the positioning that does not exist yet, the thing that is not working that everyone is too invested to stop doing. I learned all of it the expensive way, so that the founders I work with do not have to. When a founder wants to pour marketing budget into a business with a deeper problem underneath it, [I've made this mistake myself](/blog/turned-down-10k-fractional-cmo), and I will say so before they spend a dollar.
 
 ## Back to the Spreadsheet
 

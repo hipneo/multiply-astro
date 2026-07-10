@@ -75,7 +75,7 @@ If the calls feel good but something is slightly off, trust that. If it feels li
 
 **They're vague about time commitment and availability.** Some fractional CMOs are running five or six clients simultaneously. That can work for light advisory retainers, it does not work if you need someone managing your marketing week to week. Get clear answers: how many hours per week, what those hours look like, how they handle competing priorities, how available they are between scheduled calls.
 
-**They have no curiosity about your business before proposing solutions.** If the first call features a pitch for a content engine or a paid acquisition program before they've seen your data, talked to your team, or reviewed your funnel, that's a vendor speaking, not a marketing leader. The right person is diagnosing before prescribing.
+**They have no curiosity about your business before proposing solutions.** If the first call features a pitch for a content engine or a paid acquisition program before they've seen your data, talked to your team, or reviewed your funnel, that's a vendor speaking, not a marketing leader. The right person is diagnosing before prescribing. And [a fractional CMO who says no](/blog/turned-down-10k-fractional-cmo), who tells you to fix retention before you spend on acquisition, is diagnosing honestly rather than protecting an invoice.
 
 **Their references are other consultants.** Peer references, from people who worked alongside them, are less useful than references from people who hired them to deliver results. Ask for two or three references from founders or operators they've reported to. Then actually call those people.
 
