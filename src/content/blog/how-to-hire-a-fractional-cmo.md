@@ -117,7 +117,7 @@ What they should not look like: mostly calls, mostly documents, no programs live
 
 Significant, but substantially less than a full-time CMO at $200K+ salary plus equity plus benefits, and with far more flexibility to end or restructure if the business changes.
 
-The right comparison is not a freelancer. It's a full-time hire you can't yet justify, or a [marketing agency](/blog/fractional-marketing) that charges comparable rates with less accountability and no strategic ownership of your outcomes.
+The right comparison is not a freelancer. It's a full-time hire you can't yet justify, or a [marketing agency](/blog/fractional-marketing) that charges comparable rates with less accountability and no strategic ownership of your outcomes. If you're torn between a strategic leader and a mid-level executor, the [fractional CMO vs head of marketing](/blog/fractional-cmo-vs-head-of-marketing) breakdown makes that call clearer.
 
 For a full breakdown of [fractional CMO services and how to structure the engagement](/blog/fractional-cmo-services), that post goes deeper on contracts, deliverables, and what to hold your CMO accountable for. For the [full scope of fractional CMO responsibilities](/blog/fractional-cmo-responsibilities), what they own versus what they don't, the dedicated breakdown lays out where the line should sit before you sign.
 

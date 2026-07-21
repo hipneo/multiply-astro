@@ -110,7 +110,7 @@ If you build the function first, with a fractional CMO, or with me specifically,
 
 The fractional engagement is the proof of concept. The full-time hire is the scale operation.
 
-Don't skip the proof of concept.
+Don't skip the proof of concept. And if the role you're actually weighing is a mid-level executor rather than a full-time CMO, the [fractional CMO vs head of marketing](/blog/fractional-cmo-vs-head-of-marketing) comparison walks through that decision in detail.
 
 ---
 

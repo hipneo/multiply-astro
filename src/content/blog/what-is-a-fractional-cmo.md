@@ -87,7 +87,7 @@ These ranges are guidelines, not laws. A $700K company in a complex regulated sp
 
 **Vs marketing consultant.** Similar cost in some cases. Consultant produces a plan; fractional CMO produces a running function. Consultant engagements are short and defined; fractional CMO engagements are ongoing.
 
-**Vs VP of Marketing.** A VP is more execution-focused and reports to a CMO or CEO. A fractional CMO replaces or precedes a VP, sets the strategic direction the VP will eventually own. At $1–5M ARR, hiring a VP without strategic leadership above them often produces tactical effort with no architecture.
+**Vs VP of Marketing.** A VP is more execution-focused and reports to a CMO or CEO. A fractional CMO replaces or precedes a VP, sets the strategic direction the VP will eventually own. At $1–5M ARR, hiring a VP without strategic leadership above them often produces tactical effort with no architecture. The same logic applies to a Head of Marketing hire; the [fractional CMO vs head of marketing](/blog/fractional-cmo-vs-head-of-marketing) comparison lays out exactly when each one is the right call.
 
 For comprehensive coverage across engagement layers, [fractional CMO services](/blog/fractional-cmo-services) breaks down the strategy, execution, and leadership components.
 
