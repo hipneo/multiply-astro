@@ -49,7 +49,7 @@ Assuming the filter applies, here is the practical sequence.
 
 **Write your one-sentence positioning.** Who you help, the stage they are at, the outcome you produce. Mine: "Fractional CMO for founder-led B2B SaaS at $1-5M ARR, building the marketing function that takes them to $10M." Yours will be different, but should be that short and concrete.
 
-**Mine your network first.** List every founder, ex-colleague, investor, and operator who knows you well enough to vouch for you. Reach out with a brief update on what you are doing, not a pitch. Most first clients come from this list.
+**Mine your network first.** List every founder, ex-colleague, investor, and operator who knows you well enough to vouch for you. Reach out with a brief update on what you are doing, not a pitch. Most first clients come from this list. For the full map of [where to find fractional CMO clients](/blog/fractional-cmo-jobs), that post ranks the six channels by yield.
 
 ## The business side nobody talks about
 

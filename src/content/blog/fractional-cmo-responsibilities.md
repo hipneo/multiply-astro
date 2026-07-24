@@ -83,7 +83,7 @@ The same role looks different in month one and month six. Four phases.
 
 ## For marketers considering this role
 
-If you are looking at this list and thinking about [becoming a fractional CMO](/blog/how-to-become-a-fractional-cmo) yourself, or want a clearer picture of [fractional CMO jobs and career path](/blog/fractional-cmo-jobs) (how the market actually works, what it pays, and where the work comes from), those posts cover the practitioner-side reality. Here is the part the role descriptions skip.
+If you are looking at this list and thinking about [becoming a fractional CMO](/blog/how-to-become-a-fractional-cmo) yourself, or want a clearer picture of [fractional CMO jobs and career path](/blog/fractional-cmo-jobs) (how the market actually works, what it pays, and where the work comes from), those posts cover the practitioner-side reality. Once you know what you own, [how to price your services](/blog/fractional-cmo-rate) is the next decision to get right. Here is the part the role descriptions skip.
 
 You are signing up to be accountable for outcomes you do not fully control. The team is contractors you do not manage as employees. The budget is set by someone else. The product can change underneath you. The founder may or may not surrender the approvals you need to move. None of that excuses you from the pipeline number at the end of the quarter. And being accountable for the outcome sometimes means telling a founder their problem is not marketing at all, which is [the real job of a fractional CMO](/blog/turned-down-10k-fractional-cmo) even when it costs you the engagement.
 

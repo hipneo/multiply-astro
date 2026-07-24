@@ -79,6 +79,6 @@ Then go fix that thing first. Fix the retention problem, close the hole, get the
 
 ## Would I do it again?
 
-Yes. Without hesitating. I turned down $10,000 a month and I would turn it down again tomorrow, because the alternative is taking money to do the wrong work well, and I already know where that road ends.
+Yes. Without hesitating. I turned down $10,000 a month and I would turn it down again tomorrow, because the alternative is taking money to do the wrong work well, and I already know where that road ends. The number was fair, for what it is worth — [how I think about pricing engagements](/blog/fractional-cmo-rate) is a separate topic — but a fair price for the wrong work is still the wrong work.
 
 I don't know if he'll call back. But I know I gave him the truth instead of a campaign. That's the only thing I can live with.
