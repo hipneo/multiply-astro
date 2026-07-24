@@ -57,7 +57,7 @@ Six channels, ranked roughly in order of yield.
 
 **Annual earnings:** Two stable retainers at $7,500/month produce $180,000. Three produce $270,000. Add occasional projects and the realistic range is $120,000-$300,000 annually for an established operator, before taxes and overhead.
 
-Compared to a full-time CMO at $200,000-$300,000 total comp with equity, fractional income is similar or better at the upper end, with more flexibility. For a full breakdown of [fractional CMO rates](/blog/fractional-cmo-rates), that post covers what each band buys.
+Compared to a full-time CMO at $200,000-$300,000 total comp with equity, fractional income is similar or better at the upper end, with more flexibility. For a full breakdown of [fractional CMO rates](/blog/fractional-cmo-rates), that post covers what each band buys, and the framework for [pricing your fractional CMO services](/blog/fractional-cmo-rate) covers how to land on your own number without underpricing.
 
 ## A fractional CMO "job" is really a practice
 

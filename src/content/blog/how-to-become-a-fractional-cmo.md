@@ -45,7 +45,7 @@ Assuming the filter applies, here is the practical sequence.
 
 **Define your niche before you need clients.** "Fractional CMO" is a category, not a positioning. The post on [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do) covers the operating shape of the role, and your niche should fit inside one specific corner of it.
 
-**Set your pricing before the first conversation.** Decide what a diagnostic costs, what a retainer costs, what advisory costs. Write the numbers down. Practice saying them out loud. Founders can hear hesitation, and hesitation gets you negotiated down. For benchmarking, [fractional CMO rates](/blog/fractional-cmo-rates) by tier is the reference I use.
+**Set your pricing before the first conversation.** Decide what a diagnostic costs, what a retainer costs, what advisory costs. Write the numbers down. Practice saying them out loud. Founders can hear hesitation, and hesitation gets you negotiated down. For benchmarking, [fractional CMO rates](/blog/fractional-cmo-rates) by tier is the reference I use, and the full framework for [how to set your fractional CMO rate](/blog/fractional-cmo-rate) walks through arriving at your number with confidence.
 
 **Write your one-sentence positioning.** Who you help, the stage they are at, the outcome you produce. Mine: "Fractional CMO for founder-led B2B SaaS at $1-5M ARR, building the marketing function that takes them to $10M." Yours will be different, but should be that short and concrete.
 
