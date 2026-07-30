@@ -39,7 +39,7 @@ Law firms aren't normal businesses. Treating them like normal businesses is why 
 
 **The prestige paradox.** Firms want growth but don't want to look like it. Anything that looks like selling is a cultural problem. Marketing here requires taste, restraint, and an understanding of how senior buyers actually choose firms.
 
-These five constraints make law firm marketing a specific discipline. Generalists struggle until they've spent enough time inside firms to learn the culture.
+These five constraints make law firm marketing a specific discipline. Generalists struggle until they've spent enough time inside firms to learn the culture. The same pattern shows up in other regulated verticals, a [fractional CMO for healthcare](/blog/fractional-cmo-healthcare) faces an almost identical mix of advertising rules, trust-based buying, and slow cycles, just under HIPAA and FDA rather than bar rules.
 
 ## Why full-time marketing directors keep failing at law firms
 
