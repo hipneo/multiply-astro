@@ -43,7 +43,7 @@ The work changes materially across the $1–10M range.
 
 **$0–$1M ARR.** The job is foundational. Tight ICP, narrow enough to name 200 companies. Positioning that explains who it's for and why this product over alternatives. One repeatable acquisition channel that produces signups consistently. Anything beyond that is premature. At this stage, a [fractional cmo for b2b saas](/blog/fractional-cmo-for-saas) is doing diagnostic work, not running campaigns.
 
-**$1–3M ARR.** Scaling what works. Doubling the working channel, building a small team or vendor stack, fixing the attribution nobody's looked at since launch. This is where most engagements start, the stage where founder-led marketing has hit its ceiling.
+**$1–3M ARR.** Scaling what works. Doubling the working channel, building a small team or vendor stack, fixing the attribution nobody's looked at since launch. This is where most engagements start, the stage where founder-led marketing has hit its ceiling. If you're right at the bottom of this band, I've written a dedicated breakdown of [what to focus on first at $1M ARR](/blog/fractional-cmo-1m-arr-saas), because the discipline that matters most here is subtraction, not scale.
 
 **$3–10M ARR.** Multi-channel orchestration, brand layer, product marketing alignment. The channels that worked at $2M start hitting saturation; new ones need to be stood up. Product marketing, launches, packaging, expansion plays, becomes meaningful. Sales and marketing alignment is no longer a gap to fix but an ongoing system to maintain.
 

@@ -62,7 +62,7 @@ It doesn't make sense if: you're still iterating on the product based on custome
 
 **$1M–$5M ARR, Yes. This is the sweet spot.**
 
-This is where fractional CMO engagements consistently produce measurable results. You have proof of concept. Real revenue. Customers who can refer you and be case studied. The problem is almost never the product at this stage, it's the marketing system.
+This is where fractional CMO engagements consistently produce measurable results. You have proof of concept. Real revenue. Customers who can refer you and be case studied. The problem is almost never the product at this stage, it's the marketing system. The entry point to this band matters most, and I've written separately on what a [fractional CMO for a $1M ARR SaaS company](/blog/fractional-cmo-1m-arr-saas) should focus on first, because the priorities at the bottom of the range are narrower than most founders expect.
 
 You've probably got the scattered-tactics problem I described above. Or you've grown mostly through founder-led sales and the pipeline runs dry when you take your foot off the pedal. Or you've been spending on marketing without being able to attribute what it's producing.
 

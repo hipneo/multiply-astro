@@ -87,7 +87,7 @@ The work looks different at the startup stage than at [fractional CMO for SaaS](
 
 **Positioning.** The one or two sentences that tell your buyer exactly what you do, who it's for, and why you and not the alternatives. Most startup positioning is either too generic ("we help teams collaborate") or too feature-led ("AI-powered workflow automation"). Getting this right changes the performance of every downstream marketing activity.
 
-**First acquisition channel.** Not a diversified multi-channel strategy, one channel, chosen deliberately based on where your specific buyer is when they have your specific problem. Getting one channel working before adding more is almost always the right sequencing for startups.
+**First acquisition channel.** Not a diversified multi-channel strategy, one channel, chosen deliberately based on where your specific buyer is when they have your specific problem. Getting one channel working before adding more is almost always the right sequencing for startups. Once you've crossed into real revenue, the same discipline sharpens further: a [fractional CMO at $1M ARR](/blog/fractional-cmo-1m-arr-saas) drives one channel all the way to predictable profit before touching a second.
 
 **Basic analytics.** You cannot learn without measurement. Google Analytics 4 properly configured, UTM structure in place, CRM connected, conversion events tracked. The first 30 days of any startup engagement includes making sure the data infrastructure exists to support future decisions.
 
