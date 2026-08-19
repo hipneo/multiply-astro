@@ -77,7 +77,7 @@ The honest answer to "should I hire a fractional CMO?" depends on your stage. He
 
 **$10M+ ARR, consider full-time.** At this stage, the math typically tips toward a permanent CMO. The marketing function is large enough that part-time leadership leaves too much unattended. A fractional CMO can still work as a bridge or as an advisor, but the primary leader should be in seat full-time. For the full comparison, [fractional CMO vs full-time](/blog/fractional-cmo-vs-full-time-cmo) breaks down the financial and operational tradeoffs.
 
-These ranges are guidelines, not laws. A $700K company in a complex regulated space may need senior leadership earlier; a $4M company with a strong marketing director may not need a fractional CMO at all. Use the framework, but read your own situation honestly.
+These ranges are guidelines, not laws. A $700K company in a complex regulated space may need senior leadership earlier; a $4M company with a strong marketing director may not need a fractional CMO at all. Use the framework, but read your own situation honestly, and be clear-eyed about [when hiring one is the wrong move](/blog/when-not-to-hire-a-fractional-cmo), because the same stage that makes the model fit can also mask reasons to wait.
 
 ## Fractional CMO vs the alternatives
 
