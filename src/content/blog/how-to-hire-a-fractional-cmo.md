@@ -53,7 +53,7 @@ B2B SaaS marketing is a specific discipline. It's not agency work. It's not bran
 
 A [fractional CMO built for SaaS](/blog/fractional-cmo-for-saas) will have opinions about what a healthy CAC:LTV ratio looks like at your ARR. They'll know how to build a content strategy that drives pipeline rather than just traffic. They'll understand why the attribution is probably wrong and how to fix it with imperfect data.
 
-If you specifically sell to other businesses rather than consumers, [B2B fractional CMO experience](/blog/b2b-fractional-cmo) matters even more, the buying committee, sales cycle, and channel mix are different sport entirely.
+If you specifically sell to other businesses rather than consumers, [B2B fractional CMO experience](/blog/b2b-fractional-cmo) matters even more, the buying committee, sales cycle, and channel mix are different sport entirely. And if you operate in a regulated space like financial services, weight [regulated-industry experience](/blog/fractional-cmo-for-fintech) heavily, because comfort building a compliance workflow is a specific skill a generalist rarely has.
 
 ### 4. Communication like an owner, not a vendor
 

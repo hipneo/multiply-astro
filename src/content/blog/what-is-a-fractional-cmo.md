@@ -131,6 +131,8 @@ The role specialises in interesting ways. The same operating model produces diff
 
 **Fractional CMO for law firms.** Partnership culture, regulatory constraints, prestige paradox, lateral hire marketing. A specialised application of the model for professional services. The [fractional CMO for law firms](/blog/fractional-cmo-law-firms) breakdown covers what's different about marketing inside a partnership.
 
+**Fractional CMO for fintech.** The most compliance-heavy application, where legal review holds a veto over every public claim and trust is the product itself. The role takes on a formal compliance workflow, an approved claims library, and a long multi-stakeholder sales cycle. The [fractional CMO for fintech](/blog/fractional-cmo-for-fintech) breakdown covers marketing when compliance is a co-author rather than a final gate.
+
 The broader pattern: the fractional model adapts well across most knowledge-economy sectors where senior marketing leadership is needed but a full-time CMO can't yet be justified.
 
 ## The history and rise of fractional executives

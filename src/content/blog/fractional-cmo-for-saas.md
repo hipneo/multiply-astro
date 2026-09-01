@@ -214,7 +214,7 @@ If the answer is "nobody," you don't need better execution. You need a marketing
 
 Five criteria, in order of importance. I'm telling you this as someone who is one, which means I know exactly what the bad version looks like.
 
-If you sell primarily to other businesses, the criteria shift slightly, there's a separate post on what makes a [B2B fractional CMO](/blog/b2b-fractional-cmo) effective specifically in that context.
+If you sell primarily to other businesses, the criteria shift slightly, there's a separate post on what makes a [B2B fractional CMO](/blog/b2b-fractional-cmo) effective specifically in that context. And if your SaaS sells into financial services, compliance changes the playbook entirely, which is why a [fractional CMO for fintech](/blog/fractional-cmo-for-fintech) has to design the whole strategy around claim approval rather than bolt it on at the end.
 
 **1. They've built marketing engines from zero, not managed ones that already existed.**
 
