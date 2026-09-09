@@ -39,7 +39,7 @@ Anyone can build a strategy deck. Ask instead what they actually shipped. Which 
 
 The question to ask directly: *"Walk me through the last marketing program you built from scratch, who ran it day to day, what was your personal involvement, and what happened to pipeline as a result?"*
 
-Vagueness here is diagnostic.
+Vagueness here is diagnostic. The document version of this same check is [how to read a fractional CMO portfolio](/blog/fractional-cmo-portfolio), which separates real case studies with baselines and attribution from marketing about marketing.
 
 ### 2. An operator mindset
 
