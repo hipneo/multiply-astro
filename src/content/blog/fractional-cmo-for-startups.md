@@ -1,6 +1,6 @@
 ---
-title: 'Fractional CMO for Startups: When It Makes Sense (and When It Doesn''t)'
-description: 'A fractional CMO can transform an early-stage startup''s marketing, but only if the timing and budget are right. Here''s the honest framework for deciding.'
+title: 'Fractional CMO for Startups: A 5-Question Readiness Test'
+description: 'Most startups hire a fractional CMO too early. Run the 5-question readiness test first, plus the pre-revenue exception and the risks nobody warns about.'
 pubDate: '2026-04-19'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-for-startups.png'

@@ -1,6 +1,6 @@
 ---
-title: 'Fractional CMO Rates: What You''ll Pay in 2026 (Hourly, Monthly & Retainer)'
-description: 'Fractional CMO rates range from $150–$350/hour or $5,000–$10,000/month on retainer. Here''s the full breakdown by engagement type, experience level, and what drives the price.'
+title: 'Fractional CMO Rates 2026: Hourly, Retainer and Agency'
+description: 'Fractional CMO rates run $150 to $350 an hour or $5,000 to $10,000 monthly. Compare all three models against a full-time CMO salary and an agency retainer.'
 pubDate: '2026-04-17'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-rates.png'

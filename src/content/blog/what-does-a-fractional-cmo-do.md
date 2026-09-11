@@ -1,6 +1,6 @@
 ---
-title: 'What Does a Fractional CMO Actually Do? (It''s Not What Most Founders Expect)'
-description: 'Most founders expect strategy decks. A fractional CMO builds and runs the marketing engine week to week. Here''s exactly what that looks like.'
+title: 'What Does a Fractional CMO Do? A Week-by-Week Breakdown'
+description: 'Founders expect strategy decks. Here is the actual week-by-week breakdown of what a fractional CMO builds and runs, plus the work they will not take on.'
 pubDate: '2026-04-10'
 author: 'Liviu'
 heroImage: '/blog/what-does-a-fractional-cmo-do.png'

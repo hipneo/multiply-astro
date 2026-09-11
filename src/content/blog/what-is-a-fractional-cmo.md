@@ -1,6 +1,6 @@
 ---
-title: 'What Is a Fractional CMO? The Complete Guide for 2026'
-description: 'A fractional CMO is a senior marketing leader who works part-time across multiple companies, giving businesses CMO-level strategy and execution without the full-time cost. Here''s everything you need to know.'
+title: 'What Is a Fractional CMO? Cost, Scope and ARR Fit in 2026'
+description: 'A fractional CMO is a senior marketing leader you rent part-time. Here is what they cost in 2026, the three engagement models, and the ARR you need first.'
 pubDate: '2026-05-01'
 author: 'Liviu'
 heroImage: '/blog/what-is-a-fractional-cmo.png'

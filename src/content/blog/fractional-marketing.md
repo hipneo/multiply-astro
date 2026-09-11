@@ -1,6 +1,6 @@
 ---
-title: 'Fractional Marketing: The Complete Guide to Outsourced Marketing Leadership'
-description: 'Fractional marketing gives growing companies senior marketing leadership without a full-time hire, here''s how it works, what it costs, and when it''s the right move.'
+title: 'Fractional Marketing: The 3 Models and When to Use Each'
+description: 'Fractional marketing comes in three shapes: CMO, director, and full team. Here is what each covers, what it costs, and which one your stage actually needs.'
 pubDate: '2026-04-21'
 author: 'Liviu'
 heroImage: '/blog/fractional-marketing.png'

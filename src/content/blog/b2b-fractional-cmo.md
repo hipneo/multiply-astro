@@ -1,6 +1,6 @@
 ---
-title: 'B2B Fractional CMO: Why B2B Companies Need a Different Kind of Marketing Leader'
-description: 'B2B marketing is fundamentally different from B2C, longer sales cycles, multiple decision makers, and revenue tied to relationships, not clicks. Here''s why a B2B fractional CMO thinks differently.'
+title: 'B2B Fractional CMO: 4 Fixes for Long Sales Cycles'
+description: 'B2B buyers move in committees over months, not clicks. See the four mistakes a B2B fractional CMO fixes first, and what to look for before you hire one.'
 pubDate: '2026-04-26'
 author: 'Liviu'
 heroImage: '/blog/b2b-fractional-cmo.png'

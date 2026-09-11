@@ -1,6 +1,6 @@
 ---
-title: 'How to Set Your Fractional CMO Rate: A Pricing Framework for Senior Marketers'
-description: 'Most fractional CMOs underprice themselves by 40-60% in their first year. Here''s the exact framework for setting your rate with confidence, based on value, not fear.'
+title: 'Fractional CMO Rate: How to Set Yours Without Underpricing'
+description: 'Most fractional CMOs underprice by 40% in year one. Here is the value-based framework for setting your rate, and how to hold it in the rate conversation.'
 pubDate: '2026-07-10'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-rate.png'
