@@ -16,7 +16,7 @@ This is exactly the situation a **fractional CMO for SaaS** is designed to fix.
 
 **A fractional CMO for SaaS is a senior marketing leader who embeds part-time in your company to build and run your marketing engine, giving you CMO-level strategy and execution at 20–30% of the cost of a full-time hire. Unlike a consultant who delivers a plan and leaves, a fractional CMO owns the outcome, manages the team, and is accountable for your growth metrics week to week.**
 
-If you're new to the model, the [what is a fractional CMO](/blog/what-is-a-fractional-cmo) pillar covers the role end-to-end before you read on for the SaaS-specific take.
+If you're new to the model, the [what is a fractional CMO](/blog/what-is-a-fractional-cmo/) pillar covers the role end-to-end before you read on for the SaaS-specific take.
 
 ---
 
@@ -36,7 +36,7 @@ This isn't a criticism. It makes complete sense. You're a CEO. You're doing prod
 
 The cost compounds quietly. You don't see it in one week. You see it twelve months later when your growth rate is half what it was at $500K ARR and you can't explain why.
 
-A [SaaS fractional CMO](/blog/saas-fractional-cmo) doesn't solve this by adding more tactics. They solve it by building the architecture that makes tactics compound.
+A [SaaS fractional CMO](/blog/saas-fractional-cmo/) doesn't solve this by adding more tactics. They solve it by building the architecture that makes tactics compound.
 
 ---
 
@@ -50,7 +50,7 @@ At this stage, your problem is almost certainly not marketing. It's product-mark
 
 A fractional CMO can't fix those problems. Marketing at this stage amplifies what already works. If you haven't found what works, more marketing spend just accelerates the burn. Save the money. Talk to your customers instead.
 
-The one exception: if you're getting strong inbound signal, people finding you without you chasing them, and you need someone to turn that signal into a repeatable system, there's an argument for a limited diagnostic engagement. But an ongoing retainer at this stage is almost always premature. For a detailed decision framework covering exactly when it makes sense, see [fractional CMO for startups](/blog/fractional-cmo-for-startups).
+The one exception: if you're getting strong inbound signal, people finding you without you chasing them, and you need someone to turn that signal into a repeatable system, there's an argument for a limited diagnostic engagement. But an ongoing retainer at this stage is almost always premature. For a detailed decision framework covering exactly when it makes sense, see [fractional CMO for startups](/blog/fractional-cmo-for-startups/).
 
 **$500K–$1M ARR, Maybe, with conditions.**
 
@@ -62,11 +62,11 @@ It doesn't make sense if: you're still iterating on the product based on custome
 
 **$1M–$5M ARR, Yes. This is the sweet spot.**
 
-This is where fractional CMO engagements consistently produce measurable results. You have proof of concept. Real revenue. Customers who can refer you and be case studied. The problem is almost never the product at this stage, it's the marketing system. The entry point to this band matters most, and I've written separately on what a [fractional CMO for a $1M ARR SaaS company](/blog/fractional-cmo-1m-arr-saas) should focus on first, because the priorities at the bottom of the range are narrower than most founders expect.
+This is where fractional CMO engagements consistently produce measurable results. You have proof of concept. Real revenue. Customers who can refer you and be case studied. The problem is almost never the product at this stage, it's the marketing system. The entry point to this band matters most, and I've written separately on what a [fractional CMO for a $1M ARR SaaS company](/blog/fractional-cmo-1m-arr-saas/) should focus on first, because the priorities at the bottom of the range are narrower than most founders expect.
 
 You've probably got the scattered-tactics problem I described above. Or you've grown mostly through founder-led sales and the pipeline runs dry when you take your foot off the pedal. Or you've been spending on marketing without being able to attribute what it's producing.
 
-A fractional CMO at this stage, at the [right price point](/blog/fractional-cmo-cost) for your scope, will typically pay for itself within 90 days in one of three ways: reduced CAC, improved trial-to-paid conversion, or pipeline generated from channels that weren't producing before. For a full breakdown of [fractional CMO rates](/blog/fractional-cmo-rates), what drives price within the $5,000–$10,000/month range and when hourly makes sense, that's covered in detail.
+A fractional CMO at this stage, at the [right price point](/blog/fractional-cmo-cost/) for your scope, will typically pay for itself within 90 days in one of three ways: reduced CAC, improved trial-to-paid conversion, or pipeline generated from channels that weren't producing before. For a full breakdown of [fractional CMO rates](/blog/fractional-cmo-rates/), what drives price within the $5,000–$10,000/month range and when hourly makes sense, that's covered in detail.
 
 **$5M–$8M ARR, Probably still yes, but think about the transition.**
 
@@ -78,7 +78,7 @@ The question to ask: is marketing a solved problem or still a chaotic one? If it
 
 At this scale, the depth and continuity of a full-time CMO starts to make more sense. You have the budget to support the salary. You need someone building and managing a team. The fractional model stretches at this point, there's too much to own on a 2–3 day per week basis.
 
-That said, the [fractional vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo) decision isn't purely about ARR. It's about what you need the person to do. If you still need the "figure it out" energy more than the "scale what's proven" energy, fractional might still win.
+That said, the [fractional vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo/) decision isn't purely about ARR. It's about what you need the person to do. If you still need the "figure it out" energy more than the "scale what's proven" energy, fractional might still win.
 
 ---
 
@@ -88,7 +88,7 @@ I want to be specific here because "strategic marketing leadership" is a phrase 
 
 **Week 1–4:** I audit everything. Your positioning. Your ICP. Your funnel metrics, even the ones nobody's looked at in a year. Your current channels and what they're actually producing. Your competitors. Your sales call recordings. I talk to your customers directly.
 
-Part of that audit is an honest look at [owned vs rented channels](/blog/amazon-failure-saas-marketing): how much of your pipeline depends on platforms whose rules and prices you don't control, and what you actually own outright.
+Part of that audit is an honest look at [owned vs rented channels](/blog/amazon-failure-saas-marketing/): how much of your pipeline depends on platforms whose rules and prices you don't control, and what you actually own outright.
 
 You get a written diagnostic and a prioritised 90-day plan tied to specific revenue targets. Not a deck. A working document.
 
@@ -98,7 +98,7 @@ You get a written diagnostic and a prioritised 90-day plan tied to specific reve
 
 This is not consulting. I'm not sending you reports and leaving. I'm in Slack. I'm on the weekly calls. I'm the one making the decisions and accountable for the numbers.
 
-For a more granular look at the day-to-day, I've written about [what a fractional CMO actually does](/blog/what-does-a-fractional-cmo-do) week to week, the Monday morning cadence, what I own, what I don't.
+For a more granular look at the day-to-day, I've written about [what a fractional CMO actually does](/blog/what-does-a-fractional-cmo-do/) week to week, the Monday morning cadence, what I own, what I don't.
 
 ---
 
@@ -152,7 +152,7 @@ M, the founder from the story above, had clean Google Ads test results by the en
 
 ## A Real Story: The Founder Who Was Afraid of Paid Ads
 
-If you're already thinking about budget, I've written a detailed breakdown of [how much a fractional CMO costs](/blog/fractional-cmo-cost) at each engagement tier. But the story below is a better illustration of what the money actually buys.
+If you're already thinking about budget, I've written a detailed breakdown of [how much a fractional CMO costs](/blog/fractional-cmo-cost/) at each engagement tier. But the story below is a better illustration of what the money actually buys.
 
 I worked with a B2B SaaS founder, I'll call him M, running a project management tool for architecture firms. About $1.8M ARR. Solid NPS. Terrible growth rate.
 
@@ -190,7 +190,7 @@ More importantly: most good CMOs don't want to build from scratch at your stage.
 
 A fractional CMO for startups gives you the judgment and execution of someone who's built this before, at a fraction of the cost, on a timeline that matches where you actually are.
 
-When you hit $8M ARR and you need a full-time CMO, you'll have a working marketing engine to hand them. That's a much better hire. If you're actively weighing that decision right now, I've written a detailed [fractional vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo) comparison with a side-by-side breakdown of cost, timing, and risk.
+When you hit $8M ARR and you need a full-time CMO, you'll have a working marketing engine to hand them. That's a much better hire. If you're actively weighing that decision right now, I've written a detailed [fractional vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo/) comparison with a side-by-side breakdown of cost, timing, and risk.
 
 ---
 
@@ -206,7 +206,7 @@ I've seen this exact scenario more times than I can count. A founder spends 18 m
 
 The question is: **who owns the connection between marketing activity and revenue?**
 
-If the answer is "nobody," you don't need better execution. You need a marketing leader. That's what [fractional marketing leadership](/blog/fractional-marketing) is designed to provide, and why it's often the right model before a full-time hire makes financial sense.
+If the answer is "nobody," you don't need better execution. You need a marketing leader. That's what [fractional marketing leadership](/blog/fractional-marketing/) is designed to provide, and why it's often the right model before a full-time hire makes financial sense.
 
 ---
 
@@ -214,7 +214,7 @@ If the answer is "nobody," you don't need better execution. You need a marketing
 
 Five criteria, in order of importance. I'm telling you this as someone who is one, which means I know exactly what the bad version looks like.
 
-If you sell primarily to other businesses, the criteria shift slightly, there's a separate post on what makes a [B2B fractional CMO](/blog/b2b-fractional-cmo) effective specifically in that context. And if your SaaS sells into financial services, compliance changes the playbook entirely, which is why a [fractional CMO for fintech](/blog/fractional-cmo-for-fintech) has to design the whole strategy around claim approval rather than bolt it on at the end.
+If you sell primarily to other businesses, the criteria shift slightly, there's a separate post on what makes a [B2B fractional CMO](/blog/b2b-fractional-cmo/) effective specifically in that context. And if your SaaS sells into financial services, compliance changes the playbook entirely, which is why a [fractional CMO for fintech](/blog/fractional-cmo-for-fintech/) has to design the whole strategy around claim approval rather than bolt it on at the end.
 
 **1. They've built marketing engines from zero, not managed ones that already existed.**
 
@@ -256,11 +256,11 @@ The tell: in your first conversation, do they ask about your business goals or a
 
 **What does a fractional CMO cost?**
 
-Typically between $5,000 and $15,000 per month, depending on scope and seniority. At the lower end, you're getting one or two days a week of focused work. At the higher end, you're getting near full-time involvement with execution support. For most SaaS companies at $1–5M ARR, $6,000–10,000/month is the right range. That's $72,000–120,000 per year, less than half the cost of a full-time CMO hire. For a full breakdown by engagement tier, see the [fractional CMO pricing guide](/blog/fractional-cmo-cost).
+Typically between $5,000 and $15,000 per month, depending on scope and seniority. At the lower end, you're getting one or two days a week of focused work. At the higher end, you're getting near full-time involvement with execution support. For most SaaS companies at $1–5M ARR, $6,000–10,000/month is the right range. That's $72,000–120,000 per year, less than half the cost of a full-time CMO hire. For a full breakdown by engagement tier, see the [fractional CMO pricing guide](/blog/fractional-cmo-cost/).
 
 **How is a fractional CMO different from a marketing consultant?**
 
-A consultant tells you what to do. A fractional CMO does it, or manages the people doing it. The deliverable isn't a strategy document. It's a running marketing function. The accountability structure is also different: a fractional CMO owns the number, not the advice. For a full overview of [fractional CMO services](/blog/fractional-cmo-services), what's covered across the strategy, execution, and leadership layers, that's broken down in detail.
+A consultant tells you what to do. A fractional CMO does it, or manages the people doing it. The deliverable isn't a strategy document. It's a running marketing function. The accountability structure is also different: a fractional CMO owns the number, not the advice. For a full overview of [fractional CMO services](/blog/fractional-cmo-services/), what's covered across the strategy, execution, and leadership layers, that's broken down in detail.
 
 **When should a SaaS company hire a fractional CMO?**
 

@@ -21,7 +21,7 @@ He was right. SaaS marketing has a completely different operating system from co
 
 **A saas fractional cmo is a senior marketing leader with specific experience in software-as-a-service growth models, understanding metrics like MRR, ARR, CAC, LTV, churn rate, and trial-to-paid conversion that don't exist in other industries. For SaaS companies at $1–10M ARR, domain-specific experience dramatically reduces the time to meaningful results.**
 
-For the broader [fractional CMO definition](/blog/what-is-a-fractional-cmo), the role end-to-end and how it works across industries, that pillar is the wider reference.
+For the broader [fractional CMO definition](/blog/what-is-a-fractional-cmo/), the role end-to-end and how it works across industries, that pillar is the wider reference.
 
 This is the most underrated filter in fractional CMO hiring. Founders evaluate seniority, communication, references, pricing, but rarely test depth in the specific operating system their company runs on. The result is the story above, repeated across hundreds of companies.
 
@@ -41,9 +41,9 @@ The metrics that matter: MRR growth, net revenue retention, CAC payback, gross m
 
 The work changes materially across the $1–10M range.
 
-**$0–$1M ARR.** The job is foundational. Tight ICP, narrow enough to name 200 companies. Positioning that explains who it's for and why this product over alternatives. One repeatable acquisition channel that produces signups consistently. Anything beyond that is premature. At this stage, a [fractional cmo for b2b saas](/blog/fractional-cmo-for-saas) is doing diagnostic work, not running campaigns.
+**$0–$1M ARR.** The job is foundational. Tight ICP, narrow enough to name 200 companies. Positioning that explains who it's for and why this product over alternatives. One repeatable acquisition channel that produces signups consistently. Anything beyond that is premature. At this stage, a [fractional cmo for b2b saas](/blog/fractional-cmo-for-saas/) is doing diagnostic work, not running campaigns.
 
-**$1–3M ARR.** Scaling what works. Doubling the working channel, building a small team or vendor stack, fixing the attribution nobody's looked at since launch. This is where most engagements start, the stage where founder-led marketing has hit its ceiling. If you're right at the bottom of this band, I've written a dedicated breakdown of [what to focus on first at $1M ARR](/blog/fractional-cmo-1m-arr-saas), because the discipline that matters most here is subtraction, not scale.
+**$1–3M ARR.** Scaling what works. Doubling the working channel, building a small team or vendor stack, fixing the attribution nobody's looked at since launch. This is where most engagements start, the stage where founder-led marketing has hit its ceiling. If you're right at the bottom of this band, I've written a dedicated breakdown of [what to focus on first at $1M ARR](/blog/fractional-cmo-1m-arr-saas/), because the discipline that matters most here is subtraction, not scale.
 
 **$3–10M ARR.** Multi-channel orchestration, brand layer, product marketing alignment. The channels that worked at $2M start hitting saturation; new ones need to be stood up. Product marketing, launches, packaging, expansion plays, becomes meaningful. Sales and marketing alignment is no longer a gap to fix but an ongoing system to maintain.
 
@@ -74,7 +74,7 @@ The mismatches I see most often:
 - A growth marketer optimising the top of funnel while activation is bleeding paying customers downstream.
 - An agency operator who thinks like a vendor, protecting scope and reporting outputs rather than owning outcomes.
 
-Domain experience is the filter. For more on the hiring framework, [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo) covers diagnostic engagements, references, and contracts.
+Domain experience is the filter. For more on the hiring framework, [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) covers diagnostic engagements, references, and contracts.
 
 ## What to look for when hiring a SaaS fractional CMO
 
@@ -86,9 +86,9 @@ Four SaaS-specific criteria.
 
 **Three, they have an opinion on PLG vs sales-led for your specific product.** Most products at $1–10M ARR are running one motion when they should be running the other, or running both badly. A SaaS-native CMO will form a sharp view in the first conversation.
 
-**Four, they think of churn as a marketing signal.** Ask what they'd do in month one if churn jumped from 4% to 7%. The wrong answer involves only customer success. The right one starts with ICP and acquisition channel mix. For more on the operational scope of these engagements, see [fractional CMO services](/blog/fractional-cmo-services).
+**Four, they think of churn as a marketing signal.** Ask what they'd do in month one if churn jumped from 4% to 7%. The wrong answer involves only customer success. The right one starts with ICP and acquisition channel mix. For more on the operational scope of these engagements, see [fractional CMO services](/blog/fractional-cmo-services/).
 
-The same principles apply across most B2B contexts, there's a related breakdown in the [B2B fractional CMO](/blog/b2b-fractional-cmo) post for companies whose buyers are businesses but not necessarily on a SaaS pricing model.
+The same principles apply across most B2B contexts, there's a related breakdown in the [B2B fractional CMO](/blog/b2b-fractional-cmo/) post for companies whose buyers are businesses but not necessarily on a SaaS pricing model.
 
 ---
 

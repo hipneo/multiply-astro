@@ -23,7 +23,7 @@ If you read nothing else, read that paragraph again. The rest of this post is th
 
 Without a brief, the first phase of the engagement is extraction. The CMO runs interview after interview just to reconstruct facts you already know, and no real decision gets made until that picture is assembled. That is weeks of senior time spent on archaeology.
 
-With a brief, the CMO arrives oriented. They skip the basic questions and ask sharper ones, the kind that come from already knowing the shape of the business. They move from understanding to diagnosis in days instead of weeks. If you want to see exactly how that accelerated timeline plays out, I broke it down in [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo).
+With a brief, the CMO arrives oriented. They skip the basic questions and ask sharper ones, the kind that come from already knowing the shape of the business. They move from understanding to diagnosis in days instead of weeks. If you want to see exactly how that accelerated timeline plays out, I broke it down in [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo/).
 
 Here is the part founders miss: the brief is not only for the CMO. Writing it forces you to clarify your own thinking. The moment you try to write one honest sentence about what's working, you discover how much of what you believe about your marketing is a guess. That discomfort is the document doing its job before the CMO has even read it.
 
@@ -66,7 +66,7 @@ The hardest line to write is the number one problem. Most founders want to list 
 - Sacred cows: channels, campaigns, or people that are off-limits, and why.
 - Brand guidelines or messaging rules they need to respect.
 
-This is the section founders skip, and skipping it is expensive. Without it the CMO makes reasonable assumptions that turn out to be wrong, and you spend the savings from the brief unwinding them. The decision-rights line in particular prevents the most common source of early friction. For more on where that authority should sit, see [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities).
+This is the section founders skip, and skipping it is expensive. Without it the CMO makes reasonable assumptions that turn out to be wrong, and you spend the savings from the brief unwinding them. The decision-rights line in particular prevents the most common source of early friction. For more on where that authority should sit, see [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/).
 
 ### Section 5: Key relationships
 
@@ -98,13 +98,13 @@ Four failure modes, all common:
 
 The brief isn't only an onboarding tool. It's a hiring instrument.
 
-Share it with your final candidates before the last interview. What they do with it tells you more than any answer to "what's your process." Watch the questions they ask. Sharp questions about the constraints section or the failed channels signal an operator who thinks in systems. Vague enthusiasm signals someone who skimmed it. Pair the brief with these [questions to ask in the interview](/blog/questions-to-ask-fractional-cmo) to separate operators from advisors before you commit. The exchange runs both ways, so before you shortlist, be clear on [what their portfolio should show you](/blog/fractional-cmo-portfolio) and hold their evidence to the same standard you are holding your own.
+Share it with your final candidates before the last interview. What they do with it tells you more than any answer to "what's your process." Watch the questions they ask. Sharp questions about the constraints section or the failed channels signal an operator who thinks in systems. Vague enthusiasm signals someone who skimmed it. Pair the brief with these [questions to ask in the interview](/blog/questions-to-ask-fractional-cmo/) to separate operators from advisors before you commit. The exchange runs both ways, so before you shortlist, be clear on [what their portfolio should show you](/blog/fractional-cmo-portfolio/) and hold their evidence to the same standard you are holding your own.
 
-And watch for pushback. A strong CMO will challenge something in the brief, your stated number one priority, your read on a failed channel, your budget split. That's a green flag. It means they're already engaging with your business instead of nodding along to win the contract. If you want the full evaluation framework, I wrote it up in [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo).
+And watch for pushback. A strong CMO will challenge something in the brief, your stated number one priority, your read on a failed channel, your budget split. That's a green flag. It means they're already engaging with your business instead of nodding along to win the contract. If you want the full evaluation framework, I wrote it up in [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/).
 
 ## The brief as a living document
 
-Write it once and it pays back for years. Update it quarterly as the business shifts, because the version that's true at $2M ARR is wrong at $4M. Use it to onboard the next marketing hire, the in-house lead, the agency you bring on later. Over time it becomes institutional memory: the written record of what you tried, what worked, and what you decided to stop doing. That continuity matters most in software businesses, where the go-to-market motion compounds, and I go deeper on that in [fractional CMO for SaaS](/blog/fractional-cmo-for-saas).
+Write it once and it pays back for years. Update it quarterly as the business shifts, because the version that's true at $2M ARR is wrong at $4M. Use it to onboard the next marketing hire, the in-house lead, the agency you bring on later. Over time it becomes institutional memory: the written record of what you tried, what worked, and what you decided to stop doing. That continuity matters most in software businesses, where the go-to-market motion compounds, and I go deeper on that in [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/).
 
 The founder from the start of this post? He writes a brief before every engagement now, fractional or full-time. The last one took him an afternoon. It saved his new CMO two weeks, and it saved him from discovering, six weeks in, that they'd been solving the wrong problem the whole time.
 

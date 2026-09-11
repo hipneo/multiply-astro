@@ -19,7 +19,7 @@ It was the wrong question. But he didn't know that yet.
 
 **Fractional marketing is the practice of hiring a senior marketing leader, a fractional CMO or fractional marketing executive, on a part-time basis, giving companies access to strategic marketing leadership at 20–30% of the cost of a full-time hire. It covers strategy, execution oversight, team management, and channel ownership, without the commitment of a permanent role.**
 
-For the full [fractional CMO definition](/blog/what-is-a-fractional-cmo), including how the role compares to consultants, agencies, and interim hires, that pillar is the broader reference.
+For the full [fractional CMO definition](/blog/what-is-a-fractional-cmo/), including how the role compares to consultants, agencies, and interim hires, that pillar is the broader reference.
 
 ---
 
@@ -39,13 +39,13 @@ It's also not consulting. A consultant diagnoses and advises. A fractional marke
 
 The model splits into three distinct shapes depending on what you actually need.
 
-**Fractional CMO.** The most senior configuration. The fractional CMO owns the entire marketing function, strategy, team, budget, channels, reporting. They run the weekly founder sync, manage the contractors and agencies, set the quarterly OKRs, and are accountable for the numbers at the end of every month. This is the model for a company that has nothing properly built yet and needs someone to build it. Most serious [fractional CMO services](/blog/fractional-cmo-services) engagements run at $5,000–$10,000/month for 2–4 days per week.
+**Fractional CMO.** The most senior configuration. The fractional CMO owns the entire marketing function, strategy, team, budget, channels, reporting. They run the weekly founder sync, manage the contractors and agencies, set the quarterly OKRs, and are accountable for the numbers at the end of every month. This is the model for a company that has nothing properly built yet and needs someone to build it. Most serious [fractional CMO services](/blog/fractional-cmo-services/) engagements run at $5,000–$10,000/month for 2–4 days per week.
 
 **Fractional marketing director.** More execution-heavy than the CMO model. The fractional director manages the day-to-day, briefs the copywriter, reviews the ads, runs the A/B tests, reports on the funnel. They're less involved in the big strategic questions and more involved in making campaigns actually run. This configuration makes sense when the strategy already exists and the gap is execution capacity and management bandwidth.
 
 **Fractional marketing team.** Some companies need not just a leader but an assembled group, a fractional CMO plus a copywriter, a paid specialist, and a designer, all working as a coordinated unit. This is an outsourced marketing department rather than a single hire. It's the most comprehensive form of outsourced marketing leadership and the most expensive, but it replaces an entire internal function rather than just filling a gap in it.
 
-For most [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) companies at the $1–5M ARR stage, the first model is the right starting point.
+For most [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) companies at the $1–5M ARR stage, the first model is the right starting point.
 
 ---
 
@@ -91,7 +91,7 @@ Daniel, on the advice of a friend, also talked to three agencies before he calle
 
 Because agencies can't ask that question in a way that changes their answer. They sell a lane. They execute in that lane. A good SEO agency will produce real SEO results, but those results only matter if SEO is the right channel for your buyer at your stage, if the content is positioned correctly, and if the leads it generates connect to a sales motion that closes them. An agency optimises for traffic. Someone else has to care about what happens after.
 
-This is the gap fractional digital marketing leadership fills. Not by replacing the agencies, good specialists are valuable, but by being the person who decides whether to hire them, what to brief them on, and whether they're producing what the business actually needs. (Note: this is distinct from the [fractional CMO agency model](/blog/fractional-cmo-agency), where the leadership itself is packaged as a team service; that comparison gets its own breakdown.)
+This is the gap fractional digital marketing leadership fills. Not by replacing the agencies, good specialists are valuable, but by being the person who decides whether to hire them, what to brief them on, and whether they're producing what the business actually needs. (Note: this is distinct from the [fractional CMO agency model](/blog/fractional-cmo-agency/), where the leadership itself is packaged as a team service; that comparison gets its own breakdown.)
 
 ---
 
@@ -105,7 +105,7 @@ Month two: build. The first channel goes live under a proper hypothesis. The lan
 
 Month three: signal. You have real data now, conversion rates, CAC by channel, trial-to-paid movement. The things that are working get more resource. The things that aren't get cut or rebuilt. By the end of month three, you have a machine that produces predictable signal. By month six, that signal compounds.
 
-For current [fractional CMO rates](/blog/fractional-cmo-rates) and what drives cost within the range, that's worth reviewing before you start a conversation. For the full decision framework on [how to hire a fractional CMO](/blog/fractional-cmo-for-startups), including whether you're ready, that's the right next read.
+For current [fractional CMO rates](/blog/fractional-cmo-rates/) and what drives cost within the range, that's worth reviewing before you start a conversation. For the full decision framework on [how to hire a fractional CMO](/blog/fractional-cmo-for-startups/), including whether you're ready, that's the right next read.
 
 ---
 
@@ -125,7 +125,7 @@ Fractional marketing is the practice of hiring a senior marketing leader on a pa
 
 **What does a fractional marketing executive do?**
 
-A fractional marketing executive sets positioning and go-to-market strategy, defines which channels to invest in, manages contractors and agencies, runs the weekly founder sync, sets quarterly OKRs tied to revenue, and reports on marketing performance at the leadership level. They direct the work rather than executing every task themselves. For a detailed breakdown, see the full overview of [fractional CMO services](/blog/fractional-cmo-services).
+A fractional marketing executive sets positioning and go-to-market strategy, defines which channels to invest in, manages contractors and agencies, runs the weekly founder sync, sets quarterly OKRs tied to revenue, and reports on marketing performance at the leadership level. They direct the work rather than executing every task themselves. For a detailed breakdown, see the full overview of [fractional CMO services](/blog/fractional-cmo-services/).
 
 **How much does fractional marketing cost?**
 

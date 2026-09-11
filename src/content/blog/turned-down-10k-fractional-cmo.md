@@ -49,7 +49,7 @@ Most people in my position would have taken that money. Not because they are stu
 
 And six months later the founder looks up and realizes that his churn is exactly where it was, his burn is worse, and nothing fundamental changed. By then the consultant has collected sixty thousand dollars and is on to the next logo. The consultant was never accountable for the outcome. He was accountable for the activity. And activity is easy to manufacture.
 
-That is the quiet betrayal at the center of this industry. It looks like service. It is actually self preservation. The [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities) that matter are not "produce marketing." They are "produce results, and if marketing is not the lever that produces them, say so." Most people skip the second half because the second half does not pay.
+That is the quiet betrayal at the center of this industry. It looks like service. It is actually self preservation. The [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) that matter are not "produce marketing." They are "produce results, and if marketing is not the lever that produces them, say so." Most people skip the second half because the second half does not pay.
 
 ## The mistake I already made once
 
@@ -57,13 +57,13 @@ I know this trap intimately, because I lived inside it for four years.
 
 I spent those years marketing a product on Amazon, optimizing PPC, testing creative, tightening the funnel, doing everything a good marketer is supposed to do. And the whole time, the business had a fundamental model problem underneath it that no amount of marketing could touch. The unit economics did not work. I told myself that the next round of optimization would fix it. That a better campaign, a sharper angle, a lower ACoS, would turn the corner. It never did, because marketing was never the bottleneck.
 
-I should have pivoted in year one. I was too stubborn, and honestly too proud of my own marketing ability, to accept that the best marketing in the world cannot save a broken model. That is the expensive way to learn a cheap lesson. It cost me years I do not get back. You can read the longer version in [my Amazon failure](/blog/amazon-failure-saas-marketing), but the short version is the one that matters here: I mistook a business problem for a marketing problem, and I paid for the mistake with time.
+I should have pivoted in year one. I was too stubborn, and honestly too proud of my own marketing ability, to accept that the best marketing in the world cannot save a broken model. That is the expensive way to learn a cheap lesson. It cost me years I do not get back. You can read the longer version in [my Amazon failure](/blog/amazon-failure-saas-marketing/), but the short version is the one that matters here: I mistook a business problem for a marketing problem, and I paid for the mistake with time.
 
 So when I see a founder about to make the same mistake with his money and his runway, I cannot un see it. I will not take a check to help someone repeat the exact error that cost me four years. That is not a strategy I'm proud of. It is closer to a scar.
 
 ## What the job actually is
 
-This is the thing people misunderstand about [what a fractional CMO actually does](/blog/what-does-a-fractional-cmo-do). The job is not to arrive with a marketing plan. The job is to look at the whole business honestly and find the one constraint that, if you fix it, makes everything downstream work. Sometimes that constraint is marketing. Often, especially in early [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) engagements, it is retention, or pricing, or a product gap, or a positioning problem that no campaign can paper over.
+This is the thing people misunderstand about [what a fractional CMO actually does](/blog/what-does-a-fractional-cmo-do/). The job is not to arrive with a marketing plan. The job is to look at the whole business honestly and find the one constraint that, if you fix it, makes everything downstream work. Sometimes that constraint is marketing. Often, especially in early [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) engagements, it is retention, or pricing, or a product gap, or a positioning problem that no campaign can paper over.
 
 A fractional CMO who has never once told you "don't hire me yet" is not being generous with their optimism. They are protecting their invoice. The willingness to say no, to point at the hole in the bucket instead of offering to pour faster, is not a bug in the service. It is the whole value.
 
@@ -79,6 +79,6 @@ Then go fix that thing first. Fix the retention problem, close the hole, get the
 
 ## Would I do it again?
 
-Yes. Without hesitating. I turned down $10,000 a month and I would turn it down again tomorrow, because the alternative is taking money to do the wrong work well, and I already know where that road ends. The number was fair, for what it is worth — [how I think about pricing engagements](/blog/fractional-cmo-rate) is a separate topic — but a fair price for the wrong work is still the wrong work.
+Yes. Without hesitating. I turned down $10,000 a month and I would turn it down again tomorrow, because the alternative is taking money to do the wrong work well, and I already know where that road ends. The number was fair, for what it is worth — [how I think about pricing engagements](/blog/fractional-cmo-rate/) is a separate topic — but a fair price for the wrong work is still the wrong work.
 
 I don't know if he'll call back. But I know I gave him the truth instead of a campaign. That's the only thing I can live with.

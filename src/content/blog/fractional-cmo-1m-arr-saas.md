@@ -27,7 +27,7 @@ You have product-market fit signals but not a growth engine. People are buying, 
 
 You have some budget but not enough to waste. This is the trap. A bit of runway makes founders feel they can afford to experiment across five fronts. You cannot. At $1M ARR your budget is enough to win at one thing or lose at five.
 
-The founder is still the de facto marketer. Most of what is working is working because of the founder's own network, voice, and hustle, not because of a system. That does not scale, and it is why a [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) at this stage exists to build the engine that replaces founder-powered growth.
+The founder is still the de facto marketer. Most of what is working is working because of the founder's own network, voice, and hustle, not because of a system. That does not scale, and it is why a [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) at this stage exists to build the engine that replaces founder-powered growth.
 
 And the danger, always, is spreading thin. The instinct to diversify feels like risk management. At this stage it is the risk.
 
@@ -63,11 +63,11 @@ Every channel has a learning curve and a threshold it has to cross before it wor
 
 Now watch what spreading thin does. Split your budget and attention across five channels, and none of them reaches its threshold. You get five channels all sitting in the money-losing zone, and you conclude that "marketing doesn't work," when the truth is you never funded any single channel to the point where it could.
 
-One channel at profitability funds the next. That is the sequence that compounds. The breakthrough from $1M to $3M does not come from breadth. It comes from depth, from taking one channel all the way to reliable profit and then, only then, using its cash to buy the next one. For a fuller picture of how a [SaaS fractional CMO](/blog/saas-fractional-cmo) sequences this, the depth-over-breadth logic is the through-line.
+One channel at profitability funds the next. That is the sequence that compounds. The breakthrough from $1M to $3M does not come from breadth. It comes from depth, from taking one channel all the way to reliable profit and then, only then, using its cash to buy the next one. For a fuller picture of how a [SaaS fractional CMO](/blog/saas-fractional-cmo/) sequences this, the depth-over-breadth logic is the through-line.
 
 ## The 90-Day Plan for a $1M ARR SaaS Engagement
 
-Here is how the first ninety days actually run. For the granular week-by-week version, the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo) breaks the opening month down further, but this is the arc.
+Here is how the first ninety days actually run. For the granular week-by-week version, the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo/) breaks the opening month down further, but this is the arc.
 
 **Days 1 to 30: audit and aim.** Find the channel that already has traction hiding in your customer data. Fix the positioning and messaging so everything downstream converts better. Resist every urge to launch something new.
 
@@ -81,7 +81,7 @@ The second channel is a reward you earn, not a box you check on a calendar. Add 
 
 The first channel is predictable and profitable, not "showing promise." You have the CAC and LTV data to justify the expansion with numbers, not hope. And you have the team or budget to run both channels well, without robbing the first to feed the second.
 
-Miss any of those and you are not adding a channel, you are re-introducing the exact spreading-thin problem you spent ninety days escaping. For how to judge whether the engine is genuinely working before you expand, [how to measure fractional CMO ROI](/blog/fractional-cmo-roi) lays out the leading indicators to watch at 30, 60, and 90 days.
+Miss any of those and you are not adding a channel, you are re-introducing the exact spreading-thin problem you spent ninety days escaping. For how to judge whether the engine is genuinely working before you expand, [how to measure fractional CMO ROI](/blog/fractional-cmo-roi/) lays out the leading indicators to watch at 30, 60, and 90 days.
 
 The founder with the fifteen-item list ended up doing two of them in the first six months. One channel, taken to profit, plus the positioning fix that made it work. His ARR crossed $2M before we ever touched item number three. The other thirteen were not bad ideas. They were just the wrong order.
 

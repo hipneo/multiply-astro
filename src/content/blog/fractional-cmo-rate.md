@@ -45,7 +45,7 @@ Here is how to price without fear. When founders ask me **how to price fractiona
 - 2 days a week (standard retainer): $5,000 to $8,000 a month
 - 3 days a week (embedded): $8,000 to $15,000 a month
 
-Run all three inputs and you get a defensible number with a story behind it. That story is what kills the flinch. For a broader market view of [fractional CMO rates](/blog/fractional-cmo-rates) across stages and scopes, I have written a full breakdown you can cross-reference.
+Run all three inputs and you get a defensible number with a story behind it. That story is what kills the flinch. For a broader market view of [fractional CMO rates](/blog/fractional-cmo-rates/) across stages and scopes, I have written a full breakdown you can cross-reference.
 
 ## The Three Engagement Models and How to Price Each
 
@@ -53,7 +53,7 @@ Your **fractional cmo pricing strategy** should map to three clean models. Pick 
 
 **Growth diagnostic, $3,000 to $5,000 flat.** A two to three week audit and action plan. This is your foot in the door. It is a fixed-fee project, not a retainer, and it lets a nervous client buy a small, defined thing before committing to months. Half my long engagements started as a diagnostic.
 
-**Fractional retainer, $5,000 to $10,000 a month.** Ongoing strategic leadership. This is the core of the business, where you own the marketing function and are accountable for the numbers. For the full picture of what that ownership actually covers, the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities) breakdown lays out what you are and are not on the hook for.
+**Fractional retainer, $5,000 to $10,000 a month.** Ongoing strategic leadership. This is the core of the business, where you own the marketing function and are accountable for the numbers. For the full picture of what that ownership actually covers, the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) breakdown lays out what you are and are not on the hook for.
 
 **Advisory, $2,500 to $4,000 a month.** Light touch, after the engine is built. Once you have hired and trained the client's team, you can step back to a few hours a month of strategic guidance. This is how good engagements age instead of ending.
 
@@ -63,7 +63,7 @@ Your first rate is not your forever rate. Here is the ladder.
 
 Start at the low end of your range for your first one or two clients. You are buying proof, not just income. Then raise with each new engagement as the case studies stack up. A client who signs at $5,000 gives you the confidence and the evidence to quote the next one at $6,500.
 
-Never raise mid-engagement. Raising a rate on a current client mid-flight burns trust. Raise only at renewal, with fresh results to justify it. The goal is to reach $8,000 to $10,000 a month per client within 12 to 18 months, at which point three clients is a six-figure practice on part-time hours. If you are still building toward your first engagements, the guides on [how to become a fractional CMO](/blog/how-to-become-a-fractional-cmo) and where to find [fractional CMO jobs](/blog/fractional-cmo-jobs) cover the pipeline side of this.
+Never raise mid-engagement. Raising a rate on a current client mid-flight burns trust. Raise only at renewal, with fresh results to justify it. The goal is to reach $8,000 to $10,000 a month per client within 12 to 18 months, at which point three clients is a six-figure practice on part-time hours. If you are still building toward your first engagements, the guides on [how to become a fractional CMO](/blog/how-to-become-a-fractional-cmo/) and where to find [fractional CMO jobs](/blog/fractional-cmo-jobs/) cover the pipeline side of this.
 
 ## How to Handle the Rate Conversation Without Flinching
 

@@ -13,7 +13,7 @@ The question on your desk: do you hire a full-time CMO, or go fractional?
 
 **A fractional CMO provides the same strategic leadership as a full-time CMO at 20–30% of the cost, with the flexibility to pause, stop, or change scope at any time. A full-time CMO requires a 3–6 month hiring process, a 3–6 month ramp period, and significant severance risk, making fractional the smarter choice for most SaaS companies under $8M ARR.**
 
-This is the **fractional CMO vs full-time CMO** decision that every founder at your stage eventually faces, and almost nobody gives you a straight framework for making it. So here it is. (For the broader [fractional CMO definition](/blog/what-is-a-fractional-cmo), what the role is, what it isn't, and how it works, the pillar guide is the longer read.)
+This is the **fractional CMO vs full-time CMO** decision that every founder at your stage eventually faces, and almost nobody gives you a straight framework for making it. So here it is. (For the broader [fractional CMO definition](/blog/what-is-a-fractional-cmo/), what the role is, what it isn't, and how it works, the pillar guide is the longer read.)
 
 ---
 
@@ -39,7 +39,7 @@ The full-time CMO math only works if you're confident the role needs to exist pe
 
 ## The Fractional Model
 
-For detailed numbers on [fractional CMO pricing](/blog/fractional-cmo-cost), what's included at each tier and what drives the price up or down, I've written a full pricing breakdown.
+For detailed numbers on [fractional CMO pricing](/blog/fractional-cmo-cost/), what's included at each tier and what drives the price up or down, I've written a full pricing breakdown.
 
 A fractional CMO engagement starts in days, not months. There's no hiring process, no notice period, no equity negotiation. You scope the engagement, sign an agreement, and start.
 
@@ -49,7 +49,7 @@ A fractional CMO engagement starts in days, not months. There's no hiring proces
 
 **Speed:** A fractional CMO has done this before, at your stage, in your category. They don't need 90 days to audit everything before making a recommendation, they come in with pattern recognition from 20 previous engagements that look a lot like yours. The diagnostic is faster, the decisions are faster, the results are faster.
 
-**What you actually get:** This isn't advisory work. It's execution. Campaigns running, channels live, funnel instrumented, messaging fixed, team managed. The deliverable isn't a strategy document. It's a working marketing function. For a granular picture of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do), the actual Monday-morning cadence, I've written that out in detail. For the [full scope of fractional CMO services](/blog/fractional-cmo-services), strategy layer, execution layer, leadership layer, that's covered in a dedicated breakdown.
+**What you actually get:** This isn't advisory work. It's execution. Campaigns running, channels live, funnel instrumented, messaging fixed, team managed. The deliverable isn't a strategy document. It's a working marketing function. For a granular picture of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do/), the actual Monday-morning cadence, I've written that out in detail. For the [full scope of fractional CMO services](/blog/fractional-cmo-services/), strategy layer, execution layer, leadership layer, that's covered in a dedicated breakdown.
 
 ---
 
@@ -110,7 +110,7 @@ If you build the function first, with a fractional CMO, or with me specifically,
 
 The fractional engagement is the proof of concept. The full-time hire is the scale operation.
 
-Don't skip the proof of concept. And if the role you're actually weighing is a mid-level executor rather than a full-time CMO, the [fractional CMO vs head of marketing](/blog/fractional-cmo-vs-head-of-marketing) comparison walks through that decision in detail.
+Don't skip the proof of concept. And if the role you're actually weighing is a mid-level executor rather than a full-time CMO, the [fractional CMO vs head of marketing](/blog/fractional-cmo-vs-head-of-marketing/) comparison walks through that decision in detail.
 
 ---
 
@@ -118,7 +118,7 @@ Don't skip the proof of concept. And if the role you're actually weighing is a m
 
 **At what ARR should I hire a full-time CMO?**
 
-There's no hard line, but $8–10M ARR is where the math usually starts to work. At that point, you have enough budget to support a full marketing team, enough complexity to justify full-time leadership, and enough revenue that the $300K fully-loaded cost is a manageable percentage of your top line. Before $5M ARR, the fractional model almost always makes more sense, financially and operationally. For [early-stage startups considering fractional](/blog/fractional-cmo-for-startups), including the honest framework around pre-revenue timing, that's covered in detail.
+There's no hard line, but $8–10M ARR is where the math usually starts to work. At that point, you have enough budget to support a full marketing team, enough complexity to justify full-time leadership, and enough revenue that the $300K fully-loaded cost is a manageable percentage of your top line. Before $5M ARR, the fractional model almost always makes more sense, financially and operationally. For [early-stage startups considering fractional](/blog/fractional-cmo-for-startups/), including the honest framework around pre-revenue timing, that's covered in detail.
 
 **Can a fractional CMO hire and train my full-time marketing team?**
 

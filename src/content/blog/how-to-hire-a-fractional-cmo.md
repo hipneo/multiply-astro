@@ -21,15 +21,15 @@ She was right on all three counts. And she's not alone. I hear this story, diffe
 
 **To hire a fractional CMO effectively, look for someone who combines senior strategic experience with hands-on execution, not just advisory. The right fractional CMO owns your marketing outcomes, manages your team, and shows up every week. The wrong one delivers a strategy deck and bills for calls.**
 
-This distinction, operator versus advisor, is the single most important one you'll make in this process. Everything else in this guide is about how to tell them apart before you sign a contract. (If you're earlier in the research phase, the [what a fractional CMO is](/blog/what-is-a-fractional-cmo) pillar covers the role end-to-end before you get into the hiring mechanics below.) Before you start interviewing at all, it's worth reading the honest counterweight to this guide, [when not to hire a fractional CMO](/blog/when-not-to-hire-a-fractional-cmo), and checking you're not in one of the six situations where hiring is the wrong move.
+This distinction, operator versus advisor, is the single most important one you'll make in this process. Everything else in this guide is about how to tell them apart before you sign a contract. (If you're earlier in the research phase, the [what a fractional CMO is](/blog/what-is-a-fractional-cmo/) pillar covers the role end-to-end before you get into the hiring mechanics below.) Before you start interviewing at all, it's worth reading the honest counterweight to this guide, [when not to hire a fractional CMO](/blog/when-not-to-hire-a-fractional-cmo/), and checking you're not in one of the six situations where hiring is the wrong move.
 
 ## The market has no quality filter
 
 There is no certification for fractional CMOs. No licensing body, no minimum experience standard, no industry definition of what the role entails. Anyone who has spent a few years in marketing can declare themselves a fractional CMO tomorrow and start taking meetings.
 
-This means the market spans from genuinely experienced operators with decades of hands-on P&L responsibility to career consultants who have rebranded their advisory practice. From the outside, they often look identical: similar titles, similar LinkedIn summaries, similar pricing. (For the practitioner's view on [how fractional CMOs build their practice](/blog/how-to-become-a-fractional-cmo), the path from senior marketer to fractional operator explains why the market looks the way it does.)
+This means the market spans from genuinely experienced operators with decades of hands-on P&L responsibility to career consultants who have rebranded their advisory practice. From the outside, they often look identical: similar titles, similar LinkedIn summaries, similar pricing. (For the practitioner's view on [how fractional CMOs build their practice](/blog/how-to-become-a-fractional-cmo/), the path from senior marketer to fractional operator explains why the market looks the way it does.)
 
-Understanding [what a fractional CMO actually does week to week](/blog/what-does-a-fractional-cmo-do), and what distinguishes the operators from the advisors, is the only filter you have.
+Understanding [what a fractional CMO actually does week to week](/blog/what-does-a-fractional-cmo-do/), and what distinguishes the operators from the advisors, is the only filter you have.
 
 ## How to hire a fractional CMO: 5 criteria that actually matter
 
@@ -39,11 +39,11 @@ Anyone can build a strategy deck. Ask instead what they actually shipped. Which 
 
 The question to ask directly: *"Walk me through the last marketing program you built from scratch, who ran it day to day, what was your personal involvement, and what happened to pipeline as a result?"*
 
-Vagueness here is diagnostic. The document version of this same check is [how to read a fractional CMO portfolio](/blog/fractional-cmo-portfolio), which separates real case studies with baselines and attribution from marketing about marketing.
+Vagueness here is diagnostic. The document version of this same check is [how to read a fractional CMO portfolio](/blog/fractional-cmo-portfolio/), which separates real case studies with baselines and attribution from marketing about marketing.
 
 ### 2. An operator mindset
 
-Real marketing operators think in systems, dashboards, briefs, and post-mortems. They want to see your current attribution setup. They ask about your CRM before they ask about your positioning. They want to understand your team structure, vendor relationships, and what's broken in your ops before they start talking strategy. A fast way to find this out is to hand candidates a [fractional CMO brief](/blog/fractional-cmo-brief) before the final interview and watch which questions they ask about it.
+Real marketing operators think in systems, dashboards, briefs, and post-mortems. They want to see your current attribution setup. They ask about your CRM before they ask about your positioning. They want to understand your team structure, vendor relationships, and what's broken in your ops before they start talking strategy. A fast way to find this out is to hand candidates a [fractional CMO brief](/blog/fractional-cmo-brief/) before the final interview and watch which questions they ask about it.
 
 If the first two calls are entirely about your ICP and narrative positioning, and nobody has asked to look at your funnel numbers, pay attention. That's an advisor pattern, not an operator one.
 
@@ -51,9 +51,9 @@ If the first two calls are entirely about your ICP and narrative positioning, an
 
 B2B SaaS marketing is a specific discipline. It's not agency work. It's not brand marketing. It's not B2C. The funnel mechanics, the demand gen approach, the relationship between marketing and sales, all of it has particular characteristics at the $1–5M ARR stage that only come from having operated inside this specific type of company at this specific stage.
 
-A [fractional CMO built for SaaS](/blog/fractional-cmo-for-saas) will have opinions about what a healthy CAC:LTV ratio looks like at your ARR. They'll know how to build a content strategy that drives pipeline rather than just traffic. They'll understand why the attribution is probably wrong and how to fix it with imperfect data.
+A [fractional CMO built for SaaS](/blog/fractional-cmo-for-saas/) will have opinions about what a healthy CAC:LTV ratio looks like at your ARR. They'll know how to build a content strategy that drives pipeline rather than just traffic. They'll understand why the attribution is probably wrong and how to fix it with imperfect data.
 
-If you specifically sell to other businesses rather than consumers, [B2B fractional CMO experience](/blog/b2b-fractional-cmo) matters even more, the buying committee, sales cycle, and channel mix are different sport entirely. And if you operate in a regulated space like financial services, weight [regulated-industry experience](/blog/fractional-cmo-for-fintech) heavily, because comfort building a compliance workflow is a specific skill a generalist rarely has.
+If you specifically sell to other businesses rather than consumers, [B2B fractional CMO experience](/blog/b2b-fractional-cmo/) matters even more, the buying committee, sales cycle, and channel mix are different sport entirely. And if you operate in a regulated space like financial services, weight [regulated-industry experience](/blog/fractional-cmo-for-fintech/) heavily, because comfort building a compliance workflow is a specific skill a generalist rarely has.
 
 ### 4. Communication like an owner, not a vendor
 
@@ -75,7 +75,7 @@ If the calls feel good but something is slightly off, trust that. If it feels li
 
 **They're vague about time commitment and availability.** Some fractional CMOs are running five or six clients simultaneously. That can work for light advisory retainers, it does not work if you need someone managing your marketing week to week. Get clear answers: how many hours per week, what those hours look like, how they handle competing priorities, how available they are between scheduled calls.
 
-**They have no curiosity about your business before proposing solutions.** If the first call features a pitch for a content engine or a paid acquisition program before they've seen your data, talked to your team, or reviewed your funnel, that's a vendor speaking, not a marketing leader. The right person is diagnosing before prescribing. And [a fractional CMO who says no](/blog/turned-down-10k-fractional-cmo), who tells you to fix retention before you spend on acquisition, is diagnosing honestly rather than protecting an invoice.
+**They have no curiosity about your business before proposing solutions.** If the first call features a pitch for a content engine or a paid acquisition program before they've seen your data, talked to your team, or reviewed your funnel, that's a vendor speaking, not a marketing leader. The right person is diagnosing before prescribing. And [a fractional CMO who says no](/blog/turned-down-10k-fractional-cmo/), who tells you to fix retention before you spend on acquisition, is diagnosing honestly rather than protecting an invoice.
 
 **Their references are other consultants.** Peer references, from people who worked alongside them, are less useful than references from people who hired them to deliver results. Ask for two or three references from founders or operators they've reported to. Then actually call those people.
 
@@ -83,17 +83,17 @@ If the calls feel good but something is slightly off, trust that. If it feels li
 
 ### Where to find a fractional CMO
 
-Your network is the best filter. A warm introduction from a founder who hired someone and would hire them again is worth more than any LinkedIn search. Second: operator communities where fractional executives and founders interact. Third: LinkedIn with specific filters, fractional CMO, B2B SaaS, your ARR stage. Fractional executive networks exist but vet carefully, quality varies enormously within them. One filter to drop entirely is geography: a [fractional CMO near me](/blog/fractional-cmo-near-me) search optimises for the variable that matters least, because the work runs remotely and the right operator for your stage rarely lives in your city.
+Your network is the best filter. A warm introduction from a founder who hired someone and would hire them again is worth more than any LinkedIn search. Second: operator communities where fractional executives and founders interact. Third: LinkedIn with specific filters, fractional CMO, B2B SaaS, your ARR stage. Fractional executive networks exist but vet carefully, quality varies enormously within them. One filter to drop entirely is geography: a [fractional CMO near me](/blog/fractional-cmo-near-me/) search optimises for the variable that matters least, because the work runs remotely and the right operator for your stage rarely lives in your city.
 
 ### The discovery call
 
-This is your diagnostic, not theirs. You should leave the call knowing: what they've actually built, how they think about your specific problem, what their operating rhythm looks like, and whether they asked the right questions. The strongest candidates will want to see your data before they propose anything. To run this call well, use these [5 questions to ask before hiring](/blog/questions-to-ask-fractional-cmo), each designed to reward specificity over polished vocabulary.
+This is your diagnostic, not theirs. You should leave the call knowing: what they've actually built, how they think about your specific problem, what their operating rhythm looks like, and whether they asked the right questions. The strongest candidates will want to see your data before they propose anything. To run this call well, use these [5 questions to ask before hiring](/blog/questions-to-ask-fractional-cmo/), each designed to reward specificity over polished vocabulary.
 
 ### The paid diagnostic as a trial engagement
 
 The smartest first step is a paid diagnostic, typically $3,000–5,000 for two to four weeks of structured discovery and output. Not a free audit. A real, paid engagement that produces a specific deliverable (usually a marketing diagnostic with a prioritized 90-day plan) and, more importantly, shows you what working with this person actually feels like.
 
-You see their process. You see their output quality. You see how they communicate when they're on the clock. You see whether their read of your situation is correct. If the diagnostic is impressive, you have strong evidence before a six-month commitment. If it's weak, you've spent $4,000 instead of $40,000 to find out. Once you do commit, I've written a week-by-week breakdown of the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo) so you know exactly what should be happening and when.
+You see their process. You see their output quality. You see how they communicate when they're on the clock. You see whether their read of your situation is correct. If the diagnostic is impressive, you have strong evidence before a six-month commitment. If it's weak, you've spent $4,000 instead of $40,000 to find out. Once you do commit, I've written a week-by-week breakdown of the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo/) so you know exactly what should be happening and when.
 
 ### Reference checks that actually work
 
@@ -107,19 +107,19 @@ Six months minimum. Marketing takes time to produce results, and anyone who is h
 
 If you hire right, the first 90 days are structured: weeks one through four, a full diagnostic of positioning, funnel, channels, team, and analytics, with a prioritized action plan tied to your revenue targets, not vanity metrics. Weeks five through twelve, the first programs running, the first operational changes, weekly reporting against agreed metrics, and a clear picture of what the next quarter builds on.
 
-What they should not look like: mostly calls, mostly documents, no programs live, no baseline metrics established. If you are four weeks in and the only output is a Notion document, something is wrong. Once the engagement is running, [how to measure fractional CMO ROI](/blog/fractional-cmo-roi) lays out the leading indicators to track at 30, 60, and 90 days so you can prove it is working before revenue catches up.
+What they should not look like: mostly calls, mostly documents, no programs live, no baseline metrics established. If you are four weeks in and the only output is a Notion document, something is wrong. Once the engagement is running, [how to measure fractional CMO ROI](/blog/fractional-cmo-roi/) lays out the leading indicators to track at 30, 60, and 90 days so you can prove it is working before revenue catches up.
 
-[Read more about what a fractional CMO does in the first 90 days](/blog/what-does-a-fractional-cmo-do).
+[Read more about what a fractional CMO does in the first 90 days](/blog/what-does-a-fractional-cmo-do/).
 
 ## What to budget when you hire a fractional CMO
 
-[Fractional CMO rates](/blog/fractional-cmo-rates) typically run $8,000–20,000 per month depending on experience, time commitment, and scope. For a two-day-per-week engagement with a strong operator, budget $10,000–15,000 monthly. Most engagements run six to twelve months, so a $60,000–180,000 investment over the life of the engagement.
+[Fractional CMO rates](/blog/fractional-cmo-rates/) typically run $8,000–20,000 per month depending on experience, time commitment, and scope. For a two-day-per-week engagement with a strong operator, budget $10,000–15,000 monthly. Most engagements run six to twelve months, so a $60,000–180,000 investment over the life of the engagement.
 
 Significant, but substantially less than a full-time CMO at $200K+ salary plus equity plus benefits, and with far more flexibility to end or restructure if the business changes.
 
-The right comparison is not a freelancer. It's a full-time hire you can't yet justify, or a [marketing agency](/blog/fractional-marketing) that charges comparable rates with less accountability and no strategic ownership of your outcomes. If you're torn between a strategic leader and a mid-level executor, the [fractional CMO vs head of marketing](/blog/fractional-cmo-vs-head-of-marketing) breakdown makes that call clearer.
+The right comparison is not a freelancer. It's a full-time hire you can't yet justify, or a [marketing agency](/blog/fractional-marketing/) that charges comparable rates with less accountability and no strategic ownership of your outcomes. If you're torn between a strategic leader and a mid-level executor, the [fractional CMO vs head of marketing](/blog/fractional-cmo-vs-head-of-marketing/) breakdown makes that call clearer.
 
-For a full breakdown of [fractional CMO services and how to structure the engagement](/blog/fractional-cmo-services), that post goes deeper on contracts, deliverables, and what to hold your CMO accountable for. For the [full scope of fractional CMO responsibilities](/blog/fractional-cmo-responsibilities), what they own versus what they don't, the dedicated breakdown lays out where the line should sit before you sign.
+For a full breakdown of [fractional CMO services and how to structure the engagement](/blog/fractional-cmo-services/), that post goes deeper on contracts, deliverables, and what to hold your CMO accountable for. For the [full scope of fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/), what they own versus what they don't, the dedicated breakdown lays out where the line should sit before you sign.
 
 ---
 
@@ -143,7 +143,7 @@ Ask specifically what they've built and shipped, not what they've advised on. Ge
 
 ### Should I hire a fractional CMO or a marketing agency?
 
-A fractional CMO and a marketing agency solve different problems. An agency delivers execution, campaigns, content, ads. A fractional CMO provides leadership, strategy, systems, team ownership, and outcome accountability. For most $1–5M SaaS companies, the absence of marketing leadership is the actual problem. Agencies can't solve a leadership gap. Only a leader can. For the [fractional CMO agency vs independent](/blog/fractional-cmo-agency) comparison specifically (firms that package fractional leadership as a team), the dedicated breakdown covers seven concrete differences.
+A fractional CMO and a marketing agency solve different problems. An agency delivers execution, campaigns, content, ads. A fractional CMO provides leadership, strategy, systems, team ownership, and outcome accountability. For most $1–5M SaaS companies, the absence of marketing leadership is the actual problem. Agencies can't solve a leadership gap. Only a leader can. For the [fractional CMO agency vs independent](/blog/fractional-cmo-agency/) comparison specifically (firms that package fractional leadership as a team), the dedicated breakdown covers seven concrete differences.
 
 ### What's a reasonable trial period for a fractional CMO?
 

@@ -59,7 +59,7 @@ A polished advisor will give you a beautiful answer to every one of those. So wi
 
 **Why it matters:** This tests whether they have a real accountability framework or are just hoping it works. The strongest operators have already thought about failure because they have lived it.
 
-**A good answer:** specific metrics they would be watching and specific pivot triggers. "By month three I'd expect movement in pipeline and at least one channel showing a stable, improving CAC. If not, we sit down, look at where the funnel is leaking, and reallocate. I'd tell you before you had to ask." This connects directly to how you should be [measuring ROI in the first 90 days](/blog/fractional-cmo-roi).
+**A good answer:** specific metrics they would be watching and specific pivot triggers. "By month three I'd expect movement in pipeline and at least one channel showing a stable, improving CAC. If not, we sit down, look at where the funnel is leaking, and reallocate. I'd tell you before you had to ask." This connects directly to how you should be [measuring ROI in the first 90 days](/blog/fractional-cmo-roi/).
 
 **A red flag:** "we'll figure it out," or an optimistic deflection that avoids the premise. If they cannot describe what failure looks like, they cannot tell you when it is happening.
 
@@ -71,11 +71,11 @@ Notice what runs through all five questions. None of them can be answered well w
 
 Do not score on charisma. After each call, rate every candidate one to five on a single axis per question: how specific was the answer. Five means concrete numbers and a real story. One means fluent and empty. Do it right after the call, before the halo of a good presenter fades into "I just liked them."
 
-Then compare across candidates on the same five questions. The rankings will often invert your gut impression from the call, and that inversion is the entire value of the exercise. The most fluent talker rarely tops a specificity score. For the wider evaluation process these questions slot into, see my full guide on [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo), and hand your finalists a [fractional CMO brief](/blog/fractional-cmo-brief) so their questions about it can tell you even more.
+Then compare across candidates on the same five questions. The rankings will often invert your gut impression from the call, and that inversion is the entire value of the exercise. The most fluent talker rarely tops a specificity score. For the wider evaluation process these questions slot into, see my full guide on [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/), and hand your finalists a [fractional CMO brief](/blog/fractional-cmo-brief/) so their questions about it can tell you even more.
 
 ## The one question to ask yourself
 
-Before you decide, ask yourself one thing: am I more impressed by how they sound, or by what they have actually done? Those are not the same, and the gap between them is where bad six-month hires come from. The candidate who fumbles a buzzword but answers every specificity question with a real number is the one who will still be delivering when the polish has worn off. That clarity carries straight into the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo), and it shapes whether they can actually own the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities) you are hiring for.
+Before you decide, ask yourself one thing: am I more impressed by how they sound, or by what they have actually done? Those are not the same, and the gap between them is where bad six-month hires come from. The candidate who fumbles a buzzword but answers every specificity question with a real number is the one who will still be delivering when the polish has worn off. That clarity carries straight into the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo/), and it shapes whether they can actually own the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) you are hiring for.
 
 The founder from the start of this post hired someone else. The person he chose was less smooth on the call and far more specific in every answer. Eighteen months later that hire was still running his marketing. He has used the same five questions on every hire since.
 

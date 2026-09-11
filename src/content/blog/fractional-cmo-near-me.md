@@ -37,9 +37,9 @@ Your best hire is the one with the most relevant experience, not the nearest pos
 
 ## What Actually Matters When You Hire a Fractional CMO Near Me or Anywhere
 
-If distance is the wrong filter, here is the right one. When founders ask me how to evaluate candidates, I tell them to score on five things and ignore the map entirely. This is the core of [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo) well.
+If distance is the wrong filter, here is the right one. When founders ask me how to evaluate candidates, I tell them to score on five things and ignore the map entirely. This is the core of [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) well.
 
-**Industry and stage experience.** SaaS, agency, and ecommerce are genuinely different skill sets, not flavours of the same job. A great ecommerce CMO can be useless on a [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) engagement, because the funnel, the buyer, and the sales motion are different animals. Hire for your specific world.
+**Industry and stage experience.** SaaS, agency, and ecommerce are genuinely different skill sets, not flavours of the same job. A great ecommerce CMO can be useless on a [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) engagement, because the funnel, the buyer, and the sales motion are different animals. Hire for your specific world.
 
 **Operator versus advisor.** Some fractional CMOs only advise. They hand you a strategy and a deck and disappear. Others execute, manage the team, and own the number. Decide which you need before you talk to anyone, because the two are not interchangeable.
 
@@ -57,7 +57,7 @@ But even here, be careful. The right person who travels to you once a quarter al
 
 ## How Remote Fractional CMOs Actually Work
 
-For founders who have never run a remote engagement, the practical rhythm is simpler than you would expect, and it is most of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do).
+For founders who have never run a remote engagement, the practical rhythm is simpler than you would expect, and it is most of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do/).
 
 A typical cadence looks like this. A weekly 30-minute founder sync to set priorities and unblock decisions. A monthly marketing review to look at the numbers and adjust the plan. Async communication through Slack and email for everything day to day, which is most of it. And quarterly in-person time if the relationship calls for it, where the fractional CMO travels to you, not the other way around.
 
@@ -67,7 +67,7 @@ That is it. No daily desk presence, no theatre of being seen at the office. Just
 
 Here is what the "near me" search actually costs you. The market for fractional CMOs is global, and limiting yourself to your own city removes roughly 95% of the available talent before you have evaluated a single person.
 
-Think about who you are filtering out. The marketer who has taken a dozen SaaS companies from $1M to $5M in ARR probably does not live in your city. The specialist who has run growth in your exact niche almost certainly does not. By searching locally, you are not narrowing a large pool to the best few. You are throwing away the best few to keep whoever happens to be nearby. For most founders, the right benchmark is not who is close but who is proven, and that is also how you should read [fractional CMO rates](/blog/fractional-cmo-rates): you are paying for expertise, not for a short drive.
+Think about who you are filtering out. The marketer who has taken a dozen SaaS companies from $1M to $5M in ARR probably does not live in your city. The specialist who has run growth in your exact niche almost certainly does not. By searching locally, you are not narrowing a large pool to the best few. You are throwing away the best few to keep whoever happens to be nearby. For most founders, the right benchmark is not who is close but who is proven, and that is also how you should read [fractional CMO rates](/blog/fractional-cmo-rates/): you are paying for expertise, not for a short drive.
 
 The founder I opened with eventually re-hired, this time filtering for stage and category instead of distance. His new CMO is in a different country. They have met in person twice. It has been the most productive marketing relationship he has ever had. The coffee was never the point.
 

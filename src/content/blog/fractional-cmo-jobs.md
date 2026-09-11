@@ -57,7 +57,7 @@ Six channels, ranked roughly in order of yield.
 
 **Annual earnings:** Two stable retainers at $7,500/month produce $180,000. Three produce $270,000. Add occasional projects and the realistic range is $120,000-$300,000 annually for an established operator, before taxes and overhead.
 
-Compared to a full-time CMO at $200,000-$300,000 total comp with equity, fractional income is similar or better at the upper end, with more flexibility. For a full breakdown of [fractional CMO rates](/blog/fractional-cmo-rates), that post covers what each band buys, and the framework for [pricing your fractional CMO services](/blog/fractional-cmo-rate) covers how to land on your own number without underpricing.
+Compared to a full-time CMO at $200,000-$300,000 total comp with equity, fractional income is similar or better at the upper end, with more flexibility. For a full breakdown of [fractional CMO rates](/blog/fractional-cmo-rates/), that post covers what each band buys, and the framework for [pricing your fractional CMO services](/blog/fractional-cmo-rate/) covers how to land on your own number without underpricing.
 
 ## A fractional CMO "job" is really a practice
 
@@ -65,7 +65,7 @@ This is the mindset shift that determines whether someone succeeds in this model
 
 You are not an employee. You do not have an employer. You have multiple clients, you run your own engagement structure, and you are responsible for marketing yourself, billing, and managing your capacity. Most senior marketers who fail at this fail because they kept thinking of it as a job. The ones who succeed treat it as a business with a single product: their judgment, sold by the day.
 
-For a deeper look at the operating side, [how to become a fractional CMO](/blog/how-to-become-a-fractional-cmo) covers the full transition including pricing, packaging, and the early-month cadence.
+For a deeper look at the operating side, [how to become a fractional CMO](/blog/how-to-become-a-fractional-cmo/) covers the full transition including pricing, packaging, and the early-month cadence.
 
 ## Who is actually suited for fractional CMO work
 
@@ -95,7 +95,7 @@ Five practical steps that compress the first six months of the transition.
 
 **Start while still employed if possible.** A single advisory engagement of two hours a week, evenings or early mornings, validates the model and gives you a first reference and invoice. Both compound.
 
-For more on the operating scope you are signing up for, the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities) breakdown covers what you actually own and what you don't, including the handover trap that breaks most first engagements. The post on [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do) week to week gives the practical cadence you should expect.
+For more on the operating scope you are signing up for, the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) breakdown covers what you actually own and what you don't, including the handover trap that breaks most first engagements. The post on [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do/) week to week gives the practical cadence you should expect.
 
 ---
 

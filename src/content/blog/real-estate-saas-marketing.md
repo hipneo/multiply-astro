@@ -29,7 +29,7 @@ It worked, in the sense that we sold the units. It did not work the way it could
 
 The version of the job that started after the couple at the window was different. The young couple was not buying ninety-three square meters; they were buying mornings where the school run took six minutes. The retired teacher buying a single-bedroom for her son's eventual visits was buying the relief of finally being a useful mother again. The investor buying three units on the second floor was buying yield he could quote at family dinners.
 
-Years later, when I moved into SaaS as a [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) companies, I met founder after founder making the same mistake I had made for ten years. They were selling the apartment. They needed to be selling the morning at the bus stop.
+Years later, when I moved into SaaS as a [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) companies, I met founder after founder making the same mistake I had made for ten years. They were selling the apartment. They needed to be selling the morning at the bus stop.
 
 ## Lesson one: people buy futures, not features
 
@@ -49,7 +49,7 @@ Reputation, in real estate, is the pipeline. There is no marketing budget large 
 
 The version of this lesson in SaaS looks different on the surface and is identical underneath. The product experience is the marketing. The onboarding is the conversion rate. The support team is the retention. If your trial user spends fourteen days inside a confusing onboarding flow, no LinkedIn ad will rescue you. If your support tickets sit for two days, no content engine will compound. The internal experience of using the product is, in the only way that matters, the public-facing brand.
 
-This is partly why I have written elsewhere that [marketing operations](/blog/festival-operations-saas-marketing) is the work that the best fractional CMOs actually do. The job is not to produce more ads. It is to make sure the entire business shows up coherently every time a buyer touches it. In real estate, that meant the doorman remembered names, the show apartment was spotless at nine in the morning, and the contract package arrived in a leather folder, not a plastic envelope. In SaaS, it means the trial signup confirmation does not look like it was written in 2014 and the activation email mentions the buyer's actual use case.
+This is partly why I have written elsewhere that [marketing operations](/blog/festival-operations-saas-marketing/) is the work that the best fractional CMOs actually do. The job is not to produce more ads. It is to make sure the entire business shows up coherently every time a buyer touches it. In real estate, that meant the doorman remembered names, the show apartment was spotless at nine in the morning, and the contract package arrived in a leather folder, not a plastic envelope. In SaaS, it means the trial signup confirmation does not look like it was written in 2014 and the activation email mentions the buyer's actual use case.
 
 The best marketers I know think like operators. They obsess about the seam between what the brand promises and what the company actually does when nobody is watching.
 
@@ -61,7 +61,7 @@ What that taught me, with painful clarity, is that you are never closing on the 
 
 In SaaS, founders dramatically underestimate this. They think the sales cycle is fourteen days because that is the length of the trial. The sales cycle started the first time the prospect heard your name on a podcast, eight months earlier. It continued in the LinkedIn post they read in March, the article a colleague forwarded in June, the comparison thread they read on a forum in August. By the time they hit signup, the deal is mostly already done. You are not converting. You are harvesting.
 
-Which is why, when I talk to founders about [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do) week to week, so much of it is trust planting. Content. LinkedIn presence. Customer stories. Educational material. The work looks slow because it is slow. It compounds the way concrete cures: invisibly, until the load-bearing day arrives and you find out whether you did it properly months ago.
+Which is why, when I talk to founders about [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do/) week to week, so much of it is trust planting. Content. LinkedIn presence. Customer stories. Educational material. The work looks slow because it is slow. It compounds the way concrete cures: invisibly, until the load-bearing day arrives and you find out whether you did it properly months ago.
 
 Most SaaS marketing fails not because the tactics are wrong. It fails because the founder expects compounding work to behave like transactional work. They run a campaign for six weeks, see no conversion lift, and pull the plug. In real estate, that founder would have lost the entire building.
 
@@ -73,7 +73,7 @@ Marketing is not a department. It is not a budget line. It is how the entire bus
 
 Founders who hire fractional CMOs and expect them to "run marketing" while everything else stays the same are the ones who get the smallest return. The right hire sees the whole business and intervenes wherever it is leaking trust. That is closer to a chief growth officer with a marketing tilt than a CMO in the old sense.
 
-The reason I am usefully positioned to do this work, I think, is precisely that I did not come up through marketing. I came up building and selling things in a business where the apartment had to actually exist, the lift had to actually work, and the buyer had to actually move in with their family and live there for thirty years. Real estate was not the only teacher, either: [another business failure that shaped my thinking](/blog/amazon-failure-saas-marketing) was a private label cosmetics brand I ran on Amazon for four years before it slowly died.
+The reason I am usefully positioned to do this work, I think, is precisely that I did not come up through marketing. I came up building and selling things in a business where the apartment had to actually exist, the lift had to actually work, and the buyer had to actually move in with their family and live there for thirty years. Real estate was not the only teacher, either: [another business failure that shaped my thinking](/blog/amazon-failure-saas-marketing/) was a private label cosmetics brand I ran on Amazon for four years before it slowly died.
 
 ## Back to the couple at the window
 

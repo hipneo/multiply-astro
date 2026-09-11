@@ -15,7 +15,7 @@ That's not a marketing function. That's a collection of marketing activities. An
 
 **Fractional CMO services include marketing strategy, go-to-market planning, team management, paid acquisition oversight, content strategy, analytics and reporting, delivered by a senior marketing leader who embeds part-time in your company. Unlike an agency, a fractional CMO owns the entire marketing function and is accountable for revenue outcomes, not just deliverables.**
 
-For the broader [fractional CMO meaning](/blog/what-is-a-fractional-cmo), the role end-to-end, what it isn't, and the engagement models, that pillar is the wider reference. This post focuses specifically on what's included in the services.
+For the broader [fractional CMO meaning](/blog/what-is-a-fractional-cmo/), the role end-to-end, what it isn't, and the engagement models, that pillar is the wider reference. This post focuses specifically on what's included in the services.
 
 ---
 
@@ -77,7 +77,7 @@ A fractional CMO does not press every button in the ads account. The paid specia
 
 A fractional CMO does not design every asset. I brief the designer with clear direction on format, message hierarchy, and visual tone. I review against the brief. But I'm not opening Figma.
 
-What I do: I direct, I brief, I review, and I own the results. Every tactical decision points at a strategic goal. Every vendor is managed against a brief I wrote. That's what makes the model work, you're buying senior judgment and coordination, not execution hours. For a detailed breakdown of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do) in practice, I've mapped out the Monday-morning cadence.
+What I do: I direct, I brief, I review, and I own the results. Every tactical decision points at a strategic goal. Every vendor is managed against a brief I wrote. That's what makes the model work, you're buying senior judgment and coordination, not execution hours. For a detailed breakdown of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do/) in practice, I've mapped out the Monday-morning cadence.
 
 ---
 
@@ -101,7 +101,7 @@ This is the full embedded engagement. Everything across the three layers, strate
 
 At the lower end of the range (around $5,000–$6,500/month), it's roughly two days per week. Strategic and leadership-heavy, with execution managed through contractors I oversee. At the higher end ($8,500–$10,000/month), it's closer to four days per week with direct hands-on involvement in campaign management and team building.
 
-For a full breakdown of what drives the price within this range, I've written a detailed [fractional CMO cost guide](/blog/fractional-cmo-cost) that covers every tier with specifics. There's also a dedicated guide to [current fractional CMO rates](/blog/fractional-cmo-rates) covering hourly vs retainer vs diagnostic pricing in full.
+For a full breakdown of what drives the price within this range, I've written a detailed [fractional CMO cost guide](/blog/fractional-cmo-cost/) that covers every tier with specifics. There's also a dedicated guide to [current fractional CMO rates](/blog/fractional-cmo-rates/) covering hourly vs retainer vs diagnostic pricing in full.
 
 ### 3. Advisory Retainer, $2,500–$4,000/month
 
@@ -121,7 +121,7 @@ What agencies don't do: own the connection between their work and your revenue. 
 
 A fractional CMO owns the whole picture. I decide which channels to invest in, what the campaigns say, who manages them, and how success is measured, against your revenue goal, not their deliverable. When the SEO isn't generating qualified pipeline, I reconsider the content strategy. When the paid campaigns have a great CTR but poor conversion to trial, I rebuild the landing page. When two agencies are pointing in different directions, I resolve the conflict.
 
-The accountability structure is the difference. Agencies account for outputs. A [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) accounts for outcomes. For a broader look at how [fractional marketing](/blog/fractional-marketing) works as a model, including the different role types and what the first 90 days looks like, that's covered in the complete guide.
+The accountability structure is the difference. Agencies account for outputs. A [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) accounts for outcomes. For a broader look at how [fractional marketing](/blog/fractional-marketing/) works as a model, including the different role types and what the first 90 days looks like, that's covered in the complete guide.
 
 ---
 
@@ -129,13 +129,13 @@ The accountability structure is the difference. Agencies account for outputs. A 
 
 The right engagement level isn't about what you can afford, it's about what your business actually needs right now.
 
-**Under $500K ARR:** You probably don't need a full fractional engagement yet. A diagnostic is the right move, understand what's working, get a prioritised roadmap, execute it yourself or with one contractor. The bottleneck at this stage is usually product-market fit, not marketing sophistication. For the full decision framework at this stage, see [fractional CMO for startups](/blog/fractional-cmo-for-startups).
+**Under $500K ARR:** You probably don't need a full fractional engagement yet. A diagnostic is the right move, understand what's working, get a prioritised roadmap, execute it yourself or with one contractor. The bottleneck at this stage is usually product-market fit, not marketing sophistication. For the full decision framework at this stage, see [fractional CMO for startups](/blog/fractional-cmo-for-startups/).
 
 **$500K–$2M ARR:** This is where most founders are doing marketing themselves, supplemented by freelancers and agencies, and nothing is compounding. A fractional retainer at the lower scope level ($5,000–$6,500/month) typically unlocks the most leverage here, someone to own the architecture, manage the vendors, and build the first real funnel.
 
 **$2M–$5M ARR:** The full retainer, with active team building. At this stage you should be building toward an in-house marketing function, a marketing manager, a content resource, a paid specialist, all coordinated by the fractional CMO. The goal is to build the machine so it runs without you.
 
-**$5M–$8M ARR:** You're probably ready for a senior hire or an advisory structure. The fractional CMO either transitions to advisory as the in-house team takes over, or steps back after helping hire the full-time marketing leader. For the full comparison of when fractional makes more sense than full-time, see [fractional CMO vs full-time](/blog/fractional-cmo-vs-full-time-cmo).
+**$5M–$8M ARR:** You're probably ready for a senior hire or an advisory structure. The fractional CMO either transitions to advisory as the in-house team takes over, or steps back after helping hire the full-time marketing leader. For the full comparison of when fractional makes more sense than full-time, see [fractional CMO vs full-time](/blog/fractional-cmo-vs-full-time-cmo/).
 
 **Over $8M ARR:** You likely need a full-time CMO. The fractional model is designed to get you there, build the engine, prove the channels, document the playbook, not to replace the leadership capacity a scaling team needs.
 
@@ -175,11 +175,11 @@ CMO as a service (CMOaaS) is a model where a company accesses senior marketing l
 
 **How much do fractional CMO services cost?**
 
-Fractional CMO services typically range from $3,000–$5,000 for a one-time diagnostic engagement, $5,000–$10,000/month for a full fractional retainer, and $2,500–$4,000/month for an advisory retainer. The price depends on scope, hours, and the stage of the engagement. This compares to $200,000–$300,000 in total compensation for a full-time CMO. For a full breakdown by tier, see the [fractional CMO cost guide](/blog/fractional-cmo-cost).
+Fractional CMO services typically range from $3,000–$5,000 for a one-time diagnostic engagement, $5,000–$10,000/month for a full fractional retainer, and $2,500–$4,000/month for an advisory retainer. The price depends on scope, hours, and the stage of the engagement. This compares to $200,000–$300,000 in total compensation for a full-time CMO. For a full breakdown by tier, see the [fractional CMO cost guide](/blog/fractional-cmo-cost/).
 
 **Can fractional CMO services work for a B2B SaaS company?**
 
-Yes, B2B SaaS is the primary context where fractional CMO engagements are most valuable. The model fits the $1–8M ARR stage particularly well: you have enough revenue to support a proper marketing function but not enough to justify a $250K full-time CMO hire. The fractional CMO builds the SaaS-specific marketing infrastructure, trial conversion optimisation, PLG or sales-led motion, content that attracts the right ICP, paid acquisition with appropriate CAC targets, and does it with pattern recognition from previous SaaS engagements rather than starting from scratch. For more on what changes when the buyer is a business rather than a consumer, see this breakdown of [B2B-specific fractional CMO services](/blog/b2b-fractional-cmo). The model also adapts well outside tech, [law firm fractional CMO services](/blog/fractional-cmo-law-firms) is a different application of the same operating layer for partnership-led businesses, and a [healthcare fractional CMO](/blog/fractional-cmo-healthcare) applies it inside the regulatory and trust constraints of medical, healthtech, and life sciences companies.
+Yes, B2B SaaS is the primary context where fractional CMO engagements are most valuable. The model fits the $1–8M ARR stage particularly well: you have enough revenue to support a proper marketing function but not enough to justify a $250K full-time CMO hire. The fractional CMO builds the SaaS-specific marketing infrastructure, trial conversion optimisation, PLG or sales-led motion, content that attracts the right ICP, paid acquisition with appropriate CAC targets, and does it with pattern recognition from previous SaaS engagements rather than starting from scratch. For more on what changes when the buyer is a business rather than a consumer, see this breakdown of [B2B-specific fractional CMO services](/blog/b2b-fractional-cmo/). The model also adapts well outside tech, [law firm fractional CMO services](/blog/fractional-cmo-law-firms/) is a different application of the same operating layer for partnership-led businesses, and a [healthcare fractional CMO](/blog/fractional-cmo-healthcare/) applies it inside the regulatory and trust constraints of medical, healthtech, and life sciences companies.
 
 <script type="application/ld+json">
 {

@@ -7,7 +7,7 @@ heroImage: '/blog/what-does-a-fractional-cmo-do.png'
 slug: what-does-a-fractional-cmo-do
 ---
 
-Most founders come into the first conversation expecting a strategist. Someone who'll spend a few weeks studying the business, hand over a polished deck with their findings, and check in quarterly to see if the slides are being followed. That's not **what a fractional CMO does**. Not even close. (If you're earlier in the research phase, the [what is a fractional CMO](/blog/what-is-a-fractional-cmo) pillar covers the role end-to-end before the day-to-day reality below.)
+Most founders come into the first conversation expecting a strategist. Someone who'll spend a few weeks studying the business, hand over a polished deck with their findings, and check in quarterly to see if the slides are being followed. That's not **what a fractional CMO does**. Not even close. (If you're earlier in the research phase, the [what is a fractional CMO](/blog/what-is-a-fractional-cmo/) pillar covers the role end-to-end before the day-to-day reality below.)
 
 **A fractional CMO owns your marketing strategy and runs the execution, setting quarterly OKRs, managing your marketing team or freelancers, overseeing paid acquisition and content, and reporting directly to the founder. The key difference from a consultant: a fractional CMO doesn't hand you a plan. They build the system and run it alongside you.**
 
@@ -69,7 +69,7 @@ This is where most marketing engagements fall apart. The plan exists. Nobody exe
 
 A fractional CMO closes that gap. The strategy and the execution are owned by the same person. When the copy isn't converting, I know why, I approved the copy, I know what we were trying to achieve, and I know how to fix it. There's no handover friction, no briefing gap, no "but the agency said they followed the brief."
 
-That's the core of [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities) at a real engagement level: own the plan, run the plan, fix the plan when reality pushes back.
+That's the core of [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) at a real engagement level: own the plan, run the plan, fix the plan when reality pushes back.
 
 ---
 
@@ -85,7 +85,7 @@ I don't design every asset. I brief the designer with clear direction, format, m
 
 What I do is direct, brief, review, and own the results. The judgment layer. The part that ensures all the tactical execution is pointed at the right target.
 
-This matters because it scales. A fractional CMO running 3 contractors produces more output than a solo executor. The leverage comes from the coordination and direction, not from the hours at the keyboard. For [fractional CMO services in detail](/blog/fractional-cmo-services), what's covered across strategy, execution, and leadership, and what sits outside the scope, that's laid out in full.
+This matters because it scales. A fractional CMO running 3 contractors produces more output than a solo executor. The leverage comes from the coordination and direction, not from the hours at the keyboard. For [fractional CMO services in detail](/blog/fractional-cmo-services/), what's covered across strategy, execution, and leadership, and what sits outside the scope, that's laid out in full.
 
 ---
 
@@ -99,7 +99,7 @@ By the end of month one: new homepage copy live, conversion from paid traffic up
 
 D told me at the three-month mark: "I thought I was getting someone to tell me what to do. I didn't realise you were going to actually do it."
 
-That's the engagement. That's what this role looks like when it works. If you're specifically evaluating this for a SaaS company at $1–5M ARR, I've written about how the [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) model applies to your specific situation and growth stage.
+That's the engagement. That's what this role looks like when it works. If you're specifically evaluating this for a SaaS company at $1–5M ARR, I've written about how the [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) model applies to your specific situation and growth stage.
 
 ---
 
@@ -119,7 +119,7 @@ The accountability structure is the fundamental difference. An agency accounts f
 
 **How many hours does a fractional CMO work per week?**
 
-Typically 8–16 hours per week depending on engagement scope. At the lower end ($5,000–6,500/month), it's roughly 2 days per week, focused on strategy, direction, and key decisions. At the higher end ($8,500–10,000/month), it's closer to 4 days per week with hands-on involvement in campaigns and team management. The hours are concentrated where the leverage is, not distributed evenly across every task. For a full breakdown of what's included at each price point, see the [fractional CMO cost](/blog/fractional-cmo-cost) guide.
+Typically 8–16 hours per week depending on engagement scope. At the lower end ($5,000–6,500/month), it's roughly 2 days per week, focused on strategy, direction, and key decisions. At the higher end ($8,500–10,000/month), it's closer to 4 days per week with hands-on involvement in campaigns and team management. The hours are concentrated where the leverage is, not distributed evenly across every task. For a full breakdown of what's included at each price point, see the [fractional CMO cost](/blog/fractional-cmo-cost/) guide.
 
 **What's the difference between a fractional CMO and a marketing consultant?**
 

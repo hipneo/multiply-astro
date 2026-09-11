@@ -21,7 +21,7 @@ Marketing decisions made today show up in revenue in 3 to 6 months. A reposition
 
 The analogy I use with founders: judging a fractional CMO by revenue in month one is like judging a builder by the finished house when they have only laid the foundation. The foundation is the most important part, and it is invisible from the street.
 
-This is the leading-versus-lagging distinction, and it is the thing that makes measurement possible at all. Leading indicators (pipeline volume, conversion rates, CAC by channel) move first and tell you whether revenue is coming. Lagging indicators (revenue, MRR, payback) confirm it later. Measure the leading indicators early and the ROI question stops being a guess. This is also why the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo) look so quiet from the outside: the highest-value work produces no lagging movement yet.
+This is the leading-versus-lagging distinction, and it is the thing that makes measurement possible at all. Leading indicators (pipeline volume, conversion rates, CAC by channel) move first and tell you whether revenue is coming. Lagging indicators (revenue, MRR, payback) confirm it later. Measure the leading indicators early and the ROI question stops being a guess. This is also why the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo/) look so quiet from the outside: the highest-value work produces no lagging movement yet.
 
 ## The 90-day fractional CMO ROI framework
 
@@ -77,10 +77,10 @@ You do not track all seven from day one. You pick the three that map to your num
 
 The founder from the opening could not answer the board because nothing was set up to be measured. Avoid his mistake:
 
-1. **Define the three metrics that matter most before the CMO starts.** Tie them to your biggest problem. Owning this clarity is part of the founder's job, just as owning the numbers is part of the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities).
+1. **Define the three metrics that matter most before the CMO starts.** Tie them to your biggest problem. Owning this clarity is part of the founder's job, just as owning the numbers is part of the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/).
 2. **Baseline everything in week one.** You cannot measure improvement against a number you never recorded. This is the single most skipped step.
 3. **Review the dashboard weekly, not monthly.** Monthly reviews catch problems a month too late.
-4. **Agree on what "good" looks like at 30, 60, and 90 days.** Write it down before the work starts so the 90-day review is a comparison, not a debate. Settle these targets during hiring, alongside the [questions to ask before you sign](/blog/questions-to-ask-fractional-cmo), so accountability is built in from the first conversation.
+4. **Agree on what "good" looks like at 30, 60, and 90 days.** Write it down before the work starts so the 90-day review is a comparison, not a debate. Settle these targets during hiring, alongside the [questions to ask before you sign](/blog/questions-to-ask-fractional-cmo/), so accountability is built in from the first conversation.
 
 ## Red flags in the numbers
 
@@ -99,7 +99,7 @@ A fractional CMO costs roughly $7,500 per month. Say they reduce CAC by 25 perce
 
 Now add one outcome. If their repositioning lands one enterprise client at $3,000 MRR, the payback period on the entire engagement is about 2.5 months. Everything after that is profit, and it recurs.
 
-Frame the engagement as an investment from day one, not a line-item cost. A cost gets cut in the next budget review. An investment with a measured 1.67x return gets renewed. If you are still deciding who to bring on, my guide on [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo) covers how to find an operator who can actually move these numbers, and the [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) playbook covers the channel economics in more depth.
+Frame the engagement as an investment from day one, not a line-item cost. A cost gets cut in the next budget review. An investment with a measured 1.67x return gets renewed. If you are still deciding who to bring on, my guide on [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) covers how to find an operator who can actually move these numbers, and the [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) playbook covers the channel economics in more depth.
 
 The founder who could not answer his board? We rebuilt his measurement from scratch, baselined late but honestly, and ran the 90-day framework forward. At the next board meeting he had a number: CAC down 31 percent, pipeline up, marketing-sourced revenue finally visible. Same CMO. Same work. The difference was that this time it was measured.
 

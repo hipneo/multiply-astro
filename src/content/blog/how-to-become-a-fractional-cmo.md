@@ -43,13 +43,13 @@ Assuming the filter applies, here is the practical sequence.
 
 **Start while employed if you can.** Take one advisory engagement, two hours a week, with a founder happy with informal terms. It validates that the work is repeatable outside your day job, and gives you a first reference and a first invoice.
 
-**Define your niche before you need clients.** "Fractional CMO" is a category, not a positioning. The post on [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do) covers the operating shape of the role, and your niche should fit inside one specific corner of it.
+**Define your niche before you need clients.** "Fractional CMO" is a category, not a positioning. The post on [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do/) covers the operating shape of the role, and your niche should fit inside one specific corner of it.
 
-**Set your pricing before the first conversation.** Decide what a diagnostic costs, what a retainer costs, what advisory costs. Write the numbers down. Practice saying them out loud. Founders can hear hesitation, and hesitation gets you negotiated down. For benchmarking, [fractional CMO rates](/blog/fractional-cmo-rates) by tier is the reference I use, and the full framework for [how to set your fractional CMO rate](/blog/fractional-cmo-rate) walks through arriving at your number with confidence.
+**Set your pricing before the first conversation.** Decide what a diagnostic costs, what a retainer costs, what advisory costs. Write the numbers down. Practice saying them out loud. Founders can hear hesitation, and hesitation gets you negotiated down. For benchmarking, [fractional CMO rates](/blog/fractional-cmo-rates/) by tier is the reference I use, and the full framework for [how to set your fractional CMO rate](/blog/fractional-cmo-rate/) walks through arriving at your number with confidence.
 
 **Write your one-sentence positioning.** Who you help, the stage they are at, the outcome you produce. Mine: "Fractional CMO for founder-led B2B SaaS at $1-5M ARR, building the marketing function that takes them to $10M." Yours will be different, but should be that short and concrete.
 
-**Mine your network first.** List every founder, ex-colleague, investor, and operator who knows you well enough to vouch for you. Reach out with a brief update on what you are doing, not a pitch. Most first clients come from this list. For the full map of [where to find fractional CMO clients](/blog/fractional-cmo-jobs), that post ranks the six channels by yield.
+**Mine your network first.** List every founder, ex-colleague, investor, and operator who knows you well enough to vouch for you. Reach out with a brief update on what you are doing, not a pitch. Most first clients come from this list. For the full map of [where to find fractional CMO clients](/blog/fractional-cmo-jobs/), that post ranks the six channels by yield.
 
 ## The business side nobody talks about
 
@@ -73,7 +73,7 @@ Generalists lose. Specialists win. "I help any company with their marketing" att
 
 The choice has three axes: industry, stage, and the specific problem you solve. Pick a corner where you have lived. The narrower the corner, the faster recognition happens.
 
-The broader scope of [fractional CMO services](/blog/fractional-cmo-services) covers the operating layers, but your specific positioning is what makes the call ring.
+The broader scope of [fractional CMO services](/blog/fractional-cmo-services/) covers the operating layers, but your specific positioning is what makes the call ring.
 
 ## Common mistakes
 
@@ -101,7 +101,7 @@ Honest timeline, based on perhaps thirty people I have watched make this transit
 
 If you are nine months in and still scrambling for the first paying engagement, the diagnostic is almost always one of three things: positioning too vague, network underestimating your seniority, or pricing yourself as junior. None of those are about skill. All are about packaging.
 
-For founders considering hiring rather than becoming one, the [what is a fractional CMO](/blog/what-is-a-fractional-cmo) pillar covers the role from the buyer's side.
+For founders considering hiring rather than becoming one, the [what is a fractional CMO](/blog/what-is-a-fractional-cmo/) pillar covers the role from the buyer's side.
 
 ---
 
@@ -121,7 +121,7 @@ Income varies widely. With two or three active retainers at $5,000-$10,000/month
 
 ### How do fractional CMOs find their first clients?
 
-Almost always through existing network: ex-colleagues, founders they have worked with, investors who know their work, operators in adjacent companies. Cold outreach rarely produces the first client because the role requires trust that has been built over years. Building a public body of work (LinkedIn, writing, talks) accelerates inbound from a wider network, but the first one or two engagements typically come from people who already know you can do the work. For a deeper breakdown of where [fractional CMO jobs](/blog/fractional-cmo-jobs) actually come from (six channels ranked by yield), that post is the operational reference.
+Almost always through existing network: ex-colleagues, founders they have worked with, investors who know their work, operators in adjacent companies. Cold outreach rarely produces the first client because the role requires trust that has been built over years. Building a public body of work (LinkedIn, writing, talks) accelerates inbound from a wider network, but the first one or two engagements typically come from people who already know you can do the work. For a deeper breakdown of where [fractional CMO jobs](/blog/fractional-cmo-jobs/) actually come from (six channels ranked by yield), that post is the operational reference.
 
 ### Is being a fractional CMO a good career?
 

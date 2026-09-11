@@ -57,7 +57,7 @@ Four questions. Every paid acquisition decision since 1998, in every channel, fo
 
 Not a demographic. Not a psychographic. A specific person with a specific problem at a specific moment. In the goto.com era, the buyers I was reaching for one affiliate campaign were small business owners who had just had their first accountant bill and were looking for software to do it themselves. I knew their search query, their fear, their decision moment. That specificity is what made the campaign work at $0.11 per click when competitors were burning $0.40 on generic terms.
 
-For [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) companies today, the equivalent question is: who is the specific person at your ICP company who searches for your category? Not "VP of Engineering at a Series B startup." The person who opens a browser at 10pm because something broke and they need a solution. That person.
+For [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) companies today, the equivalent question is: who is the specific person at your ICP company who searches for your category? Not "VP of Engineering at a Series B startup." The person who opens a browser at 10pm because something broke and they need a solution. That person.
 
 **2. What problem are they trying to solve right now?**
 
@@ -85,7 +85,7 @@ If you can answer those four questions specifically, specific buyer, specific pr
 
 I see SaaS founders spend weeks arguing about whether to invest in SEO or paid search. That argument is mostly a distraction. The real work is figuring out who your buyer is and what problem gets them to search in the first place. Once you know that, the channel question becomes almost obvious.
 
-Understanding [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do) week to week is partly understanding this: a lot of the job is pulling founders back from the channel conversation and into the buyer conversation. The channel is a distribution mechanism. The buyer is the strategy. It's also why the best [fractional CMO services](/blog/fractional-cmo-services) start with the same four-question framework, before any channel decision gets made. (For the full primer on what a [fractional CMO](/blog/what-is-a-fractional-cmo) is, that pillar covers the role end-to-end.)
+Understanding [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do/) week to week is partly understanding this: a lot of the job is pulling founders back from the channel conversation and into the buyer conversation. The channel is a distribution mechanism. The buyer is the strategy. It's also why the best [fractional CMO services](/blog/fractional-cmo-services/) start with the same four-question framework, before any channel decision gets made. (For the full primer on what a [fractional CMO](/blog/what-is-a-fractional-cmo/) is, that pillar covers the role end-to-end.)
 
 ---
 
@@ -101,7 +101,7 @@ The cost of entry has also changed. The barrier to running a paid campaign in 19
 
 The other constant: speed of learning beats size of budget. On goto.com, the companies that won weren't always the ones spending the most. They were the ones testing the most hypotheses per dollar. That's still true in Google Ads, LinkedIn Campaigns, and every other paid channel today. Budget is not a substitute for understanding your buyer.
 
-The founders who understand this, who treat marketing as a learning system, not a spend system, are the ones I see compound. Some of my own sharpest [lessons from failed experiments](/blog/amazon-failure-saas-marketing) came not from a campaign that worked but from a whole business that slowly stopped working. The ones who treat it as a tap you turn on are the ones still staring at a flat growth curve at 3am wondering why the LinkedIn posts aren't working.
+The founders who understand this, who treat marketing as a learning system, not a spend system, are the ones I see compound. Some of my own sharpest [lessons from failed experiments](/blog/amazon-failure-saas-marketing/) came not from a campaign that worked but from a whole business that slowly stopped working. The ones who treat it as a tap you turn on are the ones still staring at a flat growth curve at 3am wondering why the LinkedIn posts aren't working.
 
 I know that feeling. I've been there. It started in 1998, on a 56k modem, watching a number on a screen and thinking: if I just understand who's on the other side of this click, I can figure everything else out.
 

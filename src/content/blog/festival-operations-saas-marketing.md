@@ -29,7 +29,7 @@ Festivals are logistics problems. The music is the goal, it's why you build the 
 
 The music is what people come for. The operations are what makes the music happen.
 
-I've spent the last several years working with [SaaS founders as a fractional CMO](/blog/fractional-cmo-for-saas) (if you're new to the model, here's the primer on what a [fractional CMO](/blog/what-is-a-fractional-cmo) is). And the thing that surprises most of them, the thing they don't expect me to say in the first meeting, is this: you don't have a marketing problem. You have a coordination problem.
+I've spent the last several years working with [SaaS founders as a fractional CMO](/blog/fractional-cmo-for-saas/) (if you're new to the model, here's the primer on what a [fractional CMO](/blog/what-is-a-fractional-cmo/) is). And the thing that surprises most of them, the thing they don't expect me to say in the first meeting, is this: you don't have a marketing problem. You have a coordination problem.
 
 ---
 
@@ -43,7 +43,7 @@ This is structurally identical to what happens when a festival's bar concessiona
 
 At $1M ARR, this failure is manageable. The founder is close enough to everything to hold it together informally. At $3–4M, the informal coordination breaks. You have too many moving parts, too many vendors, too many channels. But you don't feel the break immediately, you feel it six months later when you're doing the same revenue with twice the marketing spend and you can't explain why.
 
-This is why [what a fractional CMO actually does](/blog/what-does-a-fractional-cmo-do) isn't primarily about strategy. It's about installing the operational layer that makes strategy executable.
+This is why [what a fractional CMO actually does](/blog/what-does-a-fractional-cmo-do/) isn't primarily about strategy. It's about installing the operational layer that makes strategy executable.
 
 ---
 
@@ -89,7 +89,7 @@ A real marketing post-mortem asks: what did we ship, what did we predict, what h
 
 The combination of strategic thinking and operational discipline is genuinely rare. Most CMOs think strategically and delegate execution. Most COOs understand operations but aren't in the marketing function. The gap between them is where most $1–5M SaaS marketing efforts live, and die.
 
-[Fractional CMO services](/blog/fractional-cmo-services) that are worth the investment aren't just about building a marketing plan. They're about installing the coordination layer, the operational doc, the brief culture, the post-mortem practice, the dashboard that tracks the right things, so the plan can actually be executed without falling apart on contact with the team.
+[Fractional CMO services](/blog/fractional-cmo-services/) that are worth the investment aren't just about building a marketing plan. They're about installing the coordination layer, the operational doc, the brief culture, the post-mortem practice, the dashboard that tracks the right things, so the plan can actually be executed without falling apart on contact with the team.
 
 This is the unfair advantage most agencies and freelancers can't provide, and won't tell you you're missing. It's easier to sell campaigns than coordination. It's more lucrative to stay in the creative lane than to solve the structural problem. The result is companies spending more on tactics while the underlying coordination failure quietly compounds.
 

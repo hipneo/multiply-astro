@@ -1,7 +1,24 @@
-# Blog: enforce trailing-slash form for canonical URLs
-/blog/:slug  /blog/:slug/  301
+# ─── Retired Astro starter posts (indexed at launch, removed in 078dd39) ───
+# These have no page. Without explicit rules they 404; previously the blanket
+# trailing-slash rule below re-matched its own output and looped infinitely.
+/blog/first-post            /blog/  301
+/blog/first-post/           /blog/  301
+/blog/second-post           /blog/  301
+/blog/second-post/          /blog/  301
+/blog/third-post            /blog/  301
+/blog/third-post/           /blog/  301
+/blog/markdown-style-guide  /blog/  301
+/blog/markdown-style-guide/ /blog/  301
+/blog/using-mdx             /blog/  301
+/blog/using-mdx/            /blog/  301
 
-# HTTP → HTTPS, apex-only canonicalization
+# NOTE: the rule `/blog/:slug  /blog/:slug/  301` was removed deliberately.
+# It was redundant for real pages (Netlify Pretty URLs already appends the
+# trailing slash for directories that exist) and for any slug WITHOUT a page
+# it redirected to a target that re-matched the same rule, producing an
+# infinite loop. Missing slugs must 404 cleanly instead.
+
+# ─── Host canonicalization: http → https, www → apex ───
 http://multiplycmo.com/*       https://multiplycmo.com/:splat  301!
 http://www.multiplycmo.com/*   https://multiplycmo.com/:splat  301!
 https://www.multiplycmo.com/*  https://multiplycmo.com/:splat  301!

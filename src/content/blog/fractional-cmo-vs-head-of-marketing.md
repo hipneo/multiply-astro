@@ -31,11 +31,11 @@ Give a strong Head of Marketing a clear strategy and they will outperform your e
 
 ## What a fractional CMO actually is, and isn't
 
-A [fractional CMO](/blog/what-does-a-fractional-cmo-do) is the opposite hire in almost every dimension.
+A [fractional CMO](/blog/what-does-a-fractional-cmo-do/) is the opposite hire in almost every dimension.
 
 They own the strategy, they do not just execute it. They are typically 15 or more years in, and they have built and run full marketing functions before, more than once, usually across companies that look a lot like yours. That pattern recognition is the product. They can operate without strategic direction because they are the ones who create it. Hand them a blank page and that is exactly where they do their best work.
 
-They work part-time, across a small number of companies, which is what makes the economics work. A fractional CMO costs $5,000 to $10,000 a month, which is a $60,000 to $120,000 a year equivalent for two to three days a week. For that, you get someone who has already made the mistakes you are about to make and knows which turns to skip. If you are weighing this against a senior full-time hire, I have written a full breakdown of [fractional CMO vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo) that covers the cost and flexibility math, and a tier-by-tier [fractional CMO cost comparison](/blog/fractional-cmo-rates) if you want to see what each band buys.
+They work part-time, across a small number of companies, which is what makes the economics work. A fractional CMO costs $5,000 to $10,000 a month, which is a $60,000 to $120,000 a year equivalent for two to three days a week. For that, you get someone who has already made the mistakes you are about to make and knows which turns to skip. If you are weighing this against a senior full-time hire, I have written a full breakdown of [fractional CMO vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo/) that covers the cost and flexibility math, and a tier-by-tier [fractional CMO cost comparison](/blog/fractional-cmo-rates/) if you want to see what each band buys.
 
 Notice what just happened. The Head of Marketing and the fractional CMO are not two points on the same ladder, junior and senior versions of one job. They are two different jobs. One designs the system. The other runs it.
 
@@ -75,7 +75,7 @@ If that is you, a Head of Marketing is a fantastic hire and a fractional CMO wou
 
 ## When a fractional CMO is the right hire
 
-Hire a [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) when you do not have a clear marketing strategy yet. When your founder is still the de facto CMO, making every real call. When you have tried marketing hires before and they did not move the needle, which is almost always a sign they were executing without a strategy underneath them. And usually when you are at $1M to $5M in ARR, still figuring out which channels to double down on.
+Hire a [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) when you do not have a clear marketing strategy yet. When your founder is still the de facto CMO, making every real call. When you have tried marketing hires before and they did not move the needle, which is almost always a sign they were executing without a strategy underneath them. And usually when you are at $1M to $5M in ARR, still figuring out which channels to double down on.
 
 This is the stage where the wrong hire is most expensive, because a Head of Marketing here inherits a blank page they were never equipped to fill. You do not have a bandwidth problem. You have a direction problem. Hands do not fix direction.
 
@@ -85,7 +85,7 @@ Here is the sequence I have watched work again and again, and it resolves the wh
 
 Hire the fractional CMO first. Let them build the strategy and prove the channels, so you actually know what works and why. Once the system runs, once there is a real strategy and a set of channels producing predictable results, hire a Head of Marketing to run it. The fractional CMO then transitions to advisory as the Head of Marketing gets up to speed, handing off a machine instead of a mystery.
 
-This is not a compromise. It is how you hire a Head of Marketing who can actually succeed. You are no longer asking a five-to-eight-year executor to invent a strategy from nothing. You are handing them a proven system and clear KPIs, which is exactly the job they are built for. The fractional CMO makes the eventual Head of Marketing hire work, instead of watching it fail the slow, expensive way that founder on the call discovered. If you decide to go this route, here is [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo) without the usual mistakes.
+This is not a compromise. It is how you hire a Head of Marketing who can actually succeed. You are no longer asking a five-to-eight-year executor to invent a strategy from nothing. You are handing them a proven system and clear KPIs, which is exactly the job they are built for. The fractional CMO makes the eventual Head of Marketing hire work, instead of watching it fail the slow, expensive way that founder on the call discovered. If you decide to go this route, here is [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) without the usual mistakes.
 
 Strategy first, then execution. Every time. The founder with the great Head of Marketing did not make a bad hire. He made a good hire in the wrong order.
 
@@ -101,7 +101,7 @@ If you do not yet have a clear, validated strategy, hire the fractional CMO firs
 
 **When should a startup hire a Head of Marketing?**
 
-When you have a proven marketing system, established channels you know work, and someone senior providing strategic direction. Usually that is around $5M or more in ARR. Before that, most startups need strategy more than they need execution bandwidth, which points to a fractional CMO first. The same logic applies to the [fractional CMO vs marketing director](/blog/fractional-cmo-vs-full-time-cmo) question: title matters less than whether the strategy already exists.
+When you have a proven marketing system, established channels you know work, and someone senior providing strategic direction. Usually that is around $5M or more in ARR. Before that, most startups need strategy more than they need execution bandwidth, which points to a fractional CMO first. The same logic applies to the [fractional CMO vs marketing director](/blog/fractional-cmo-vs-full-time-cmo/) question: title matters less than whether the strategy already exists.
 
 **Can a fractional CMO work with a Head of Marketing?**
 

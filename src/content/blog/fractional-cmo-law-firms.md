@@ -21,7 +21,7 @@ He was right. The problem at most mid-sized law firms isn't who they hire. The s
 
 **A fractional law firm CMO provides senior marketing strategy and execution leadership on a part-time basis, typically 2-3 days per week, giving firms access to CMO-level thinking at 20-30% of a full-time hire's cost. For most law firms below 50 partners, a fractional CMO is a more effective model than a full-time marketing director because the strategic workload doesn't justify a permanent role.**
 
-For the broader [what a fractional CMO is](/blog/what-is-a-fractional-cmo) primer, the role end-to-end and how it compares to consultants and agencies, that pillar is the wider reference. This post focuses on the law firm-specific application.
+For the broader [what a fractional CMO is](/blog/what-is-a-fractional-cmo/) primer, the role end-to-end and how it compares to consultants and agencies, that pillar is the wider reference. This post focuses on the law firm-specific application.
 
 This isn't a workaround. It's a better fit. And it's the model nobody in legal is talking about because most law firms still hire the way they did in 2008.
 
@@ -39,7 +39,7 @@ Law firms aren't normal businesses. Treating them like normal businesses is why 
 
 **The prestige paradox.** Firms want growth but don't want to look like it. Anything that looks like selling is a cultural problem. Marketing here requires taste, restraint, and an understanding of how senior buyers actually choose firms.
 
-These five constraints make law firm marketing a specific discipline. Generalists struggle until they've spent enough time inside firms to learn the culture. The same pattern shows up in other regulated verticals, a [fractional CMO for healthcare](/blog/fractional-cmo-healthcare) faces an almost identical mix of advertising rules, trust-based buying, and slow cycles, just under HIPAA and FDA rather than bar rules.
+These five constraints make law firm marketing a specific discipline. Generalists struggle until they've spent enough time inside firms to learn the culture. The same pattern shows up in other regulated verticals, a [fractional CMO for healthcare](/blog/fractional-cmo-healthcare/) faces an almost identical mix of advertising rules, trust-based buying, and slow cycles, just under HIPAA and FDA rather than bar rules.
 
 ## Why full-time marketing directors keep failing at law firms
 
@@ -65,7 +65,7 @@ A senior fractional executive can sit above all four problems in a way an intern
 
 **Keeps the outside view.** Internal directors lose perspective within six to nine months. A fractional CMO working across multiple firms simultaneously holds the outside view that was the entire point of hiring marketing leadership.
 
-For more on engagement scope, see [fractional CMO services](/blog/fractional-cmo-services), the law firm version is a specialised application of the same model.
+For more on engagement scope, see [fractional CMO services](/blog/fractional-cmo-services/), the law firm version is a specialised application of the same model.
 
 ## The specific services a law firm fractional CMO provides
 
@@ -83,7 +83,7 @@ A real engagement covers five areas.
 
 ## What to budget
 
-[Fractional CMO rates](/blog/fractional-cmo-rates) for law firms typically run $5,000–10,000 per month for a 2–3 day per week engagement. Six- to twelve-month minimums are standard. Annual investment: $60,000–$120,000.
+[Fractional CMO rates](/blog/fractional-cmo-rates/) for law firms typically run $5,000–10,000 per month for a 2–3 day per week engagement. Six- to twelve-month minimums are standard. Annual investment: $60,000–$120,000.
 
 Compared to a full-time marketing director at $120K base plus benefits and tax loading, plus recruiting cost ($25K–40K with this role's turnover), the fractional model is materially cheaper and less risky.
 
@@ -99,7 +99,7 @@ Three criteria specific to legal.
 
 **Three, they can talk to partners as peers.** Partly seniority, partly demeanor, partly experience. The discovery call should feel like a peer conversation between senior professionals, not a marketing pitch. If it feels like a pitch with you, it'll feel like a pitch in the partnership meeting too.
 
-For the broader hiring framework, [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo) covers references, paid diagnostic, and retainer structure.
+For the broader hiring framework, [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) covers references, paid diagnostic, and retainer structure.
 
 ---
 
@@ -119,7 +119,7 @@ Most firms below 50 partners don't need a full-time CMO, but they do need senior
 
 ### How much does a law firm CMO cost?
 
-A full-time CMO in a mid-sized firm runs $200,000–$300,000 in total compensation. A [law firm fractional CMO](/blog/fractional-cmo-rates) at 2–3 days per week runs $5,000–10,000 per month, $60,000–$120,000 annually, for materially more senior experience. Cost difference: roughly 60–70% in favor of the fractional model.
+A full-time CMO in a mid-sized firm runs $200,000–$300,000 in total compensation. A [law firm fractional CMO](/blog/fractional-cmo-rates/) at 2–3 days per week runs $5,000–10,000 per month, $60,000–$120,000 annually, for materially more senior experience. Cost difference: roughly 60–70% in favor of the fractional model.
 
 ### What's the difference between a law firm marketing director and a fractional CMO?
 
@@ -127,7 +127,7 @@ A marketing director is a mid-level executor; a fractional CMO is a senior strat
 
 ### How long does it take to see results from a fractional CMO at a law firm?
 
-Three months to diagnose and build strategy, six months for leading indicators (inquiry volume, content performance, partner adoption), twelve months for measurable origination impact. Law firm marketing compounds slowly. For more, see [fractional CMO vs full-time](/blog/fractional-cmo-vs-full-time-cmo).
+Three months to diagnose and build strategy, six months for leading indicators (inquiry volume, content performance, partner adoption), twelve months for measurable origination impact. Law firm marketing compounds slowly. For more, see [fractional CMO vs full-time](/blog/fractional-cmo-vs-full-time-cmo/).
 
 <script type="application/ld+json">
 {

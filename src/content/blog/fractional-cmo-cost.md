@@ -14,9 +14,9 @@ That said, here's the answer to **how much does a fractional CMO cost** in 2026,
 
 **A fractional CMO typically costs between $5,000 and $10,000 per month on a retainer, or $3,000–$5,000 as a one-time diagnostic engagement. This compares to $200,000–$300,000 in total compensation for a full-time CMO, making the fractional model 70–80% cheaper at the same strategic level.**
 
-**The short version:** $3,000–$10,000 per month for ongoing engagements. $3,000–$5,000 flat for a diagnostic. $2,500–$4,000/month for advisory-only. What you pay depends entirely on [what's included in fractional CMO services](/blog/fractional-cmo-services).
+**The short version:** $3,000–$10,000 per month for ongoing engagements. $3,000–$5,000 flat for a diagnostic. $2,500–$4,000/month for advisory-only. What you pay depends entirely on [what's included in fractional CMO services](/blog/fractional-cmo-services/).
 
-Here's exactly what you get at each tier. If you're still unclear on [what a fractional CMO actually does](/blog/what-does-a-fractional-cmo-do) week to week, not in theory, but in practice, that's worth reading first, because scope drives price. For a complete primer on [what a fractional CMO is](/blog/what-is-a-fractional-cmo), including how the role differs from consultants, agencies, and interim hires, that pillar is the broader reference.
+Here's exactly what you get at each tier. If you're still unclear on [what a fractional CMO actually does](/blog/what-does-a-fractional-cmo-do/) week to week, not in theory, but in practice, that's worth reading first, because scope drives price. For a complete primer on [what a fractional CMO is](/blog/what-is-a-fractional-cmo/), including how the role differs from consultants, agencies, and interim hires, that pillar is the broader reference.
 
 ---
 
@@ -72,7 +72,7 @@ This is not the engagement to start with if your marketing is broken. It's the e
 
 ## Why Not Just Hire a Full-Time CMO?
 
-For context on how this stacks up against the alternative, the [full-time CMO comparison](/blog/fractional-cmo-vs-full-time-cmo) covers both paths side by side, cost, timing, flexibility, and risk.
+For context on how this stacks up against the alternative, the [full-time CMO comparison](/blog/fractional-cmo-vs-full-time-cmo/) covers both paths side by side, cost, timing, flexibility, and risk.
 
 At $1–5M ARR, the full-time CMO math doesn't work.
 
@@ -137,7 +137,7 @@ Your fractional CMO costs $7,500/month. That's $90,000/year.
 
 **Scenario 3:** You've been spending $8,000/month on a content agency with nothing to show in pipeline. Stopping that spend and redirecting $4,000 into a well-run paid channel (managed by the fractional CMO) produces 15 qualified trials in 60 days. You've effectively cut marketing waste and redirected the savings toward something that works.
 
-The question isn't "can we afford a fractional CMO?" The question is: what does six more months of running marketing ourselves cost in stalled growth, wasted spend, and your time? For the complete picture on [fractional CMO rates and hourly pricing](/blog/fractional-cmo-rates), how hourly compares to retainer, and what drives cost within each range, that's broken down in full.
+The question isn't "can we afford a fractional CMO?" The question is: what does six more months of running marketing ourselves cost in stalled growth, wasted spend, and your time? For the complete picture on [fractional CMO rates and hourly pricing](/blog/fractional-cmo-rates/), how hourly compares to retainer, and what drives cost within each range, that's broken down in full.
 
 ---
 

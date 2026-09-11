@@ -11,7 +11,7 @@ She had both open on the same screen. The first fractional CMO portfolio was a 2
 
 **A fractional CMO portfolio is evidence, not a brochure, and it should be read that way. Strong evidence is a small number of case studies that each include a starting baseline, the constraint the business was under, what the marketer personally did versus what the team did, results with a timeframe attached, and at least one engagement that did not work. Polish proves someone is excellent at marketing themselves, which overlaps with but does not equal marketing your company. What predicts your outcome is transferable, verifiable results in businesses shaped like yours.**
 
-Why would polish be a warning sign? Because I build these documents for a living, mine and other people's, and I know how they get assembled. A portfolio is marketing about marketing. Every number in it was chosen by the person being evaluated, every bad project quietly left out, and the design budget is a signal of design budget. None of that is dishonest. It just means the most persuasive document in your inbox was optimised for persuasion, which is the one variable you should be controlling for. If you are still working out [what a fractional CMO does](/blog/what-is-a-fractional-cmo), start there, then come back and check the evidence.
+Why would polish be a warning sign? Because I build these documents for a living, mine and other people's, and I know how they get assembled. A portfolio is marketing about marketing. Every number in it was chosen by the person being evaluated, every bad project quietly left out, and the design budget is a signal of design budget. None of that is dishonest. It just means the most persuasive document in your inbox was optimised for persuasion, which is the one variable you should be controlling for. If you are still working out [what a fractional CMO does](/blog/what-is-a-fractional-cmo/), start there, then come back and check the evidence.
 
 ## What a fractional CMO portfolio should contain
 
@@ -25,7 +25,7 @@ Read every claim in a portfolio by asking what is missing from it. "Grew X by 30
 
 Then separate attribution from proximity. Many fractional CMO case studies describe growth that happened while the person was in the building rather than growth they caused. Ask what specifically would not have happened without them. If the company had just closed a Series A, hired eight salespeople, and shipped the feature the market wanted, the marketing leader is one input among several, and an honest portfolio says so.
 
-Finally, check channel and market context. Someone who scaled a 40 dollar per month self serve product on paid social is not automatically the person who builds your enterprise pipeline with a nine month sales cycle. Learning [how to evaluate a fractional CMO](/blog/how-to-hire-a-fractional-cmo) is mostly learning to ask whether the conditions that produced their results exist in your business.
+Finally, check channel and market context. Someone who scaled a 40 dollar per month self serve product on paid social is not automatically the person who builds your enterprise pipeline with a nine month sales cycle. Learning [how to evaluate a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) is mostly learning to ask whether the conditions that produced their results exist in your business.
 
 ## Red flags in a fractional CMO portfolio
 
@@ -35,7 +35,7 @@ A logo only means someone paid an invoice. It does not say whether the work last
 
 Zero failures is the flag most people miss. Nobody who has run marketing in ten companies won ten times. A portfolio with no losses in it is not a flawless career, it is selective editing, and it tells you this person will manage the narrative with you too. NDAs are real, and a good operator still gives you shape: industry, stage, budget band, percentage change without the absolute number. NDA as the answer to every question is a pattern, not a policy.
 
-Then the everything specialist. A portfolio spanning fintech, healthcare, ecommerce, gaming, and industrial manufacturing usually means shallow passes at all five. And results with no persistence: if growth reverted within a quarter of their exit, they built a campaign, not a marketing function. Some of this overlaps with the reasons for [when not to hire a fractional CMO](/blog/when-not-to-hire-a-fractional-cmo) at all.
+Then the everything specialist. A portfolio spanning fintech, healthcare, ecommerce, gaming, and industrial manufacturing usually means shallow passes at all five. And results with no persistence: if growth reverted within a quarter of their exit, they built a campaign, not a marketing function. Some of this overlaps with the reasons for [when not to hire a fractional CMO](/blog/when-not-to-hire-a-fractional-cmo/) at all.
 
 ## Green flags that predict a good engagement
 
@@ -51,7 +51,7 @@ Of the three ways to check a fractional CMO, the portfolio is the weakest, refer
 
 The portfolio is a document the candidate wrote about themselves, edited for effect. Useful as a starting point, worthless as a verdict. Two reference calls beat ten case studies, because a reference cannot fully control what they say. Ask for one glowing reference and one client the engagement ended with, and watch how willingly the second gets handed over. Ask what the candidate was like in month four, not month one.
 
-A small paid discovery sprint beats both. Two or three weeks, fixed fee, a defined deliverable such as a channel diagnosis or a positioning audit against a written [fractional CMO brief](/blog/fractional-cmo-brief). You watch them work on your actual business, which is the only sample genuinely about you. Everything else is inference from other people's companies.
+A small paid discovery sprint beats both. Two or three weeks, fixed fee, a defined deliverable such as a channel diagnosis or a positioning audit against a written [fractional CMO brief](/blog/fractional-cmo-brief/). You watch them work on your actual business, which is the only sample genuinely about you. Everything else is inference from other people's companies.
 
 ## Five questions to ask about the portfolio in the interview
 

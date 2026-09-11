@@ -13,7 +13,7 @@ Here's the honest answer: **a fractional CMO for startups makes sense in some si
 
 **A fractional CMO for startups provides senior marketing leadership on a part-time basis, helping early-stage companies build their go-to-market strategy, acquire first customers, and establish repeatable growth before they can afford a full-time marketing hire. Engagements typically start at $3,000–$5,000 for a diagnostic and $5,000–$10,000/month for an ongoing retainer.**
 
-For the broader [what is a fractional CMO](/blog/what-is-a-fractional-cmo) primer, the role end-to-end, engagement models, and how it compares to consultants and agencies, that pillar is the longer reference.
+For the broader [what is a fractional CMO](/blog/what-is-a-fractional-cmo/) primer, the role end-to-end, engagement models, and how it compares to consultants and agencies, that pillar is the longer reference.
 
 ---
 
@@ -81,17 +81,17 @@ If you're pre-revenue and considering this, the honest question to ask is: do I 
 
 ## What a Fractional CMO Actually Does for a Startup
 
-The work looks different at the startup stage than at [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) companies with established revenue. At an earlier stage, the engagement is more foundational.
+The work looks different at the startup stage than at [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) companies with established revenue. At an earlier stage, the engagement is more foundational.
 
 **ICP definition.** Not a demographic. A specific type of person with a specific problem at a specific moment. What are they searching for? What language do they use? What does the buying trigger look like? This is the work that everything else depends on, and it's surprising how many startups can't answer it precisely.
 
 **Positioning.** The one or two sentences that tell your buyer exactly what you do, who it's for, and why you and not the alternatives. Most startup positioning is either too generic ("we help teams collaborate") or too feature-led ("AI-powered workflow automation"). Getting this right changes the performance of every downstream marketing activity.
 
-**First acquisition channel.** Not a diversified multi-channel strategy, one channel, chosen deliberately based on where your specific buyer is when they have your specific problem. Getting one channel working before adding more is almost always the right sequencing for startups. Once you've crossed into real revenue, the same discipline sharpens further: a [fractional CMO at $1M ARR](/blog/fractional-cmo-1m-arr-saas) drives one channel all the way to predictable profit before touching a second.
+**First acquisition channel.** Not a diversified multi-channel strategy, one channel, chosen deliberately based on where your specific buyer is when they have your specific problem. Getting one channel working before adding more is almost always the right sequencing for startups. Once you've crossed into real revenue, the same discipline sharpens further: a [fractional CMO at $1M ARR](/blog/fractional-cmo-1m-arr-saas/) drives one channel all the way to predictable profit before touching a second.
 
 **Basic analytics.** You cannot learn without measurement. Google Analytics 4 properly configured, UTM structure in place, CRM connected, conversion events tracked. The first 30 days of any startup engagement includes making sure the data infrastructure exists to support future decisions.
 
-For more on what the ongoing work looks like once the foundation is built, [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do) week to week is worth reading.
+For more on what the ongoing work looks like once the foundation is built, [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do/) week to week is worth reading.
 
 ---
 
@@ -117,11 +117,11 @@ Before you reach out to any fractional CMO, including me, answer these honestly.
 4. **Can you describe your ideal customer precisely, not a demographic, but a specific person with a specific problem?** If the answer is vague, a diagnostic engagement (not a full retainer) is the right entry point.
 5. **Do you have 2–3 hours per week to work closely with a marketing leader?** A fractional CMO is not a set-and-forget hire. They need your time, your input, and your decisions. If you can't carve that out, the engagement won't perform.
 
-If you answered yes to all five, you're in the right position to evaluate an engagement seriously. If you answered no to two or more, address those gaps first. For a broader introduction to the [fractional marketing approach](/blog/fractional-marketing), how the model works, what it costs, and what separates it from agencies, the complete guide is a useful next read.
+If you answered yes to all five, you're in the right position to evaluate an engagement seriously. If you answered no to two or more, address those gaps first. For a broader introduction to the [fractional marketing approach](/blog/fractional-marketing/), how the model works, what it costs, and what separates it from agencies, the complete guide is a useful next read.
 
-For a full picture of [fractional CMO services](/blog/fractional-cmo-services), what's covered at each engagement level, and current [fractional CMO rates](/blog/fractional-cmo-rates) so you can budget properly, both are worth reviewing before you start a conversation.
+For a full picture of [fractional CMO services](/blog/fractional-cmo-services/), what's covered at each engagement level, and current [fractional CMO rates](/blog/fractional-cmo-rates/) so you can budget properly, both are worth reviewing before you start a conversation.
 
-The model isn't only a startup tool, either. It works equally well, sometimes better, for [professional services firms](/blog/fractional-cmo-law-firms) where a full-time marketing director chronically under-fits the actual scope of the role.
+The model isn't only a startup tool, either. It works equally well, sometimes better, for [professional services firms](/blog/fractional-cmo-law-firms/) where a full-time marketing director chronically under-fits the actual scope of the role.
 
 ---
 
@@ -137,7 +137,7 @@ Practically speaking, $5,000/month is the floor for a meaningful fractional enga
 
 **How is a fractional CMO different for startups vs established companies?**
 
-At the startup stage, the work is more foundational: ICP definition, first-channel selection, positioning, and basic analytics setup. At a $3M ARR SaaS company, those foundations exist and the fractional CMO is optimising and scaling a working system. Startups need more building; established companies need more tuning and acceleration. The skill set required is the same, the emphasis shifts. If you're specifically running a recurring-revenue product, a [SaaS fractional CMO](/blog/saas-fractional-cmo) with stage-fit experience matters more than a generalist with a bigger resume.
+At the startup stage, the work is more foundational: ICP definition, first-channel selection, positioning, and basic analytics setup. At a $3M ARR SaaS company, those foundations exist and the fractional CMO is optimising and scaling a working system. Startups need more building; established companies need more tuning and acceleration. The skill set required is the same, the emphasis shifts. If you're specifically running a recurring-revenue product, a [SaaS fractional CMO](/blog/saas-fractional-cmo/) with stage-fit experience matters more than a generalist with a bigger resume.
 
 **When should a startup hire a full-time marketer instead of a fractional CMO?**
 

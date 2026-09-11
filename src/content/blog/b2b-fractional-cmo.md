@@ -21,7 +21,7 @@ I've seen this exact mistake at least eight times in the last two years. Differe
 
 **A b2b fractional CMO specializes in marketing to businesses rather than consumers, managing longer sales cycles, multiple stakeholders, and revenue metrics like pipeline, CAC, and LTV rather than impressions and engagement. For B2B SaaS companies at $1–5M ARR, a fractional CMO with B2B-specific experience typically delivers faster results than a generalist because the playbooks, channels, and metrics are fundamentally different.**
 
-If you're new to the model, the [what is a fractional CMO](/blog/what-is-a-fractional-cmo) pillar covers the role end-to-end before this B2B-specific take.
+If you're new to the model, the [what is a fractional CMO](/blog/what-is-a-fractional-cmo/) pillar covers the role end-to-end before this B2B-specific take.
 
 This is the distinction that founders most often miss. Not because they're not paying attention, but because from the outside the roles look identical. Same title. Similar pitch. Comparable monthly retainer. The difference shows up in month four, when the work either produces pipeline or it doesn't.
 
@@ -47,7 +47,7 @@ Third, LinkedIn as the primary organic channel. For B2B SaaS at this stage, no o
 
 Fourth, outbound that doesn't read like spam. Real outbound is a marketing-and-sales joint program, tightly targeted lists, sequences anchored on a specific trigger event, content references that signal the sender actually read about the prospect's company.
 
-Fifth, and most overlooked, sales and marketing alignment. The MQL-to-SQL handoff, the SLA on follow-up, the feedback loop on lead quality, the shared dashboard. In B2B, marketing's output is sales' input. A real [b2b fractional CMO services](/blog/fractional-cmo-services) engagement always includes fixing this seam.
+Fifth, and most overlooked, sales and marketing alignment. The MQL-to-SQL handoff, the SLA on follow-up, the feedback loop on lead quality, the shared dashboard. In B2B, marketing's output is sales' input. A real [b2b fractional CMO services](/blog/fractional-cmo-services/) engagement always includes fixing this seam.
 
 Sixth, pipeline metrics, not vanity. Sourced opportunities by segment, opportunity velocity, win rate by source, CAC payback by channel. Reported weekly. Tied to revenue.
 
@@ -55,9 +55,9 @@ Sixth, pipeline metrics, not vanity. Sourced opportunities by segment, opportuni
 
 B2B SaaS adds another dimension. Recurring revenue means churn becomes a marketing signal. If customers leave at month three, marketing acquired the wrong customers, and the fix is upstream in targeting and messaging, not downstream in success calls.
 
-Product-led versus sales-led growth changes the playbook materially. In a product-led motion, trial-to-paid conversion is a marketing-owned metric. The job extends into onboarding, activation emails, in-app messaging, feature adoption. In a sales-led motion, marketing's job is sourcing qualified opportunities and arming sales with the right content for the committee. A [fractional cmo for b2b](/blog/fractional-cmo-for-saas) SaaS understands which motion you're actually running and stops trying to bolt on the wrong one.
+Product-led versus sales-led growth changes the playbook materially. In a product-led motion, trial-to-paid conversion is a marketing-owned metric. The job extends into onboarding, activation emails, in-app messaging, feature adoption. In a sales-led motion, marketing's job is sourcing qualified opportunities and arming sales with the right content for the committee. A [fractional cmo for b2b](/blog/fractional-cmo-for-saas/) SaaS understands which motion you're actually running and stops trying to bolt on the wrong one.
 
-Onboarding is part of the funnel. The first 14 days of usage often determine whether a $20K/year customer becomes a $200K/year customer. That's marketing territory, even if it sits in the product team's backlog. For more on the metrics and motions that change once recurring revenue enters the picture, see this breakdown of a [SaaS-specific fractional CMO](/blog/saas-fractional-cmo).
+Onboarding is part of the funnel. The first 14 days of usage often determine whether a $20K/year customer becomes a $200K/year customer. That's marketing territory, even if it sits in the product team's backlog. For more on the metrics and motions that change once recurring revenue enters the picture, see this breakdown of a [SaaS-specific fractional CMO](/blog/saas-fractional-cmo/).
 
 ## What to look for when hiring a B2B fractional CMO
 
@@ -71,7 +71,7 @@ Four specific things, all B2B-focused.
 
 **Four, a framework for sales and marketing alignment.** They should describe, on the spot, how they'd structure the marketing-sales handoff in your business. Pipeline review cadence. SLA on follow-up. Closed-loop reporting. If they look surprised by the question, they've been advising, not operating.
 
-[How to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo) goes deeper on the general process, but for B2B specifically, those four are the filters that matter.
+[How to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) goes deeper on the general process, but for B2B specifically, those four are the filters that matter.
 
 ## Common B2B marketing mistakes a good fractional CMO fixes fast
 
@@ -83,7 +83,7 @@ Four specific things, all B2B-focused.
 
 **Skipping the sales-marketing alignment conversation.** A founder who hires marketing leadership and doesn't insist on monthly pipeline reviews with sales has misunderstood the job.
 
-For more on what to expect from a senior marketing operator at this stage, the post on [b2b marketing leadership](/blog/what-does-a-fractional-cmo-do) goes into operating cadence and weekly output. The same principles also apply to professional services with buying-committee dynamics, see [fractional CMO for law firms](/blog/fractional-cmo-law-firms) for how the model adapts when the buyer is a partnership, and [fractional CMO for healthcare](/blog/fractional-cmo-healthcare) for how those same long, multi-stakeholder cycles play out under regulatory constraints.
+For more on what to expect from a senior marketing operator at this stage, the post on [b2b marketing leadership](/blog/what-does-a-fractional-cmo-do/) goes into operating cadence and weekly output. The same principles also apply to professional services with buying-committee dynamics, see [fractional CMO for law firms](/blog/fractional-cmo-law-firms/) for how the model adapts when the buyer is a partnership, and [fractional CMO for healthcare](/blog/fractional-cmo-healthcare/) for how those same long, multi-stakeholder cycles play out under regulatory constraints.
 
 ---
 
@@ -103,7 +103,7 @@ A B2B fractional CMO operates against pipeline, CAC, LTV, and sales-cycle metric
 
 ### How much does a B2B fractional CMO cost?
 
-[B2B fractional CMO rates](/blog/fractional-cmo-rates) typically run $8,000–20,000 per month depending on experience and time commitment. For a two-day-per-week engagement with a senior B2B SaaS operator, budget $10,000–15,000 monthly. Six- to twelve-month engagements are standard, putting the total in the $60,000–180,000 range, substantially less than a full-time CMO.
+[B2B fractional CMO rates](/blog/fractional-cmo-rates/) typically run $8,000–20,000 per month depending on experience and time commitment. For a two-day-per-week engagement with a senior B2B SaaS operator, budget $10,000–15,000 monthly. Six- to twelve-month engagements are standard, putting the total in the $60,000–180,000 range, substantially less than a full-time CMO.
 
 ### When should a B2B SaaS company hire a fractional CMO?
 

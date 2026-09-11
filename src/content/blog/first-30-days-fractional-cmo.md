@@ -61,7 +61,7 @@ Week three is where information becomes judgment.
 
 The CMO identifies the three highest-leverage changes. Not ten, not a transformation roadmap: three. Part of that work is separating what is actually broken from what is merely unoptimized, because those demand completely different responses. Broken things get stopped. Unoptimized things get scheduled.
 
-Then the 90-day action plan gets built: what gets done first, second, and third, and the reasoning behind the sequence. If you are still deciding between candidates, the questions in my guide on [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo) will tell you whether someone can actually do this synthesis step, because it is the step that separates operators from project managers.
+Then the 90-day action plan gets built: what gets done first, second, and third, and the reasoning behind the sequence. If you are still deciding between candidates, the questions in my guide on [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) will tell you whether someone can actually do this synthesis step, because it is the step that separates operators from project managers.
 
 Week three ends with the first real presentation to the founder: here is what I found, here is what it costs you, here is what we do about it and in what order. A good version of this meeting is mildly uncomfortable. If everything the CMO found is flattering, they did not look hard enough.
 
@@ -73,7 +73,7 @@ Now things ship, and they ship aimed.
 
 **Dashboards and attribution set up properly.** So that from month two onward, every decision is made against numbers everyone trusts.
 
-**Team briefings.** The team gets aligned on the new direction, what is stopping, what is starting, and why. This is leadership work, and it is a core part of the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities) that distinguish the role from a contractor.
+**Team briefings.** The team gets aligned on the new direction, what is stopping, what is starting, and why. This is leadership work, and it is a core part of the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) that distinguish the role from a contractor.
 
 **The first real initiative begins.** The top item from the 90-day plan starts moving, with the next month already sequenced behind it.
 
@@ -90,20 +90,20 @@ The fractional CMO first month has failure modes, and they all look like product
 
 **Green flags:** lots of questions, immediate and broad access requests, requests to talk to your customers, and findings that make you slightly uncomfortable. Discomfort means they found something real.
 
-**Red flags:** immediate execution with no questions asked, vague status reports, zero uncomfortable findings, and a confident "here's the plan" in week one. A plan delivered before the audit is a template, not a strategy. I covered the full scope of the role in [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do) if you want the baseline to compare against.
+**Red flags:** immediate execution with no questions asked, vague status reports, zero uncomfortable findings, and a confident "here's the plan" in week one. A plan delivered before the audit is a template, not a strategy. I covered the full scope of the role in [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do/) if you want the baseline to compare against.
 
 ## How to support your fractional CMO in the first 30 days
 
-You are not a passenger in this month. The real pre-flight check happens before day one even matters: confirm you weren't in one of the [six situations where you should wait](/blog/when-not-to-hire-a-fractional-cmo), because no diagnostic month can rescue an engagement that should not have started yet. Assuming the timing is right, the single highest-leverage thing you can do is hand over [a proper fractional CMO brief](/blog/fractional-cmo-brief) before day one, which compresses the diagnostic by handing over your business context faster than any interview can. Beyond that, four things make the diagnostic faster and sharper:
+You are not a passenger in this month. The real pre-flight check happens before day one even matters: confirm you weren't in one of the [six situations where you should wait](/blog/when-not-to-hire-a-fractional-cmo/), because no diagnostic month can rescue an engagement that should not have started yet. Assuming the timing is right, the single highest-leverage thing you can do is hand over [a proper fractional CMO brief](/blog/fractional-cmo-brief/) before day one, which compresses the diagnostic by handing over your business context faster than any interview can. Beyond that, four things make the diagnostic faster and sharper:
 
 1. **Give access to everything immediately.** Every day of waiting on a login is a day of diagnosis lost.
 2. **Block real time for the founder interview.** Ninety minutes, no Slack, no reschedule.
 3. **Introduce them to the team as a leader, not a consultant.** The team's candor in weeks one and two determines the quality of the team assessment.
 4. **Resist the urge to redirect before the audit is done.** If you pull them onto this week's fire, you trade the diagnosis for a Band-Aid.
 
-The founder who called me at week three? At week five, his CMO presented the audit: one channel quietly eating 40 percent of the budget for almost no pipeline, a website saying something customers never said, and three fixes sequenced over 90 days. The "expensive listener" had found six figures of waste by listening. If you run a software business and want to see how this plays out in that context specifically, I wrote a full breakdown of the [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) engagement model.
+The founder who called me at week three? At week five, his CMO presented the audit: one channel quietly eating 40 percent of the budget for almost no pipeline, a website saying something customers never said, and three fixes sequenced over 90 days. The "expensive listener" had found six figures of waste by listening. If you run a software business and want to see how this plays out in that context specifically, I wrote a full breakdown of the [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) engagement model.
 
-That feeling at week three, when nothing visible has shipped and the doubt creeps in? In a well-run engagement, that is not a warning sign. That is what diagnosis looks like from the outside. It is a green flag wearing a disguise. Once the diagnostic is done and the work starts shipping, [measuring ROI in the first 90 days](/blog/fractional-cmo-roi) is how you confirm the engagement is paying off before revenue moves.
+That feeling at week three, when nothing visible has shipped and the doubt creeps in? In a well-run engagement, that is not a warning sign. That is what diagnosis looks like from the outside. It is a green flag wearing a disguise. Once the diagnostic is done and the work starts shipping, [measuring ROI in the first 90 days](/blog/fractional-cmo-roi/) is how you confirm the engagement is paying off before revenue moves.
 
 ---
 

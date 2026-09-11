@@ -51,13 +51,13 @@ They **understand the difference between DTC health, healthtech SaaS, and life s
 
 And they **know which growth tactics create legal exposure and which do not.** That knowledge is the whole value in the story I opened with. The consumer CMO did not lack skill. He lacked the map of where the mines were.
 
-If you want the broader picture of how a senior operator structures an engagement, my breakdown of [fractional CMO services](/blog/fractional-cmo-services) covers the strategy, execution, and leadership layers that apply in any industry, healthcare included.
+If you want the broader picture of how a senior operator structures an engagement, my breakdown of [fractional CMO services](/blog/fractional-cmo-services/) covers the strategy, execution, and leadership layers that apply in any industry, healthcare included.
 
 ## The healthcare sub-verticals, and how they differ
 
 "Healthcare" is not one market. A fractional CMO who says they do healthcare should be able to tell you which of these they actually know, because the differences are the job.
 
-**Healthtech SaaS,** selling software to providers and health systems, is B2B with long cycles and an ROI-driven buyer. The marketing looks closer to enterprise software than to medicine, but it carries data-privacy weight that ordinary SaaS does not. This is the closest neighbor to my [fractional CMO for SaaS](/blog/fractional-cmo-for-saas) work, with a compliance layer bolted through the middle of it.
+**Healthtech SaaS,** selling software to providers and health systems, is B2B with long cycles and an ROI-driven buyer. The marketing looks closer to enterprise software than to medicine, but it carries data-privacy weight that ordinary SaaS does not. This is the closest neighbor to my [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) work, with a compliance layer bolted through the middle of it.
 
 **Digital health and DTC,** selling directly to patients, is consumer marketing conducted inside health constraints. You get to use consumer craft, but privacy law and claim substantiation fence off large parts of the standard consumer toolkit.
 
@@ -73,7 +73,7 @@ If you are evaluating candidates, four filters separate the real ones from the c
 
 Look for **actual healthcare marketing experience,** not general B2B experience with a healthcare logo somewhere in the deck. Ask what they marketed, to whom, and under which rules. Look for **understanding of the regulatory framework for your specific sub-vertical,** not healthcare in the abstract, because HIPAA fluency does not imply FDA fluency. Look for a **track record of compliant growth,** results delivered inside the constraints rather than in spite of them, and ask them to walk you through a campaign that legal approved and that still performed. And look for genuine **comfort working with compliance and legal teams,** because the operator who resents that partnership will eventually route around it, and that is precisely how the story I opened with happens.
 
-For the full hiring process beyond the healthcare-specific filters, I have written a general guide on [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo) that covers the interview, the trial, and the red flags.
+For the full hiring process beyond the healthcare-specific filters, I have written a general guide on [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) that covers the interview, the trial, and the red flags.
 
 ## Why generalists struggle in healthcare
 
@@ -81,7 +81,7 @@ The founder in my opening story believed something reasonable and expensive: tha
 
 The crack in the belief is this. In healthcare, the constraints are not a filter you apply to the strategy. They are the strategy. You cannot design the growth plan and then run it past compliance, because compliance is not a checkpoint, it is the terrain the plan is built on. Bolt it on afterward and you get exactly what that founder got: brilliant work that has to be pulled down.
 
-Generalists struggle for three predictable reasons. They import tactics that create regulatory risk, because those tactics were safe everywhere they worked before. They underestimate how long trust takes to build with clinical audiences, so they optimize for speed in a market that rewards patience. And they chase metrics that do not translate, a cheap lead in a category where the wrong lead costs more than no lead at all. This is a specific case of the broader [B2B fractional CMO](/blog/b2b-fractional-cmo) reality, where long cycles and buying committees already punish consumer instincts, and healthcare simply raises the stakes on getting it wrong.
+Generalists struggle for three predictable reasons. They import tactics that create regulatory risk, because those tactics were safe everywhere they worked before. They underestimate how long trust takes to build with clinical audiences, so they optimize for speed in a market that rewards patience. And they chase metrics that do not translate, a cheap lead in a category where the wrong lead costs more than no lead at all. This is a specific case of the broader [B2B fractional CMO](/blog/b2b-fractional-cmo/) reality, where long cycles and buying committees already punish consumer instincts, and healthcare simply raises the stakes on getting it wrong.
 
 The resolution to the story is not that the founder needed a more talented marketer. He had a talented marketer. He needed one whose talent had been shaped by the rules of his industry, someone for whom compliance was not a surprise at 11pm but the first thing considered at the first meeting. That is what a healthcare fractional CMO is: the same seniority, pointed at a board where the constraints are the game.
 

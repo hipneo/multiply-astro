@@ -13,7 +13,7 @@ Here's the full breakdown so you can budget properly and ask the right questions
 
 **Fractional CMO rates typically range from $150–$350 per hour, or $5,000–$10,000 per month on a retainer engagement. A one-time diagnostic engagement costs $3,000–$5,000 flat. Rates vary based on experience, scope, industry, and time commitment, but expect to pay significantly less than the $200,000–$300,000 total compensation of a full-time CMO.**
 
-If you're still figuring out [what a fractional CMO is](/blog/what-is-a-fractional-cmo) before you compare prices, that pillar covers the role definition, engagement models, and how it differs from consultants and agencies.
+If you're still figuring out [what a fractional CMO is](/blog/what-is-a-fractional-cmo/) before you compare prices, that pillar covers the role definition, engagement models, and how it differs from consultants and agencies.
 
 ---
 
@@ -31,7 +31,7 @@ Hourly makes sense for one-off advisory calls, specific deliverables with a defi
 
 ### Monthly Retainer: $5,000–$10,000/month
 
-This is the standard model. A monthly retainer defines the scope upfront, hours per week, which layer of the work (strategic, execution, leadership, or all three), and what outcomes you're targeting. For a full picture of [what a fractional CMO does for that fee](/blog/what-does-a-fractional-cmo-do) on a week-to-week basis, that's worth reviewing before you scope an engagement.
+This is the standard model. A monthly retainer defines the scope upfront, hours per week, which layer of the work (strategic, execution, leadership, or all three), and what outcomes you're targeting. For a full picture of [what a fractional CMO does for that fee](/blog/what-does-a-fractional-cmo-do/) on a week-to-week basis, that's worth reviewing before you scope an engagement.
 
 At **$5,000–$6,500/month**: approximately two days per week. Strategy and leadership heavy, setting direction, managing vendors, running the weekly founder sync, reviewing key outputs. The execution layer runs through contractors you either have or the fractional CMO brings in.
 
@@ -75,7 +75,7 @@ At $2M ARR, that's 11–15% of your revenue going to one person. And that person
 
 A fractional retainer at $7,500/month costs $90,000 per year. No equity. No benefits overhead. No severance exposure. Starts in days, not months. Brings pattern recognition from twenty companies at your stage instead of needing to build that understanding from scratch.
 
-For the full [fractional vs full-time CMO cost comparison](/blog/fractional-cmo-vs-full-time-cmo), including the flexibility argument and the hybrid path, that's worth reading before you make the call.
+For the full [fractional vs full-time CMO cost comparison](/blog/fractional-cmo-vs-full-time-cmo/), including the flexibility argument and the hybrid path, that's worth reading before you make the call.
 
 The crossover point where full-time starts to make sense: around $8–10M ARR, when you have a full marketing team to manage, a budget above $500K, and enough complexity to justify the cost and attention of a fully embedded executive.
 
@@ -89,7 +89,7 @@ A mid-market SEO agency charges $5,000–$12,000/month. A paid media agency mana
 
 So you might be spending $12,000–$25,000/month across agencies, each owning their lane, none of them connecting their work to your revenue outcome. Nobody asking whether the SEO articles are attracting the right buyer. Nobody questioning whether the paid campaign lands on a page that converts.
 
-A fractional CMO at $7,500/month doesn't replace all of that. But they own the picture. They brief the agencies, hold them accountable, and redirect budget when one lane outperforms another. The [full breakdown of fractional CMO services](/blog/fractional-cmo-services) makes clear what they coordinate and what they hand off.
+A fractional CMO at $7,500/month doesn't replace all of that. But they own the picture. They brief the agencies, hold them accountable, and redirect budget when one lane outperforms another. The [full breakdown of fractional CMO services](/blog/fractional-cmo-services/) makes clear what they coordinate and what they hand off.
 
 The comparison isn't fractional CMO vs agencies. It's fractional CMO plus right-sized agencies vs. agencies without anyone to point them in the right direction. The second option costs more and produces less.
 
@@ -113,9 +113,9 @@ The right frame: "What's the return if this works?"
 
 If your average contract value is $24,000 and a fractional CMO helps you close one additional enterprise deal per month, the engagement pays for itself six times over. If your CAC is $4,000 and they reduce it by 30%, from $4,000 to $2,800, and you're acquiring 20 customers per month, that's $24,000/month in acquisition savings. Against a $7,500 retainer, that's a 3.2x return before accounting for anything else they do.
 
-The founders who get the most from fractional engagements treat it as an investment with a specific expected return. Before starting, we agree on: what does success look like at 90 days? What's the CAC target? What trial-to-paid conversion rate would justify this? Those numbers exist. We can define them. And we measure against them. For the full framework on [measuring the ROI of your fractional CMO](/blog/fractional-cmo-roi), including the leading indicators to track in each of the first three months, that post breaks it down phase by phase.
+The founders who get the most from fractional engagements treat it as an investment with a specific expected return. Before starting, we agree on: what does success look like at 90 days? What's the CAC target? What trial-to-paid conversion rate would justify this? Those numbers exist. We can define them. And we measure against them. For the full framework on [measuring the ROI of your fractional CMO](/blog/fractional-cmo-roi/), including the leading indicators to track in each of the first three months, that post breaks it down phase by phase.
 
-For a detailed breakdown of [how much does a fractional CMO cost](/blog/fractional-cmo-cost), including what you get at each tier and what drives price within a range, that's the next thing worth reading. If you're a senior marketer looking at these numbers from the other side of the table, [becoming a fractional CMO](/blog/how-to-become-a-fractional-cmo) covers how to set pricing, package the role, and land the first client, and the dedicated framework on [how to set your own fractional CMO rate](/blog/fractional-cmo-rate) walks through arriving at your number without underpricing.
+For a detailed breakdown of [how much does a fractional CMO cost](/blog/fractional-cmo-cost/), including what you get at each tier and what drives price within a range, that's the next thing worth reading. If you're a senior marketer looking at these numbers from the other side of the table, [becoming a fractional CMO](/blog/how-to-become-a-fractional-cmo/) covers how to set pricing, package the role, and land the first client, and the dedicated framework on [how to set your own fractional CMO rate](/blog/fractional-cmo-rate/) walks through arriving at your number without underpricing.
 
 ---
 

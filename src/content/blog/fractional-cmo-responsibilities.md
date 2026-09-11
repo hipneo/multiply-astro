@@ -39,7 +39,7 @@ Four categories of ownership. This is the practical list of fractional cmo respo
 
 **Reporting and leadership.** Weekly sync with the founder or CEO, focused on decisions rather than status. Monthly review with real numbers and explicit interpretation. Dashboard and KPI ownership at the function level. Board-level marketing representation when needed. The reporting layer keeps marketing connected to the business case it serves.
 
-If you want a deeper view of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do) inside that ownership scope, that post breaks down the day-to-day cadence in detail. The [fractional CMO services](/blog/fractional-cmo-services) breakdown covers the three layers (strategy, execution, leadership) in service terms. Almost all of this cadence runs as a [remote fractional CMO](/blog/fractional-cmo-near-me) engagement, on weekly calls and in shared documents, which is why location has nothing to do with who owns these responsibilities well.
+If you want a deeper view of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do/) inside that ownership scope, that post breaks down the day-to-day cadence in detail. The [fractional CMO services](/blog/fractional-cmo-services/) breakdown covers the three layers (strategy, execution, leadership) in service terms. Almost all of this cadence runs as a [remote fractional CMO](/blog/fractional-cmo-near-me/) engagement, on weekly calls and in shared documents, which is why location has nothing to do with who owns these responsibilities well.
 
 ## What a fractional CMO does NOT own
 
@@ -63,7 +63,7 @@ Most fractional CMO engagements that underperform fail in exactly this gap, and 
 
 The pattern: the founder hires expecting someone to "take marketing off my plate," then keeps the decision rights, the approval power, the relationships with agencies and writers. The CMO can advise, plan, attend calls, write strategy. They cannot move fast, because every move requires founder blessing. The team does not know who to listen to, because the previous leader is still visibly in the role.
 
-The fix is an explicit, written agreement about what the CMO decides alone, what they decide with founder input but their own authority, and what they decide jointly. The cleanest place to set this down is a [fractional CMO brief](/blog/fractional-cmo-brief) written before the engagement starts, with a dedicated section on decision rights. I run this in week one of every engagement. If we do not get it right in the first month, the next five are expensive theater.
+The fix is an explicit, written agreement about what the CMO decides alone, what they decide with founder input but their own authority, and what they decide jointly. The cleanest place to set this down is a [fractional CMO brief](/blog/fractional-cmo-brief/) written before the engagement starts, with a dedicated section on decision rights. I run this in week one of every engagement. If we do not get it right in the first month, the next five are expensive theater.
 
 On the CMO's side of the line: copy approvals, vendor selection within a defined budget, weekly priorities, freelancer briefings, channel test decisions, attribution methodology. Joint: positioning changes affecting the brand, hiring above a budget threshold, channel investments above a spend threshold.
 
@@ -73,7 +73,7 @@ When the line is clear, the engagement compounds. When it is not, both parties s
 
 The same role looks different in month one and month six. Four phases.
 
-**Month 1: mostly diagnostic.** Observing, talking to customers, reading the data, talking to the existing team. Output looks thin because most of the work is internal. The deliverable at the end of the month is a written diagnostic and a 90-day plan tied to revenue. I've broken down [what happens in the first 30 days](/blog/first-30-days-fractional-cmo) week by week if you want the full detail.
+**Month 1: mostly diagnostic.** Observing, talking to customers, reading the data, talking to the existing team. Output looks thin because most of the work is internal. The deliverable at the end of the month is a written diagnostic and a 90-day plan tied to revenue. I've broken down [what happens in the first 30 days](/blog/first-30-days-fractional-cmo/) week by week if you want the full detail.
 
 **Month 2-3: building systems and first execution.** Vendors briefed, dashboards set up, the first repositioned campaign goes live, the team operating against a clear plan. Founders sometimes panic here because results have not arrived yet. The systems produce the results in the next phase.
 
@@ -83,13 +83,13 @@ The same role looks different in month one and month six. Four phases.
 
 ## For marketers considering this role
 
-If you are looking at this list and thinking about [becoming a fractional CMO](/blog/how-to-become-a-fractional-cmo) yourself, or want a clearer picture of [fractional CMO jobs and career path](/blog/fractional-cmo-jobs) (how the market actually works, what it pays, and where the work comes from), those posts cover the practitioner-side reality. Once you know what you own, [how to price your services](/blog/fractional-cmo-rate) is the next decision to get right. Here is the part the role descriptions skip.
+If you are looking at this list and thinking about [becoming a fractional CMO](/blog/how-to-become-a-fractional-cmo/) yourself, or want a clearer picture of [fractional CMO jobs and career path](/blog/fractional-cmo-jobs/) (how the market actually works, what it pays, and where the work comes from), those posts cover the practitioner-side reality. Once you know what you own, [how to price your services](/blog/fractional-cmo-rate/) is the next decision to get right. Here is the part the role descriptions skip.
 
-You are signing up to be accountable for outcomes you do not fully control. The team is contractors you do not manage as employees. The budget is set by someone else. The product can change underneath you. The founder may or may not surrender the approvals you need to move. None of that excuses you from the pipeline number at the end of the quarter. And being accountable for the outcome sometimes means telling a founder their problem is not marketing at all, which is [the real job of a fractional CMO](/blog/turned-down-10k-fractional-cmo) even when it costs you the engagement.
+You are signing up to be accountable for outcomes you do not fully control. The team is contractors you do not manage as employees. The budget is set by someone else. The product can change underneath you. The founder may or may not surrender the approvals you need to move. None of that excuses you from the pipeline number at the end of the quarter. And being accountable for the outcome sometimes means telling a founder their problem is not marketing at all, which is [the real job of a fractional CMO](/blog/turned-down-10k-fractional-cmo/) even when it costs you the engagement.
 
 That is harder than it sounds, and it is also the reason the role is interesting. You are paid for judgment, pattern recognition, and the ability to make a system work under conditions that would frustrate a more conventional executive. If that sounds appealing, it is the right role. If it sounds exhausting, it probably is not.
 
-For the broader hiring framework (founder side), [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo) covers the criteria that produce engagements where the handover actually works.
+For the broader hiring framework (founder side), [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) covers the criteria that produce engagements where the handover actually works.
 
 ---
 
