@@ -83,7 +83,7 @@ A CMO who knows the politics on day one navigates them. A CMO who learns them by
 - Who to contact to get each one set up.
 - Any security or compliance requirements.
 
-Mundane, and the highest-leverage section of all. Every day spent waiting on a login is a day of diagnosis lost. Have this ready before day one and the engagement starts moving immediately.
+Mundane, and the highest-leverage section of all. Every day spent waiting on a login is a day of diagnosis lost. Have this ready before day one and the engagement starts moving immediately. Writing the document is only half the job, and [the first-week handoff plan](/blog/fractional-cmo-onboarding/) covers the week that turns it into a running engagement.
 
 ## What makes a fractional CMO brief bad
 

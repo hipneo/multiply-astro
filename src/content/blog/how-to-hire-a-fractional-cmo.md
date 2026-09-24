@@ -127,7 +127,7 @@ The founder who hired the beautiful-deck CMO eventually did hire again. The seco
 
 Eighteen months later, her pipeline is three times what it was. Same market, same product. Different operational layer.
 
-The right hire changes the trajectory. The wrong one costs you six months and $60,000 and leaves you back at zero. The difference between them is almost never visible in the initial interviews, it's visible in the questions you ask, the process you run, and whether you're optimizing for impressive or operational.
+The right hire changes the trajectory. The wrong one costs you six months and $60,000 and leaves you back at zero. The difference between them is almost never visible in the initial interviews, it's visible in the questions you ask, the process you run, and whether you're optimizing for impressive or operational. Once the contract is signed the work moves to your side of the table, so the next thing to get right is how to [onboard them without wasting the first month](/blog/fractional-cmo-onboarding/).
 
 ---
 

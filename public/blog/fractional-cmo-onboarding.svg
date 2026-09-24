@@ -1,0 +1,77 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F9F8F5"/>
+
+  <!-- Faint editorial grid -->
+  <line x1="0" y1="315" x2="1200" y2="315" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+  <line x1="600" y1="0" x2="600" y2="630" stroke="#1C1C1A" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- ══ LEFT: the founder, solid, holding the context ══ -->
+  <rect x="150" y="150" width="210" height="300" fill="#1C1C1A" opacity="0.9" rx="3"/>
+  <rect x="180" y="186" width="120" height="11" fill="#F9F8F5" opacity="0.85" rx="1.5"/>
+  <rect x="180" y="208" width="84" height="7" fill="#F9F8F5" opacity="0.32" rx="1"/>
+  <g fill="#F9F8F5" opacity="0.26">
+    <rect x="180" y="244" width="150" height="6" rx="1"/>
+    <rect x="180" y="258" width="132" height="6" rx="1"/>
+    <rect x="180" y="272" width="150" height="6" rx="1"/>
+    <rect x="180" y="286" width="108" height="6" rx="1"/>
+  </g>
+  <!-- locked context: a small closed keyhole block -->
+  <rect x="180" y="322" width="150" height="86" fill="none" stroke="#9B2335" stroke-width="1.25" opacity="0.55" rx="3"/>
+  <circle cx="255" cy="356" r="9" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.7"/>
+  <rect x="252.5" y="364" width="5" height="16" fill="#9B2335" opacity="0.7" rx="1"/>
+
+  <!-- ══ SIX HANDOFF CHANNELS, opening left to right ══ -->
+  <g>
+    <!-- each: crimson line from founder to CMO with an arrow terminal -->
+    <line x1="360" y1="188" x2="820" y2="188" stroke="#9B2335" stroke-width="2" opacity="0.85"/>
+    <path d="M820 188 l-11 -5.5 v11 z" fill="#9B2335" opacity="0.85"/>
+    <circle cx="360" cy="188" r="4" fill="#9B2335" opacity="0.85"/>
+
+    <line x1="360" y1="234" x2="820" y2="234" stroke="#9B2335" stroke-width="2" opacity="0.7"/>
+    <path d="M820 234 l-11 -5.5 v11 z" fill="#9B2335" opacity="0.7"/>
+    <circle cx="360" cy="234" r="4" fill="#9B2335" opacity="0.7"/>
+
+    <line x1="360" y1="280" x2="820" y2="280" stroke="#9B2335" stroke-width="2" opacity="0.55"/>
+    <path d="M820 280 l-11 -5.5 v11 z" fill="#9B2335" opacity="0.55"/>
+    <circle cx="360" cy="280" r="4" fill="#9B2335" opacity="0.55"/>
+
+    <line x1="360" y1="326" x2="820" y2="326" stroke="#9B2335" stroke-width="2" opacity="0.42"/>
+    <path d="M820 326 l-11 -5.5 v11 z" fill="#9B2335" opacity="0.42"/>
+    <circle cx="360" cy="326" r="4" fill="#9B2335" opacity="0.42"/>
+
+    <!-- last two still pending: dashed, unresolved -->
+    <line x1="360" y1="372" x2="790" y2="372" stroke="#1C1C1A" stroke-width="1.5" opacity="0.2" stroke-dasharray="7 7"/>
+    <circle cx="360" cy="372" r="4" fill="#1C1C1A" opacity="0.2"/>
+    <line x1="360" y1="418" x2="742" y2="418" stroke="#1C1C1A" stroke-width="1.5" opacity="0.13" stroke-dasharray="7 7"/>
+    <circle cx="360" cy="418" r="4" fill="#1C1C1A" opacity="0.13"/>
+  </g>
+
+  <!-- ══ RIGHT: the CMO, outline filling in as the handoff lands ══ -->
+  <rect x="840" y="150" width="210" height="300" fill="none" stroke="#1C1C1A" stroke-width="1.5" opacity="0.45" rx="3"/>
+  <!-- filled portion = context received (top four channels) -->
+  <rect x="840" y="150" width="210" height="196" fill="#9B2335" opacity="0.07" rx="3"/>
+  <rect x="870" y="186" width="120" height="11" fill="#9B2335" opacity="0.6" rx="1.5"/>
+  <rect x="870" y="208" width="84" height="7" fill="#1C1C1A" opacity="0.3" rx="1"/>
+  <g fill="#1C1C1A" opacity="0.28">
+    <rect x="870" y="244" width="150" height="6" rx="1"/>
+    <rect x="870" y="258" width="132" height="6" rx="1"/>
+    <rect x="870" y="272" width="150" height="6" rx="1"/>
+    <rect x="870" y="286" width="108" height="6" rx="1"/>
+  </g>
+  <!-- not yet received -->
+  <g fill="none" stroke="#1C1C1A" opacity="0.12" stroke-width="1">
+    <rect x="870" y="362" width="150" height="6" rx="1"/>
+    <rect x="870" y="380" width="120" height="6" rx="1"/>
+    <rect x="870" y="398" width="138" height="6" rx="1"/>
+  </g>
+
+  <!-- ══ THE WEEK: five day markers, day one active ══ -->
+  <line x1="150" y1="512" x2="1050" y2="512" stroke="#1C1C1A" stroke-width="0.75" opacity="0.14"/>
+  <g>
+    <rect x="150" y="500" width="24" height="24" fill="#9B2335" rx="3"/>
+    <rect x="366" y="504" width="16" height="16" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.6" rx="2.5"/>
+    <rect x="582" y="504" width="16" height="16" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.45" rx="2.5"/>
+    <rect x="798" y="504" width="16" height="16" fill="none" stroke="#9B2335" stroke-width="1.5" opacity="0.3" rx="2.5"/>
+    <rect x="1026" y="504" width="16" height="16" fill="none" stroke="#1C1C1A" stroke-width="1.5" opacity="0.18" rx="2.5"/>
+  </g>
+</svg>
