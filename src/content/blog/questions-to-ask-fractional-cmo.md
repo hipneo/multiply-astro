@@ -1,6 +1,6 @@
 ---
 title: '5 Questions to Ask a Fractional CMO Before You Hire'
-description: 'The right questions to ask a fractional CMO in a discovery call reveal more than any resume. Here are the 5 that separate operators from advisors before you sign anything.'
+description: 'The right questions in a discovery call reveal more than any resume. Here are the five that separate real operators from advisors before you sign anything.'
 pubDate: '2026-06-17'
 author: 'Liviu'
 heroImage: '/blog/questions-to-ask-fractional-cmo.png'

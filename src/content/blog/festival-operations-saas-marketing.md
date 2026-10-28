@@ -1,6 +1,6 @@
 ---
-title: 'What Running a Music Festival Taught Me About SaaS Marketing Operations'
-description: 'I ran one of Romania''s biggest international music festivals, 40 departments, multi-million euro budgets, 80%+ NPS. Here''s what it taught me about scaling a SaaS marketing operation.'
+title: 'What a Music Festival Taught Me About Marketing Operations'
+description: 'I ran one of Romania''s biggest music festivals: 40 departments, multi-million euro budgets, 80%+ NPS. Three operating habits that transfer right to SaaS.'
 pubDate: '2026-04-23'
 author: 'Liviu'
 heroImage: '/blog/festival-operations.png'

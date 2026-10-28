@@ -1,6 +1,6 @@
 ---
-title: 'Fractional CMO for Healthcare: Marketing Leadership That Understands Compliance and Trust'
-description: 'Healthcare marketing is uniquely constrained by regulation, trust, and long decision cycles. A fractional CMO with healthcare experience navigates what generalists can''t.'
+title: 'Fractional CMO for Healthcare: Compliance and Trust First'
+description: 'Healthcare marketing is constrained by regulation, trust and long decision cycles. Here is what a fractional CMO does differently, across four niches.'
 pubDate: '2026-07-14'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-healthcare.png'

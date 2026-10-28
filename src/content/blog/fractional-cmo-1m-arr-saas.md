@@ -1,6 +1,6 @@
 ---
 title: 'Fractional CMO for $1M ARR SaaS: What to Focus On First'
-description: 'At $1M ARR, hiring a fractional CMO is about focus, not scale. Here''s exactly what the first priorities should be, and the mistakes that waste the engagement.'
+description: 'At $1M ARR, hiring a fractional CMO is about focus, not scale. Here are the first three priorities, in order, and the mistakes that waste the engagement.'
 pubDate: '2026-07-28'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-1m-arr-saas.png'

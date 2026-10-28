@@ -1,6 +1,6 @@
 ---
-title: 'I Failed on Amazon for Four Years. Here''s What It Taught Me About SaaS Marketing.'
-description: 'I launched a private label cosmetics brand on Amazon in 2012 and ran it for four years before it slowly died. The lessons from that failure made me a better CMO than any success could have.'
+title: 'I Failed on Amazon for Four Years. Here''s What I Learned.'
+description: 'I launched a private label cosmetics brand on Amazon in 2012 and ran it for four years before it died. Three lessons that made me a better SaaS CMO later.'
 pubDate: '2026-06-01'
 author: 'Liviu'
 heroImage: '/blog/amazon-failure-saas-marketing.png'

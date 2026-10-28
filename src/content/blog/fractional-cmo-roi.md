@@ -1,6 +1,6 @@
 ---
-title: 'How to Measure Fractional CMO ROI: A 90-Day Framework'
-description: 'Most founders don''t know how to measure whether their fractional CMO is working. Here''s a practical 90-day framework for fractional CMO ROI with specific metrics, milestones, and red flags.'
+title: 'Fractional CMO ROI: The 90-Day Measurement Framework'
+description: 'Most founders cannot tell whether their fractional CMO is working. Here is the 90-day ROI framework, phase by phase, with the metrics that really matter.'
 pubDate: '2026-06-15'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-roi.png'

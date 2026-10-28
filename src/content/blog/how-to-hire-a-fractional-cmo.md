@@ -1,6 +1,6 @@
 ---
-title: 'How to Hire a Fractional CMO: A Founder''s Complete Guide (2026)'
-description: 'Hiring a fractional CMO is one of the highest-leverage decisions a SaaS founder can make, if you hire right. Here''s exactly what to look for, what to avoid, and how to structure the engagement.'
+title: 'How to Hire a Fractional CMO: 5 Criteria and 5 Red Flags'
+description: 'Hiring a fractional CMO is high leverage if you hire right. The five criteria that matter, five red flags, and the process from discovery to retainer.'
 pubDate: '2026-04-24'
 author: 'Liviu'
 heroImage: '/blog/how-to-hire-fractional-cmo.png'

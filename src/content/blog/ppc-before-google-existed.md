@@ -1,6 +1,6 @@
 ---
-title: 'I Was Buying PPC Ads Before Google Existed, Here''s What It Taught Me About SaaS Marketing'
-description: 'In 1998 I was spending hundreds of thousands on goto.com from Romania. Here''s what 30 years of paid acquisition taught me that still applies to SaaS marketing today.'
+title: 'I Was Buying PPC Ads Before Google Existed'
+description: 'In 1998 I was spending hundreds of thousands on goto.com from Romania. Here is what 30 years of paid acquisition taught me that still applies to SaaS.'
 pubDate: '2026-04-13'
 author: 'Liviu'
 heroImage: '/blog/ppc-before-google.png'

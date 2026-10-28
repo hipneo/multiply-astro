@@ -1,6 +1,6 @@
 ---
 title: 'Fractional CMO for Law Firms: Why Marketing Directors Fail'
-description: 'Law firms need sophisticated marketing leadership but rarely justify a full-time CMO. A fractional CMO gives you senior strategy and execution at 20-30% of the cost.'
+description: 'Most law firms need senior marketing leadership but rarely justify a full-time CMO. Why marketing directors keep failing, and what a fractional CMO costs.'
 pubDate: '2026-04-28'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-law-firms.png'

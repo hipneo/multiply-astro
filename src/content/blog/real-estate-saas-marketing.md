@@ -1,6 +1,6 @@
 ---
 title: 'What Selling 700 Apartments Taught Me About SaaS Marketing'
-description: 'I built and sold 700+ apartments before I ever worked in SaaS. The lessons from real estate development made me a better CMO than any marketing job could have.'
+description: 'I built and sold 700+ apartments before I ever worked in SaaS. Three lessons from real estate development that made me a better CMO than any marketing job.'
 pubDate: '2026-05-06'
 author: 'Liviu'
 heroImage: '/blog/real-estate-saas-marketing.png'

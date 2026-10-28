@@ -1,5 +1,5 @@
 ---
-title: 'Fractional CMO Near Me: Why Location Doesn''t Matter (And What Does)'
+title: 'Fractional CMO Near Me: Why Location Doesn''t Matter'
 description: 'Searching "fractional CMO near me"? The best fractional CMOs work remotely, and that''s a feature, not a bug. Here''s what actually matters when hiring one.'
 pubDate: '2026-06-03'
 author: 'Liviu'

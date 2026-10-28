@@ -1,6 +1,6 @@
 ---
 title: 'Fractional CMO Portfolio: What to Look For Before You Hire'
-description: 'How to read a fractional CMO portfolio like someone who builds them: what a real case study contains, the red flags behind glossy logo walls, and the questions that separate marketers from self-marketers.'
+description: 'How to read a fractional CMO portfolio like someone who builds them: what a real case study contains, the red flags to catch, and five questions to ask.'
 pubDate: '2026-09-09'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-portfolio.png'

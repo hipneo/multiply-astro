@@ -1,6 +1,6 @@
 ---
-title: 'Fractional CMO vs Head of Marketing: Which One Does Your SaaS Company Actually Need?'
-description: 'A fractional CMO and a head of marketing are not interchangeable. One owns strategy and outcomes. The other executes within a system. Here''s how to decide which you need and when.'
+title: 'Fractional CMO vs Head of Marketing: Strategy or Hands?'
+description: 'A fractional CMO and a head of marketing are not interchangeable. One owns strategy, the other owns execution. Five questions decide which one you need.'
 pubDate: '2026-07-07'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-vs-head-of-marketing.png'

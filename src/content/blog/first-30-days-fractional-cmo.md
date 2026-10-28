@@ -1,6 +1,6 @@
 ---
-title: 'The First 30 Days With a Fractional CMO: What to Expect Week by Week'
-description: 'Most founders don''t know what a fractional CMO should actually be doing in the first month. Here''s the exact week-by-week breakdown of the first 30 days, and what it means if they''re not doing it.'
+title: 'Fractional CMO First 30 Days: What Happens Week by Week'
+description: 'Most founders do not know what a fractional CMO should be doing in month one. Here is the exact week-by-week breakdown, and what it means if they are not.'
 pubDate: '2026-06-10'
 author: 'Liviu'
 heroImage: '/blog/first-30-days-fractional-cmo.png'

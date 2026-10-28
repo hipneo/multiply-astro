@@ -1,6 +1,6 @@
 ---
-title: "I Turned Down $10,000/Month. Here's Why a Real Fractional CMO Sometimes Says No."
-description: "A Series A founder offered me $10K/month. I said no, because their problem wasn't marketing. Here's what that decision taught me about what the fractional CMO role actually is."
+title: 'I Turned Down $10,000 a Month From a Series A Founder'
+description: 'A Series A founder offered me $10K a month. I said no, because their problem was not marketing. Here is what that decision taught me about the real job.'
 pubDate: '2026-07-03'
 author: 'Liviu'
 heroImage: '/blog/turned-down-10k-fractional-cmo.png'

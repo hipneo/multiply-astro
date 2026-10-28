@@ -1,6 +1,6 @@
 ---
-title: 'Fractional CMO Agency vs Independent Fractional CMO: 7 Differences That Matter'
-description: 'A fractional CMO agency gives you a team. An independent fractional CMO gives you accountability. Here''s how to decide which is right for your stage and budget.'
+title: 'Fractional CMO Agency vs Independent: 7 Key Differences'
+description: 'A fractional CMO agency gives you a team. An independent one gives you accountability. Seven differences that matter, and how to pick for your own stage.'
 pubDate: '2026-05-21'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-agency.png'

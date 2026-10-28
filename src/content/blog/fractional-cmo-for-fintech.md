@@ -1,6 +1,6 @@
 ---
-title: 'Fractional CMO for Fintech: Marketing When Compliance Has a Veto'
-description: 'A fractional CMO for fintech works differently: compliance reviews every claim, trust is the product, and sales cycles run long. Here''s what the role actually involves for B2B fintech.'
+title: 'Fractional CMO for Fintech: When Compliance Has a Veto'
+description: 'In fintech, compliance reviews every claim, trust is the product, and cycles run long. Here is what a fractional CMO actually does inside those limits.'
 pubDate: '2026-09-01'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-for-fintech.png'
