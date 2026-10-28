@@ -89,7 +89,7 @@ A real marketing post-mortem asks: what did we ship, what did we predict, what h
 
 The combination of strategic thinking and operational discipline is genuinely rare. Most CMOs think strategically and delegate execution. Most COOs understand operations but aren't in the marketing function. The gap between them is where most $1–5M SaaS marketing efforts live, and die.
 
-[Fractional CMO services](/blog/fractional-cmo-services/) that are worth the investment aren't just about building a marketing plan. They're about installing the coordination layer, the operational doc, the brief culture, the post-mortem practice, the dashboard that tracks the right things, so the plan can actually be executed without falling apart on contact with the team.
+[Fractional CMO services](/blog/what-does-a-fractional-cmo-do/) that are worth the investment aren't just about building a marketing plan. They're about installing the coordination layer, the operational doc, the brief culture, the post-mortem practice, the dashboard that tracks the right things, so the plan can actually be executed without falling apart on contact with the team.
 
 This is the unfair advantage most agencies and freelancers can't provide, and won't tell you you're missing. It's easier to sell campaigns than coordination. It's more lucrative to stay in the creative lane than to solve the structural problem. The result is companies spending more on tactics while the underlying coordination failure quietly compounds.
 

@@ -66,7 +66,7 @@ The hardest line to write is the number one problem. Most founders want to list 
 - Sacred cows: channels, campaigns, or people that are off-limits, and why.
 - Brand guidelines or messaging rules they need to respect.
 
-This is the section founders skip, and skipping it is expensive. Without it the CMO makes reasonable assumptions that turn out to be wrong, and you spend the savings from the brief unwinding them. The decision-rights line in particular prevents the most common source of early friction. For more on where that authority should sit, see [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/).
+This is the section founders skip, and skipping it is expensive. Without it the CMO makes reasonable assumptions that turn out to be wrong, and you spend the savings from the brief unwinding them. The decision-rights line in particular prevents the most common source of early friction. For more on where that authority should sit, see [fractional CMO responsibilities](/blog/what-does-a-fractional-cmo-do/).
 
 ### Section 5: Key relationships
 

@@ -75,7 +75,7 @@ Then compare across candidates on the same five questions. The rankings will oft
 
 ## The one question to ask yourself
 
-Before you decide, ask yourself one thing: am I more impressed by how they sound, or by what they have actually done? Those are not the same, and the gap between them is where bad six-month hires come from. The candidate who fumbles a buzzword but answers every specificity question with a real number is the one who will still be delivering when the polish has worn off. That clarity carries straight into the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo/), and it shapes whether they can actually own the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) you are hiring for.
+Before you decide, ask yourself one thing: am I more impressed by how they sound, or by what they have actually done? Those are not the same, and the gap between them is where bad six-month hires come from. The candidate who fumbles a buzzword but answers every specificity question with a real number is the one who will still be delivering when the polish has worn off. That clarity carries straight into the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo/), and it shapes whether they can actually own the [fractional CMO responsibilities](/blog/what-does-a-fractional-cmo-do/) you are hiring for.
 
 The founder from the start of this post hired someone else. The person he chose was less smooth on the call and far more specific in every answer. Eighteen months later that hire was still running his marketing. He has used the same five questions on every hire since.
 

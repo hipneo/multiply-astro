@@ -73,7 +73,7 @@ Now things ship, and they ship aimed.
 
 **Dashboards and attribution set up properly.** So that from month two onward, every decision is made against numbers everyone trusts.
 
-**Team briefings.** The team gets aligned on the new direction, what is stopping, what is starting, and why. This is leadership work, and it is a core part of the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) that distinguish the role from a contractor.
+**Team briefings.** The team gets aligned on the new direction, what is stopping, what is starting, and why. This is leadership work, and it is a core part of the [fractional CMO responsibilities](/blog/what-does-a-fractional-cmo-do/) that distinguish the role from a contractor.
 
 **The first real initiative begins.** The top item from the 90-day plan starts moving, with the next month already sequenced behind it.
 

@@ -49,17 +49,11 @@ These distinctions matter because the wrong category produces the wrong outcome.
 
 The weekly reality: thirty minutes on Monday for a founder sync with a one-page brief sent ahead. Two or three hours managing the team, briefing the writer, reviewing the paid ads report, approving creative. A block of strategic work, positioning rewrite, channel test plan, pipeline review with sales. A monthly review at the end of the month. Repeat.
 
-The work is not glamorous. It is not deck-heavy. It is owning the marketing function operationally and producing measurable outcomes against agreed metrics. [What a fractional CMO does](/blog/what-does-a-fractional-cmo-do/) goes into the day-to-day cadence in detail, and the [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) breakdown covers what they own versus what they don't, including the handover problem most founders get wrong.
+The work is not glamorous. It is not deck-heavy. It is owning the marketing function operationally and producing measurable outcomes against agreed metrics. [What a fractional CMO does](/blog/what-does-a-fractional-cmo-do/) goes into the day-to-day cadence in detail, and the [fractional CMO responsibilities](/blog/what-does-a-fractional-cmo-do/) breakdown covers what they own versus what they don't, including the handover problem most founders get wrong.
 
 ## The three engagement models
 
-Three standard structures.
-
-**Growth Diagnostic ($3,000–$5,000).** A 2–4 week paid engagement: customer interviews, funnel audit, competitive landscape, analytics review, positioning assessment, written 90-day recommendation. No ongoing execution. Often the right entry point, produces clarity and gives the founder a credible read on the operator before committing. It mirrors the diagnostic work of the [first 30 days with a fractional CMO](/blog/first-30-days-fractional-cmo/) in a full engagement.
-
-**Fractional CMO Retainer ($5,000–$10,000/month).** The full engagement: 2–3 days per week, ongoing strategy and execution leadership, team management, weekly cadence with the CEO, monthly reviews. Six- to twelve-month minimums standard. For current [fractional CMO rates](/blog/fractional-cmo-rates/) by tier, that post goes deeper.
-
-**Advisory Retainer ($2,500–$4,000/month).** Half-a-day to a day per week of strategic input plus monthly reviews. Works for companies with an internal marketing team that lacks the strategic layer above it. Does not work as a substitute for execution leadership.
+Three standard structures: a **Growth Diagnostic**, a fixed-fee 2–4 week project that produces a written 90-day plan with no ongoing execution; a **Fractional CMO Retainer**, the full engagement at 2–3 days per week with ongoing strategy and execution leadership; and an **Advisory Retainer**, strategic input and monthly reviews for a company whose team can already execute. What each one costs, which tier fits which situation, and what moves the price inside each range is broken down tier by tier in the [fractional CMO cost and rates](/blog/fractional-cmo-cost/) guide.
 
 The most common mistake: hiring at the advisory tier and expecting retainer-level outcomes. At four hours per week, even the best operator cannot run a marketing function.
 
@@ -89,15 +83,11 @@ These ranges are guidelines, not laws. A $700K company in a complex regulated sp
 
 **Vs VP of Marketing.** A VP is more execution-focused and reports to a CMO or CEO. A fractional CMO replaces or precedes a VP, sets the strategic direction the VP will eventually own. At $1–5M ARR, hiring a VP without strategic leadership above them often produces tactical effort with no architecture. The same logic applies to a Head of Marketing hire; the [fractional CMO vs head of marketing](/blog/fractional-cmo-vs-head-of-marketing/) comparison lays out exactly when each one is the right call.
 
-For comprehensive coverage across engagement layers, [fractional CMO services](/blog/fractional-cmo-services/) breaks down the strategy, execution, and leadership components.
+For comprehensive coverage across engagement layers, [fractional CMO services](/blog/what-does-a-fractional-cmo-do/) breaks down the strategy, execution, and leadership components.
 
 ## What a fractional CMO costs
 
-Three pricing tiers, a real range across each. Diagnostic engagements: $3,000–$5,000 for a 2–4 week project. Full retainers: $5,000–$10,000/month for a 2–3 day per week engagement, with the most experienced operators charging $10,000–$15,000+. Advisory retainers: $2,500–$4,000/month for half-a-day-per-week strategic input.
-
-Total annual investment for a typical fractional retainer: $60,000–$120,000. Compared to a full-time CMO at $200,000–$300,000 in total compensation plus recruiting cost (often $30,000–$50,000 with executive search), the fractional model is roughly 60–70% cheaper.
-
-For a complete tier-by-tier breakdown of [fractional CMO cost](/blog/fractional-cmo-cost/) and what each band typically buys, that post is the operational reference. It also covers contract structures, minimum engagement lengths, and the diagnostic model as a low-risk entry point.
+Retainers run $5,000–$10,000 a month, with advisory arrangements below that and one-time diagnostics priced as a flat fee. Against a permanent hire the model is substantially cheaper, though the comparison involves hiring time, ramp time, equity and severance exposure as much as salary, which is why the [fractional CMO vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo/) breakdown is the right place for that math rather than a paragraph here. For the full tier-by-tier pricing picture, including contract structures, minimum engagement lengths, and the diagnostic as a low-risk entry point, see [fractional CMO cost and rates](/blog/fractional-cmo-cost/).
 
 ## How to hire a fractional CMO
 
@@ -123,7 +113,7 @@ The role specialises in interesting ways. The same operating model produces diff
 
 **Fractional CMO for SaaS.** The most common application. Recurring revenue dynamics, trial-to-paid conversion, churn as a marketing signal, PLG vs sales-led motions. The [fractional CMO for SaaS](/blog/fractional-cmo-for-saas/) post is the foundational read for software companies.
 
-**SaaS fractional CMO.** A subtle but important distinction, the [SaaS fractional CMO](/blog/saas-fractional-cmo/) post focuses specifically on operating-system fluency: the ARR-stage-specific work, the SaaS-specific playbook, why domain experience reduces ramp time materially.
+**SaaS fractional CMO.** A subtle but important distinction, the [SaaS fractional CMO](/blog/fractional-cmo-for-saas/) post focuses specifically on operating-system fluency: the ARR-stage-specific work, the SaaS-specific playbook, why domain experience reduces ramp time materially.
 
 **B2B fractional CMO.** Buying committees, longer sales cycles, LinkedIn-led organic, sales-marketing alignment. The [B2B fractional CMO](/blog/b2b-fractional-cmo/) breakdown explains why B2B and B2C are different sports entirely.
 
@@ -141,7 +131,7 @@ The fractional model is not new, fractional CFOs have existed for over two decad
 
 First, the gig economy reached senior talent. Executives who would historically have only considered W-2 roles started accepting that fractional work could provide both income and autonomy. Second, COVID broke the geography assumption, remote work dramatically expanded the pool of senior fractional operators. Third, the 2022–2024 financing environment forced founders to think harder about cost structure; a $250K CMO at a $2M ARR SaaS became financially impractical for many. The lasting effect of that second shift is that [location doesn't matter for a fractional CMO](/blog/fractional-cmo-near-me/): the role is delivered through video calls, documents, and dashboards, so the best hire is the most relevant operator, not the nearest one.
 
-The result: a model that was niche in 2018 became mainstream by 2024. Fractional executive roles, especially in marketing, are now the default for early-stage and mid-sized companies that need senior leadership without a permanent commitment. For the practitioner side of this shift, [how to become a fractional CMO](/blog/how-to-become-a-fractional-cmo/) covers what the transition looks like from inside.
+The result: a model that was niche in 2018 became mainstream by 2024. Fractional executive roles, especially in marketing, are now the default for early-stage and mid-sized companies that need senior leadership without a permanent commitment. For the practitioner side of this shift, [how to become a fractional CMO](/blog/fractional-cmo-jobs/) covers what the transition looks like from inside.
 
 ## Common misconceptions
 
@@ -197,7 +187,7 @@ A fractional CMO sets the marketing strategy, manages the team and external vend
 
 ### How much does a fractional CMO cost?
 
-Three pricing tiers: Growth Diagnostic ($3,000–$5,000 for a 2–4 week project), Fractional CMO Retainer ($5,000–$10,000/month for 2–3 days per week, with senior operators at $10,000–$15,000+), and Advisory Retainer ($2,500–$4,000/month). Total annual investment for a typical retainer: $60,000–$120,000, roughly 60–70% less than a full-time CMO at $200,000–$300,000 total compensation.
+A fractional CMO retainer runs $5,000–$10,000 a month, with advisory arrangements priced below that and one-time diagnostics charged as a flat project fee rather than monthly. What you pay inside those ranges depends on scope, hours, and how many channels are under management. The tier-by-tier breakdown is in the [fractional CMO cost and rates](/blog/fractional-cmo-cost/) guide.
 
 ### When should I hire a fractional CMO?
 
@@ -257,7 +247,7 @@ Fractional is permanent part-time, an ongoing engagement at 2–3 days per week.
       "name": "How much does a fractional CMO cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Three pricing tiers: Growth Diagnostic ($3,000–$5,000 for a 2–4 week project), Fractional CMO Retainer ($5,000–$10,000/month for 2–3 days per week, with senior operators at $10,000–$15,000+), and Advisory Retainer ($2,500–$4,000/month). Total annual investment for a typical retainer: $60,000–$120,000, roughly 60–70% less than a full-time CMO at $200,000–$300,000 total compensation."
+        "text": "A fractional CMO retainer runs $5,000–$10,000 a month, with advisory arrangements priced below that and one-time diagnostics charged as a flat project fee rather than monthly. What you pay inside those ranges depends on scope, hours, and how many channels are under management."
       }
     },
     {

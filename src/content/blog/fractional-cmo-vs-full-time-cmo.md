@@ -1,6 +1,6 @@
 ---
-title: 'Fractional CMO vs Full-Time CMO: Cost, Flexibility & When to Choose Each'
-description: 'A full-time CMO costs $200–300K and takes months to hire. A fractional CMO starts in days. Here''s how to decide which is right for your stage.'
+title: 'Fractional CMO vs Full-Time CMO: Cost, Speed and Risk'
+description: 'A full-time CMO costs $220K to $310K loaded and takes 3 to 6 months to hire. A fractional CMO starts in days. Compare cost, ramp time, flexibility and exit risk.'
 pubDate: '2026-04-03'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-vs-full-time.png'
@@ -49,7 +49,7 @@ A fractional CMO engagement starts in days, not months. There's no hiring proces
 
 **Speed:** A fractional CMO has done this before, at your stage, in your category. They don't need 90 days to audit everything before making a recommendation, they come in with pattern recognition from 20 previous engagements that look a lot like yours. The diagnostic is faster, the decisions are faster, the results are faster.
 
-**What you actually get:** This isn't advisory work. It's execution. Campaigns running, channels live, funnel instrumented, messaging fixed, team managed. The deliverable isn't a strategy document. It's a working marketing function. For a granular picture of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do/), the actual Monday-morning cadence, I've written that out in detail. For the [full scope of fractional CMO services](/blog/fractional-cmo-services/), strategy layer, execution layer, leadership layer, that's covered in a dedicated breakdown.
+**What you actually get:** This isn't advisory work. It's execution. Campaigns running, channels live, funnel instrumented, messaging fixed, team managed. The deliverable isn't a strategy document. It's a working marketing function. For a granular picture of [what a fractional CMO does week to week](/blog/what-does-a-fractional-cmo-do/), the actual Monday-morning cadence, I've written that out in detail. For the [full scope of fractional CMO services](/blog/what-does-a-fractional-cmo-do/), strategy layer, execution layer, leadership layer, that's covered in a dedicated breakdown.
 
 ---
 

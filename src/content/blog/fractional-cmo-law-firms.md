@@ -65,7 +65,7 @@ A senior fractional executive can sit above all four problems in a way an intern
 
 **Keeps the outside view.** Internal directors lose perspective within six to nine months. A fractional CMO working across multiple firms simultaneously holds the outside view that was the entire point of hiring marketing leadership.
 
-For more on engagement scope, see [fractional CMO services](/blog/fractional-cmo-services/), the law firm version is a specialised application of the same model.
+For more on engagement scope, see [fractional CMO services](/blog/what-does-a-fractional-cmo-do/), the law firm version is a specialised application of the same model.
 
 ## The specific services a law firm fractional CMO provides
 
@@ -83,7 +83,7 @@ A real engagement covers five areas.
 
 ## What to budget
 
-[Fractional CMO rates](/blog/fractional-cmo-rates/) for law firms typically run $5,000–10,000 per month for a 2–3 day per week engagement. Six- to twelve-month minimums are standard. Annual investment: $60,000–$120,000.
+[Fractional CMO rates](/blog/fractional-cmo-cost/) for law firms typically run $5,000–10,000 per month for a 2–3 day per week engagement. Six- to twelve-month minimums are standard. Annual investment: $60,000–$120,000.
 
 Compared to a full-time marketing director at $120K base plus benefits and tax loading, plus recruiting cost ($25K–40K with this role's turnover), the fractional model is materially cheaper and less risky.
 
@@ -119,7 +119,7 @@ Most firms below 50 partners don't need a full-time CMO, but they do need senior
 
 ### How much does a law firm CMO cost?
 
-A full-time CMO in a mid-sized firm runs $200,000–$300,000 in total compensation. A [law firm fractional CMO](/blog/fractional-cmo-rates/) at 2–3 days per week runs $5,000–10,000 per month, $60,000–$120,000 annually, for materially more senior experience. Cost difference: roughly 60–70% in favor of the fractional model.
+A [law firm fractional CMO](/blog/fractional-cmo-cost/) at 2–3 days per week runs $5,000–10,000 per month, $60,000–$120,000 annually, for materially more senior experience than a full-time marketing director at the same spend. Against a permanent CMO hire the saving is larger still, and the [fractional CMO vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo/) breakdown runs those numbers in full.
 
 ### What's the difference between a law firm marketing director and a fractional CMO?
 
@@ -147,7 +147,7 @@ Three months to diagnose and build strategy, six months for leading indicators (
       "name": "How much does a law firm CMO cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A full-time CMO in a mid-sized law firm typically costs $200,000–$300,000 in total compensation. A law firm fractional CMO at 2–3 days per week runs $5,000–10,000 per month, $60,000–$120,000 annually, for someone with materially more senior experience. The cost difference is roughly 60–70% in favor of the fractional model."
+        "text": "A law firm fractional CMO at 2–3 days per week runs $5,000–10,000 per month, $60,000–$120,000 annually, for someone with materially more senior experience than a full-time marketing director at the same spend. Against a permanent CMO hire the saving is larger still."
       }
     },
     {

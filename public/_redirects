@@ -18,6 +18,21 @@
 # it redirected to a target that re-matched the same rule, producing an
 # infinite loop. Missing slugs must 404 cleanly instead.
 
+# ─── Consolidation sprint Oct 2026: merged donors → survivors ───
+# Overlapping pages that split a single search intent. Each donor's unique
+# sections were ported into the survivor before retirement. No blanket
+# trailing-slash rule exists (see note above), so both forms are listed.
+/blog/fractional-cmo-rates             /blog/fractional-cmo-cost/                301
+/blog/fractional-cmo-rates/            /blog/fractional-cmo-cost/                301
+/blog/fractional-cmo-services          /blog/what-does-a-fractional-cmo-do/      301
+/blog/fractional-cmo-services/         /blog/what-does-a-fractional-cmo-do/      301
+/blog/fractional-cmo-responsibilities  /blog/what-does-a-fractional-cmo-do/      301
+/blog/fractional-cmo-responsibilities/ /blog/what-does-a-fractional-cmo-do/      301
+/blog/how-to-become-a-fractional-cmo   /blog/fractional-cmo-jobs/                301
+/blog/how-to-become-a-fractional-cmo/  /blog/fractional-cmo-jobs/                301
+/blog/saas-fractional-cmo              /blog/fractional-cmo-for-saas/            301
+/blog/saas-fractional-cmo/             /blog/fractional-cmo-for-saas/            301
+
 # ─── Host canonicalization: http → https, www → apex ───
 http://multiplycmo.com/*       https://multiplycmo.com/:splat  301!
 http://www.multiplycmo.com/*   https://multiplycmo.com/:splat  301!

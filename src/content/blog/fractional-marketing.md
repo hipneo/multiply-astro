@@ -39,7 +39,7 @@ It's also not consulting. A consultant diagnoses and advises. A fractional marke
 
 The model splits into three distinct shapes depending on what you actually need.
 
-**Fractional CMO.** The most senior configuration. The fractional CMO owns the entire marketing function, strategy, team, budget, channels, reporting. They run the weekly founder sync, manage the contractors and agencies, set the quarterly OKRs, and are accountable for the numbers at the end of every month. This is the model for a company that has nothing properly built yet and needs someone to build it. Most serious [fractional CMO services](/blog/fractional-cmo-services/) engagements run at $5,000–$10,000/month for 2–4 days per week.
+**Fractional CMO.** The most senior configuration. The fractional CMO owns the entire marketing function, strategy, team, budget, channels, reporting. They run the weekly founder sync, manage the contractors and agencies, set the quarterly OKRs, and are accountable for the numbers at the end of every month. This is the model for a company that has nothing properly built yet and needs someone to build it. This is the shape covered in detail under [what a fractional CMO does](/blog/what-does-a-fractional-cmo-do/), across the strategy, execution and leadership layers.
 
 **Fractional marketing director.** More execution-heavy than the CMO model. The fractional director manages the day-to-day, briefs the copywriter, reviews the ads, runs the A/B tests, reports on the funnel. They're less involved in the big strategic questions and more involved in making campaigns actually run. This configuration makes sense when the strategy already exists and the gap is execution capacity and management bandwidth.
 
@@ -105,7 +105,7 @@ Month two: build. The first channel goes live under a proper hypothesis. The lan
 
 Month three: signal. You have real data now, conversion rates, CAC by channel, trial-to-paid movement. The things that are working get more resource. The things that aren't get cut or rebuilt. By the end of month three, you have a machine that produces predictable signal. By month six, that signal compounds.
 
-For current [fractional CMO rates](/blog/fractional-cmo-rates/) and what drives cost within the range, that's worth reviewing before you start a conversation. For the full decision framework on [how to hire a fractional CMO](/blog/fractional-cmo-for-startups/), including whether you're ready, that's the right next read.
+For current [fractional CMO rates](/blog/fractional-cmo-cost/) and what drives cost within the range, that's worth reviewing before you start a conversation. For the full decision framework on [how to hire a fractional CMO](/blog/fractional-cmo-for-startups/), including whether you're ready, that's the right next read.
 
 ---
 
@@ -125,11 +125,11 @@ Fractional marketing is the practice of hiring a senior marketing leader on a pa
 
 **What does a fractional marketing executive do?**
 
-A fractional marketing executive sets positioning and go-to-market strategy, defines which channels to invest in, manages contractors and agencies, runs the weekly founder sync, sets quarterly OKRs tied to revenue, and reports on marketing performance at the leadership level. They direct the work rather than executing every task themselves. For a detailed breakdown, see the full overview of [fractional CMO services](/blog/fractional-cmo-services/).
+A fractional marketing executive sets positioning and go-to-market strategy, defines which channels to invest in, manages contractors and agencies, runs the weekly founder sync, sets quarterly OKRs tied to revenue, and reports on marketing performance at the leadership level. They direct the work rather than executing every task themselves. For a detailed breakdown, see the full overview of [fractional CMO services](/blog/what-does-a-fractional-cmo-do/).
 
 **How much does fractional marketing cost?**
 
-Fractional marketing engagements typically cost $3,000–$5,000 for a one-time diagnostic, $5,000–$10,000/month for a full fractional CMO retainer, and $2,500–$4,000/month for an advisory-only arrangement. This compares to $200,000–$300,000 in total annual compensation for a full-time CMO, making fractional 60–80% cheaper at the same strategic level.
+Cost tracks the model you pick: a full fractional CMO retainer is the most expensive shape, an advisory arrangement the least, and a one-time diagnostic sits outside the monthly structure as a flat project fee. All three are a fraction of a permanent executive hire. The tier-by-tier numbers are in the [fractional CMO cost and rates](/blog/fractional-cmo-cost/) guide, and the [fractional CMO vs full-time CMO](/blog/fractional-cmo-vs-full-time-cmo/) breakdown runs the comparison against a salaried hire properly.
 
 **What's the difference between fractional marketing and a marketing agency?**
 
@@ -165,7 +165,7 @@ Fractional marketing works best for companies between $500K and $8M ARR that hav
       "name": "How much does fractional marketing cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Fractional marketing engagements typically cost $3,000–$5,000 for a one-time diagnostic, $5,000–$10,000/month for a full fractional CMO retainer, and $2,500–$4,000/month for advisory-only. This compares to $200,000–$300,000 in total annual compensation for a full-time CMO, making fractional 60–80% cheaper."
+        "text": "Cost tracks the model you pick: a full fractional CMO retainer is the most expensive shape, an advisory arrangement the least, and a one-time diagnostic sits outside the monthly structure as a flat project fee. All three are a fraction of the cost of a permanent executive hire."
       }
     },
     {

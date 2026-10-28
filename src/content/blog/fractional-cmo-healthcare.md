@@ -51,7 +51,7 @@ They **understand the difference between DTC health, healthtech SaaS, and life s
 
 And they **know which growth tactics create legal exposure and which do not.** That knowledge is the whole value in the story I opened with. The consumer CMO did not lack skill. He lacked the map of where the mines were.
 
-If you want the broader picture of how a senior operator structures an engagement, my breakdown of [fractional CMO services](/blog/fractional-cmo-services/) covers the strategy, execution, and leadership layers that apply in any industry, healthcare included.
+If you want the broader picture of how a senior operator structures an engagement, my breakdown of [fractional CMO services](/blog/what-does-a-fractional-cmo-do/) covers the strategy, execution, and leadership layers that apply in any industry, healthcare included.
 
 ## The healthcare sub-verticals, and how they differ
 

@@ -27,7 +27,7 @@ This distinction, operator versus advisor, is the single most important one you'
 
 There is no certification for fractional CMOs. No licensing body, no minimum experience standard, no industry definition of what the role entails. Anyone who has spent a few years in marketing can declare themselves a fractional CMO tomorrow and start taking meetings.
 
-This means the market spans from genuinely experienced operators with decades of hands-on P&L responsibility to career consultants who have rebranded their advisory practice. From the outside, they often look identical: similar titles, similar LinkedIn summaries, similar pricing. (For the practitioner's view on [how fractional CMOs build their practice](/blog/how-to-become-a-fractional-cmo/), the path from senior marketer to fractional operator explains why the market looks the way it does.)
+This means the market spans from genuinely experienced operators with decades of hands-on P&L responsibility to career consultants who have rebranded their advisory practice. From the outside, they often look identical: similar titles, similar LinkedIn summaries, similar pricing. (For the practitioner's view on [how fractional CMOs build their practice](/blog/fractional-cmo-jobs/), the path from senior marketer to fractional operator explains why the market looks the way it does.)
 
 Understanding [what a fractional CMO actually does week to week](/blog/what-does-a-fractional-cmo-do/), and what distinguishes the operators from the advisors, is the only filter you have.
 
@@ -113,13 +113,13 @@ What they should not look like: mostly calls, mostly documents, no programs live
 
 ## What to budget when you hire a fractional CMO
 
-[Fractional CMO rates](/blog/fractional-cmo-rates/) typically run $8,000–20,000 per month depending on experience, time commitment, and scope. For a two-day-per-week engagement with a strong operator, budget $10,000–15,000 monthly. Most engagements run six to twelve months, so a $60,000–180,000 investment over the life of the engagement.
+[Fractional CMO rates](/blog/fractional-cmo-cost/) typically run $8,000–20,000 per month depending on experience, time commitment, and scope. For a two-day-per-week engagement with a strong operator, budget $10,000–15,000 monthly. Most engagements run six to twelve months, so a $60,000–180,000 investment over the life of the engagement.
 
 Significant, but substantially less than a full-time CMO at $200K+ salary plus equity plus benefits, and with far more flexibility to end or restructure if the business changes.
 
 The right comparison is not a freelancer. It's a full-time hire you can't yet justify, or a [marketing agency](/blog/fractional-marketing/) that charges comparable rates with less accountability and no strategic ownership of your outcomes. If you're torn between a strategic leader and a mid-level executor, the [fractional CMO vs head of marketing](/blog/fractional-cmo-vs-head-of-marketing/) breakdown makes that call clearer.
 
-For a full breakdown of [fractional CMO services and how to structure the engagement](/blog/fractional-cmo-services/), that post goes deeper on contracts, deliverables, and what to hold your CMO accountable for. For the [full scope of fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/), what they own versus what they don't, the dedicated breakdown lays out where the line should sit before you sign.
+For a full breakdown of [fractional CMO services and how to structure the engagement](/blog/what-does-a-fractional-cmo-do/), that post goes deeper on contracts, deliverables, and what to hold your CMO accountable for. For the [full scope of fractional CMO responsibilities](/blog/what-does-a-fractional-cmo-do/), what they own versus what they don't, the dedicated breakdown lays out where the line should sit before you sign.
 
 ---
 

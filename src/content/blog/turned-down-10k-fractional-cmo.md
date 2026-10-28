@@ -49,7 +49,7 @@ Most people in my position would have taken that money. Not because they are stu
 
 And six months later the founder looks up and realizes that his churn is exactly where it was, his burn is worse, and nothing fundamental changed. By then the consultant has collected sixty thousand dollars and is on to the next logo. The consultant was never accountable for the outcome. He was accountable for the activity. And activity is easy to manufacture.
 
-That is the quiet betrayal at the center of this industry. It looks like service. It is actually self preservation. The [fractional CMO responsibilities](/blog/fractional-cmo-responsibilities/) that matter are not "produce marketing." They are "produce results, and if marketing is not the lever that produces them, say so." Most people skip the second half because the second half does not pay.
+That is the quiet betrayal at the center of this industry. It looks like service. It is actually self preservation. The [fractional CMO responsibilities](/blog/what-does-a-fractional-cmo-do/) that matter are not "produce marketing." They are "produce results, and if marketing is not the lever that produces them, say so." Most people skip the second half because the second half does not pay.
 
 ## The mistake I already made once
 

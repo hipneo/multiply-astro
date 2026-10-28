@@ -63,7 +63,7 @@ Every channel has a learning curve and a threshold it has to cross before it wor
 
 Now watch what spreading thin does. Split your budget and attention across five channels, and none of them reaches its threshold. You get five channels all sitting in the money-losing zone, and you conclude that "marketing doesn't work," when the truth is you never funded any single channel to the point where it could.
 
-One channel at profitability funds the next. That is the sequence that compounds. The breakthrough from $1M to $3M does not come from breadth. It comes from depth, from taking one channel all the way to reliable profit and then, only then, using its cash to buy the next one. For a fuller picture of how a [SaaS fractional CMO](/blog/saas-fractional-cmo/) sequences this, the depth-over-breadth logic is the through-line.
+One channel at profitability funds the next. That is the sequence that compounds. The breakthrough from $1M to $3M does not come from breadth. It comes from depth, from taking one channel all the way to reliable profit and then, only then, using its cash to buy the next one. For a fuller picture of how a [SaaS fractional CMO](/blog/fractional-cmo-for-saas/) sequences this, the depth-over-breadth logic is the through-line.
 
 ## The 90-Day Plan for a $1M ARR SaaS Engagement
 

@@ -77,7 +77,7 @@ The core case, which fits most $1-5M ARR SaaS companies I work with.
 
 **You are at $1-5M ARR.** This is the stage where the math of an agency rarely works. Your budget is $5,000-10,000 per month. An agency at that price gives you a junior account manager and a recycled framework. An independent fractional CMO at that price gives you 15 years of operating experience and a direct line to the person responsible.
 
-**Budget is $5-10K/month.** Not enough for a full agency retainer with real seniority. Plenty for an experienced independent operator. The [fractional CMO rates](/blog/fractional-cmo-rates/) breakdown covers what each tier buys in detail.
+**Budget is $5-10K/month.** Not enough for a full agency retainer with real seniority. Plenty for an experienced independent operator. The [fractional CMO rates](/blog/fractional-cmo-cost/) breakdown covers what each tier buys in detail.
 
 The case I make to founders at this stage is straightforward: do not buy the appearance of a team when what you need is one person who is unambiguously responsible.
 
@@ -91,7 +91,7 @@ At a fractional cmo agency, the answer is structurally diffuse. The account mana
 
 With an independent fractional CMO, the answer is one word. Me. If you cannot get that answer from a provider, you are not buying accountability. You are buying activity.
 
-For the full hiring framework, [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) covers the diagnostic process, the reference checks, and the contract structure that makes the accountability real rather than implied. For the broader picture of what is included in either model, [fractional CMO services](/blog/fractional-cmo-services/) and [fractional marketing](/blog/fractional-marketing/) cover the engagement shapes at a more granular level.
+For the full hiring framework, [how to hire a fractional CMO](/blog/how-to-hire-a-fractional-cmo/) covers the diagnostic process, the reference checks, and the contract structure that makes the accountability real rather than implied. For the broader picture of what is included in either model, [fractional CMO services](/blog/what-does-a-fractional-cmo-do/) and [fractional marketing](/blog/fractional-marketing/) cover the engagement shapes at a more granular level.
 
 ---
 
