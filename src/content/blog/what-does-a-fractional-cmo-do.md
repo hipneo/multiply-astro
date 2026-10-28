@@ -1,6 +1,6 @@
 ---
 title: 'What Does a Fractional CMO Do? Scope, Layers and Limits'
-description: 'Founders expect strategy decks. Here is the week-by-week reality, the three layers a fractional CMO runs, what they own outright, and what they will not touch.'
+description: 'Founders expect strategy decks. Here is the week-by-week reality, the three layers a fractional CMO runs, what they own, and what they will not touch.'
 pubDate: '2026-04-10'
 updatedDate: '2026-10-28'
 author: 'Liviu'

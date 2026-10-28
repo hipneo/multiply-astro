@@ -1,6 +1,6 @@
 ---
 title: 'Fractional CMO vs Full-Time CMO: Cost, Speed and Risk'
-description: 'A full-time CMO costs $220K to $310K loaded and takes 3 to 6 months to hire. A fractional CMO starts in days. Compare cost, ramp time, flexibility and exit risk.'
+description: 'A full-time CMO costs $220K to $310K loaded and takes 3 to 6 months to hire. A fractional CMO starts in days. Compare cost, ramp, flexibility and risk.'
 pubDate: '2026-04-03'
 author: 'Liviu'
 heroImage: '/blog/fractional-cmo-vs-full-time.png'

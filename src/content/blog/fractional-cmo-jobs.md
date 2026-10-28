@@ -1,6 +1,6 @@
 ---
 title: 'Fractional CMO Jobs: How to Become One and What It Pays'
-description: 'Fractional CMO jobs are not on job boards. Here is how the market actually works, the six channels that produce clients, what it pays, and how to make the switch.'
+description: 'Fractional CMO jobs are not on job boards. Here is how the market really works, the six channels that produce clients, what it pays, and how to switch.'
 pubDate: '2026-06-05'
 updatedDate: '2026-10-28'
 author: 'Liviu'

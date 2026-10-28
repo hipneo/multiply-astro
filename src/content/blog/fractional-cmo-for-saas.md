@@ -1,6 +1,6 @@
 ---
 title: 'Fractional CMO for SaaS: Break the $1–5M ARR Plateau'
-description: 'SaaS growth stalls at $1–5M ARR. See why SaaS marketing is a different operating system, the six-stage funnel it runs on, and what domain fit actually buys you.'
+description: 'SaaS growth stalls at $1–5M ARR. See why SaaS marketing is a different operating system, the six-stage funnel it runs on, and what domain fit buys you.'
 pubDate: '2026-03-24'
 updatedDate: '2026-10-28'
 author: 'Liviu'

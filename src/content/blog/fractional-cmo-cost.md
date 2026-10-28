@@ -1,6 +1,6 @@
 ---
 title: 'Fractional CMO Cost and Rates: $5K to $10K in 2026'
-description: 'Fractional CMO cost runs $5,000 to $10,000 a month on retainer, or $150 to $350 an hour. Compare all four pricing models, and what drives the price inside each.'
+description: 'Fractional CMO cost runs $5,000 to $10,000 a month on retainer, or $150 to $350 an hour. Compare all four pricing models and what moves each one.'
 pubDate: '2026-03-28'
 updatedDate: '2026-10-28'
 author: 'Liviu'
